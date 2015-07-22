@@ -1,0 +1,43 @@
+site_name: IUEditor Manual
+pages:
+  - ['index.md', 'Home']
+  - ['Introduction/what-is-the-iueditor.md', '소개 Introduction', '아이유에디터가 뭐에요?']
+  - ['Introduction/environment.md', '소개 Introduction', '구동환경은?']
+  
+  - ['Features/top-tool-bar.md', '기본 기능 Basic Feature', '상단 툴바 Top Toolbar']
+  - ['Features/middle-tool-bar.md', '기본 기능 Basic Feature', '중앙 툴바 Middel Toolbar']
+  - ['Features/navigation.md', '기본 기능 Basic Feature', '네비게이션 Navigation']
+  - ['Features/canvas.md', '기본 기능 Basic Feature', '캔버스 Canvas']
+  
+  - ['Panel/resource-panel.md', '패널 Panel', '리소스 패널 Resource Panel']
+  - ['Panel/event-panel.md', '패널 Panel', '이벤트 패널 Event Panel']
+  - ['Panel/memo-panel.md', '패널 Panel', '메모 패널 Memo Panel']
+  - ['Panel/custom-code-panel.md', '패널 Panel', '커스텀 코드 패널 Custom Code Panel']
+  - ['Panel/import-widget-panel.md', '패널 Panel', '임포트 위젯 패널 Import Widget Panel']
+  
+  - ['Sheet/page.md', '시트 Sheet', '페이지 Page']
+  - ['Sheet/composition.md', '시트 Sheet', '컴포지션 Composition']
+
+  - ['Widget/basic.md', '위젯 Widget', '기본 위젯 Basic Widget']
+  - ['Widget/complex.md', '위젯 Widget', '복합 위젯 Complex Widget']
+  - ['Widget/programming.md', '위젯 Widget', '프로그래밍 위젯 Programming Widget']
+    
+  - ['Knownbug/known-bug.md', '알려진 버그 Known Bugs', '알려진 버그 리스트']
+
+  - ['Tutorial/tutorial.md', 'IUEditor Tutorial', 'IUEditor Tutorial']  
+  
+  - ['Appendix/appendix-templates.md', '부록 Appendix', '템플릿 Templates']  
+  - ['Appendix/appendix-shortcut.md', '부록 Appendix', '단축키 Shortcut']  
+  - ['Appendix/appendix-voca.md', '부록 Appendix', '용어 설명']
+  
+
+
+theme: readthedocs
+site_author: "iu@jdlab.org"
+repo_url: https://github.com/JDLabOrg/IUManual.git
+
+
+include_search : true
+include_nav : true
+include_next_prev : true
+use_directory_urls : false
