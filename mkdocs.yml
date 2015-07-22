@@ -34,8 +34,7 @@ pages:
 
 theme: readthedocs
 site_author: "iu@jdlab.org"
-repo_url: https://github.com/JDLabOrg/IUManual.git
-
+repo_url: https://github.com/JDLabOrg/IUManual-EN.git
 
 include_search : true
 include_nav : true
