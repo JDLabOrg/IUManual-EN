@@ -3,7 +3,7 @@
 
 
 Welcome to IUEditor<sup>Beta</sup> Manual.</br>
-You can download IUeditor from websites below.</br>
+You can download IUEditor from websites below.</br>
 </br>
 ###IUEditor Homepage: <a href="http://www.iueditor.org/" target="_blank">http://www.iueditor.org</a>###
 ###IUEditor Facebook Page (Korean) : <a href="https://www.facebook.com/iueditor" target="_blank">https://www.facebook.com/iueditor</a>###
