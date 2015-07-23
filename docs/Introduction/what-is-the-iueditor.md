@@ -1,5 +1,5 @@
 # What is IUEditor?
-IUEditor is Web-Editor Application which is type of WYSIWYG (What You See Is What You Get), operates on Mac OS X. For now, there are several web editing softwares but IUEditor has unique advantages.<br /><br />
+IUEditor is Web-Editor Application which type of WYSIWYG (What You See Is What You Get), operates on Mac OS X. IUEditor is optimized to simplify the complex process of design and development. <br /><br />
 
 *****
 ## Advantages
