@@ -2,8 +2,7 @@
 What is IUEditor?
 =================
 
-
-**IUEditor** is Web-Editor Application which type of **WYSIWYG** (What You See Is What You Get), operates on **Mac OS X**. **IUEditor** is optimized to simplify the complex process of design and development.
+**IUEditor** is optimized to simplify the complex process of design and development.
 
 
 Advantages
@@ -20,5 +19,5 @@ Values
 
 Software License Policy
 -----------------------
-* For Company, we offer a software license of IUEditor to $1,750. (Single License)
+* For Company, we offer a software license of IUEditor to $2,000. (Single License)
 * Anyone can use IUEditor but only for personal and non-commercial project. (IUEditor offers free user license until 30 September, 2015)
