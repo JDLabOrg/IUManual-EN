@@ -1,4 +1,8 @@
-.. _Go To Widget Property: ./widget_property.html
+.. _Structure : #structure
+.. _Page : #pages
+.. _Composition : #compositions
+
+
 
 
 Navigation
@@ -6,7 +10,7 @@ Navigation
 
 .. image:: resource/iu_manual_navigation.png
 
-**Navigation** area placed left of Canvas, and contains ``Structure``, ``Page``, ``Composition`` area.
+Navigation area is placed left-side of Canvas, and contains `Structure`_ , `Page`_ , `Composition`_ area.
 
 
 ----------
@@ -16,9 +20,9 @@ Navigation
 Structure
 ---------
 
-**Structure** area contains current page's structure. (``section``, ``header``, ``footer``, ``page content``, ``widget``, ...)
+Structure area consists of current page's structure. ( **section , header , footer , page content , widget** , ...)
 
-You can reorder, remove, rename, and hide widget in structure.
+You can **reorder, remove, rename, and hide** widget in structure.
 
 * ``Add New Popup`` : Add a Popup widget into current page.
 * ``Add New Panel`` : Add a panel widget into current page.
@@ -31,7 +35,22 @@ You can reorder, remove, rename, and hide widget in structure.
 
 
 Page
-----
+-------
 
-**Page** area contains current project's page list. 
+Page area consists of current project's page list. 
 
+
+----------
+
+Composition
+------------
+
+
+
+
+
+-----------
+
+
+References
+----------
