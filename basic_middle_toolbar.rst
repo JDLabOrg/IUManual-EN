@@ -67,9 +67,9 @@ Frame area consists of **input fields & stepper for width & height value** .
 Align
 -----
 
-Align area consists of **set vertical or horizontal align** buttons.
+Align area consists of **align vertical center** and **align horizontal center** buttons.
 
-.. note:: **set vertical align** will apply only **Position : Absolute** widgets.
+.. note:: **align vertical center** button will apply only **Position : Absolute** widgets.
 
 
 ----------
