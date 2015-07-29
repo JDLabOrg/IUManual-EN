@@ -55,7 +55,15 @@ You can download **IUEditor** from website below.
    panel_custom_code
    panel_import_widget
    panel_export_widget
+
    
+.. toctree::
+   :maxdepth: 2
+   :caption: Project
+   
+   project_type
+   project_setting
+
    
 .. toctree::
    :maxdepth: 2
