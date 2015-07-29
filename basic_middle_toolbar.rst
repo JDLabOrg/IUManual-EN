@@ -1,8 +1,10 @@
-.. _Widgets : #widget
-.. _Position : #position
-.. _Frame : #frame
-.. _Align : #align
-.. _Background-Color : #background-color
+.. _Go To Widget Property: ./widget_basic.html
+
+.. _Widgets : #id1
+.. _Position : #id2
+.. _Frame : #id3
+.. _Align : #id4
+.. _Background-Color : #id5
 
 
 Middle Toolbar
