@@ -19,7 +19,7 @@ Top Toolbar
 .. image:: resource/iu_manual_top_toolbar_command.png
 
 
-`Command <page.html#Command>`_
+`Command <./basic_top_toolbar.html#Command>`_
 ------------------------------
 
 Command Area consists of project-level features.
