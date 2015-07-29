@@ -1,4 +1,8 @@
-.. _Go To Widget Property: ./widget_property.html
+.. _Widgets : #widget
+.. _Position : #position
+.. _Frame : #frame
+.. _Align : #align
+.. _Background-Color : #background-color
 
 
 Middle Toolbar
@@ -6,7 +10,7 @@ Middle Toolbar
 
 .. image:: resource/iu_manual_middle_toolbar.png
 
-**Middle Toolbar** placed top of Canvas, and contains ``Widgets``, ``Position``, ``Frame``, ``Align``, ``Background-Color`` area.
+Middle Toolbar is placed top of Canvas and contains `Widgets`_ / `Position`_ / `Frame`_ / `Align`_ / `Background-Color`_ area.
 
 
 ----------
@@ -16,9 +20,13 @@ Middle Toolbar
 Widgets
 -------
 
-Widget area contains Widgets (``basic``, ``complex``, ``programming``).
+Widget area consists of Widgets ( **Basic , Complex , Programming** ). 
 
-You can add Widget into your canvas by activate Widget and click & drag on your Canvas.
+You can add widget to canvas by following steps below :
+
+1. Activate widget by clicking widget icons.
+2. Click & drag on IUEditor's canvas.
+
 
 `Go To Widget Property`_
 
@@ -30,13 +38,12 @@ You can add Widget into your canvas by activate Widget and click & drag on your 
 Position
 --------
 
-Position area contains input fields & stepper for ``x-position``, ``y-position``. 
+Position area consists of **input fields & stepper for X & Y position** . 
 
 
-* X posiition input field & Stepper : You can change **X** value by typing value into textfield or clicking stepper. (px or %)
-* Y posiition input field & Stepper : You can change **Y** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can change ``position``, ``overflow``, ``z-index`` properties in additional popup window.
+* ``X posiition input field & Stepper`` : You can change **X** value by typing value into textfield or clicking stepper. (px or %)
+* ``Y posiition input field & Stepper`` : You can change **Y** value by typing value into textfield or clicking stepper. (px or %)
+* ``Position Setting Popup`` : You can change **position, overflow, z-index** properties.
 
 
 ----------
@@ -45,12 +52,11 @@ Also, you can change ``position``, ``overflow``, ``z-index`` properties in addit
 Frame
 -----
 
-Frame area contains input fields & stepper for ``width``, ``height``. 
+Frame area consists of **input fields & stepper for width & height value** . 
 
-* Width input field & Stepper : You can change **Width** value by typing value into textfield or clicking stepper. (px or %)
-* Height input field & Stepper : You can change **Height** value by typing value into textfield or clicking stepper. (px or %)
-
-Also, you can set ``min-width``, ``max-width``, ``min-height``, ``max-height``, ``calc-width``, ``calc-height`` properties in additional popup window.
+* ``Width input field & Stepper`` : You can change **Width** value by typing value into textfield or clicking stepper. (px or %)
+* ``Height input field & Stepper`` : You can change **Height** value by typing value into textfield or clicking stepper. (px or %)
+* ``Frame Setting Popup`` : You can change **min-width , max-width , min-height , max-height , calc-width , calc-height** properties.
 
 
 ----------
@@ -59,8 +65,9 @@ Also, you can set ``min-width``, ``max-width``, ``min-height``, ``max-height``, 
 Align
 -----
 
-Align area contains ``set vertical align``, ``set horizontal align`` buttons.
-``set vertical align`` will apply only **Position : Absolute** widgets.
+Align area consists of **set vertical or horizontal align** buttons.
+
+.. note:: **set vertical align** will apply only **Position : Absolute** widgets.
 
 
 ----------
@@ -69,4 +76,4 @@ Align area contains ``set vertical align``, ``set horizontal align`` buttons.
 Background Color
 ----------------
 
-Background Color area contains ``background color`` button. You can input background color or gradient to selected widget.
+Background Color area consists of **set background color button, set gradient popup** . You can change background color or gradient to selected widget.
