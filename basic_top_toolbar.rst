@@ -1,6 +1,6 @@
-.. _Command : #command
-.. _Tab Menu : #tab-menu
-.. _Stage : #stage
+.. _Command : #id1
+.. _Tab Menu : #id2
+.. _Stage : #id3
 .. _Scenario Mode : ./advanced_scenario_mode.html
 
 
@@ -19,7 +19,7 @@ Top Toolbar
 .. image:: resource/iu_manual_top_toolbar_command.png
 
 
-`Command <./basic_top_toolbar.html#Command>`_
+Command_
 ------------------------------
 
 Command Area consists of project-level features.
