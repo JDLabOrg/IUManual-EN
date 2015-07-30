@@ -5,9 +5,7 @@
 Resource Panel
 =======================
 
-When you run **View > Resource (⇧⌘R)** menu, Resource Panel will be shown.
-
-You can import resources (image / video / clipart) into Resource Panel.
+When you run **View > Resource (⇧⌘R)** menu, Resource Panel will be shown. You can import resources (image / video / clipart) into Resource Panel.
 
 .. note :: Supported File Type : jpg / png / git / svg / mp4
 

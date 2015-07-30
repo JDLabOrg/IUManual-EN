@@ -1,55 +1,58 @@
-.. _커스텀 위젯 리스트 : #custom-widget-list
-.. _커스텀 위젯 정보 : #custom-widget-info
+.. _Custom Widget List : #id1
+.. _Custom Widget Info : #id2
 
 
 
 
-위젯 불러오기 패널 Import Widget Panel
+Import Widget Panel
 ==================================
 
-위젯 불러오기 패널은 아이유에디터 메뉴 **Project > Custom Widget** 항목을 실행하면 등장합니다. 사용자가 내보내기 Export 한 **커스텀 위젯 Custom Widget** 파일을 캔버스에 추가할 때 사용됩니다. **그리드 뷰 / 테이블 뷰** 2가지 뷰가 지원되며, 우측에는 `커스텀 위젯 정보`_ 가 보여집니다. 테이블 뷰 하단의 토글 버튼으로 상세 화면을 열고 닫을 수 있습니다. 
+When you run **Project > Custom Widgets (⇧⌘W)** menu, Import Widget Panel will be shown. You can import custom widgets (.iuw) into this panel. This panel supports Grid / Table view in Widget list.
+ 
 
 .. image:: resource/iu_manual_panel_import_widget.png
 
 
+
 ----------
 
 
-위젯 그룹 리스트 Widget Group List
+Widget Group List
 ----------------------------
 
-패널 좌측에는 커스텀 위젯의 그룹 리스트가 보여집니다. 각 그룹을 선택하면, 그룹에 해당되는 커스텀 위젯들만 `커스텀 위젯 리스트`_ 에서 볼 수 있습니다.
+Widget Group List is placed at the left side of panel. You can browse `Custom Widget List`_ by selecting Group name.
+
 
 
 ----------
 
 
-커스텀 위젯 리스트 Custom Widget List
+Custom Widget List
 -------------------------------
 
-패널 중앙에는 선택된 그룹에 해당되는 커스텀 위젯들이 보여집니다. 
+Custom Widget List is placed at the center of panel.
 
-* ``List / Grid View Toggle Button`` : **리스트 뷰 / 그리드 뷰** 를 전환할 수 있는 토글 버튼입니다.
-* ``Search Bar`` : 커스텀 위젯의 이름을 검색할 수 있습니다.
-* ``Import`` : 커스텀 위젯 파일을 불러옵니다.
-* ``Refresh`` : 리스트를 새로고침 합니다.
-* ``Open Folder`` : 커스텀 위젯 파일 폴더로 이동합니다.
-* ``Widget Info Toggle Button`` : `커스텀 위젯 정보`_ 을 껐다 켤 수 있는 토글 버튼입니다.
+* ``List / Grid View Toggle Button`` : Switches Grid & Table View.
+* ``Search Bar`` : Searches by custom widget name.
+* ``Import`` : Imports custom widget file(.iuw)
+* ``Refresh`` : Refreshes current widget list.
+* ``Open Folder`` : Opens custom widget folder.
+* ``Widget Info Toggle Button`` : Show or Hide `Custom Widget Info`_ area.
 
 
 ----------
 
 
-커스텀 위젯 정보 Custom Widget Info
+Custom Widget Info
 ------------------------------
 
-패널 우측에는 선택된 커스텀 위젯의 정보가 보여집니다. 
+Custom Widget Info is placed at the right side of panel.
 
-* ``Preview`` : 커스텀 위젯의 프리뷰를 보여줍니다.
-* ``Zoom In / Out`` : 프리뷰 화면을 줌 인 / 아웃 시킵니다.
-* ``Name`` : 커스텀 위젯의 파일 명입니다.
-* ``Group`` : 커스텀 위젯의 그룹 명입니다.
-* ``Description`` : 커스텀 위젯의 상세 설명입니다.
+* ``Preview`` : Shows preview of selected custom widget.
+* ``Zoom In / Out`` : Zoonm In or Out on preview.
+* ``Name`` : Displays name of selected custom widget.
+* ``Group`` : Displays group of selected custom widget.
+* ``Description`` : Displays description of selected custom widget.
 
 
 
