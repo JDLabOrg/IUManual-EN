@@ -77,6 +77,6 @@ References
 3. Type new name as you want
 4. Press **Enter Key**
 
-..note :: You can not use these name : **id / ifdef / default** 
+.. note :: You can not use these name : **id / ifdef / default** 
 
 
