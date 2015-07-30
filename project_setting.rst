@@ -1,7 +1,7 @@
-.. _Default : #id2
-.. _Meta : #id3
-.. _Build : #id4
-.. _Django : #id5
+.. _Default : #id1
+.. _Meta : #id2
+.. _Build : #id3
+.. _Django : #id4
 .. _Django Project : ./project_type.html#django-project
 
 
