@@ -1,4 +1,4 @@
-.. Tutorial 203 - Heroku : http://tutorial.iueditor.org/tuto02-magazine-part3.html
+.. _Tutorial 203 - Heroku : http://tutorial.iueditor.org/tuto02-magazine-part3.html
 
 Heroku Management
 ==========================
