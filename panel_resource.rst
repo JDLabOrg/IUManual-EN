@@ -1,5 +1,5 @@
 .. _Import Clipart : #id1
-
+.. _Image Widget : ./widget_basic.html#image
 
 
 Resource Panel
@@ -48,5 +48,5 @@ You can import clipart images that supported by IUEditor.
 Resource Management Tips
 ----------------------------
 
-* You can create groups and reorder resources.
-* You can insert image resource to widget by drag & drop into target widget.
+* You can create groups and reorder resources files.
+* You can insert image resource to widget by drag & drop into `Image Widget`_ .
