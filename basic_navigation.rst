@@ -54,7 +54,7 @@ Page area consists of current project's page list. You can **add, remove, and re
 Composition
 ------------
 
-Composition area consists of current project's composition list. You can *add, remove, and rename composition & group** .
+Composition area consists of current project's composition list. You can **add, remove, and rename composition & group** .
 
 * ``Add New Custom Composition Button`` : Adds new custom composition.
 * ``Add New Composition Button`` : Adds new composition.
