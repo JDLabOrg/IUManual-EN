@@ -42,7 +42,6 @@ You can download **IUEditor** from website below.
    
    advanced_scenario_mode
    advanced_heroku
-   advanced_project_setting
    
    
 .. toctree::
