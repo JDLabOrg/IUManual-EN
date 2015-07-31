@@ -30,7 +30,7 @@ Python web framework.
 Heroku
 --------------------
 
-Heroku is a cloud platform as a service supporting several programming languages. Heroku was acquired by Salesforce.com in 2010.
+Cloud platform as a service (PaaS) supporting several programming languages.
 
 
 
