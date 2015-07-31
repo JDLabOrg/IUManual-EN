@@ -4,10 +4,10 @@
 
 
 
-템플릿 Templates
+Templates
 =================
 
-IUEditor에서 사용할 수 있는 템플릿의 모음입니다. 프로그램 실행시 첫 화면에서 볼수있습니다. 
+IUEditor offers free templates projects below. You can select template project in New Project panel.
 
 
 ----------

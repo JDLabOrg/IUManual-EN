@@ -1,8 +1,7 @@
 
-단축키 Shortcut
+Shortcut
 =================
 
-단축키에 대한 설명입니다. 
 
 
 
@@ -10,49 +9,49 @@
 ----------
 
 
-프로젝트 관리 Project Management
+Project Management
 ----------------------------
 
-* ``Project Setting (⇧⌘P)`` : 프로젝트 설정 창을 보여줍니다.
-* ``Upload to Heroku (⇧⌘H)`` : 히로쿠 설정 창을 보여줍니다.
-* ``Refresh (⇧⌘F)`` : 현재 페이지를 다시 불러옵니다.
-* ``Import Custom Widget (⇧⌘W)`` : 커스텀 위젯 패널을 불러옵니다.
+* ``Project Setting (⇧⌘P)`` : Opens Project Setting panel.
+* ``Upload to Heroku (⇧⌘H)`` : Opens Heroku Management panel.
+* ``Refresh (⇧⌘F)`` : Refreshes current page.
+* ``Import Custom Widget (⇧⌘W)`` : Opens Custom Widget Panel.
 
 ----------
 
 
-위젯 사용 Widget Control
+Widget Control
 ---------------------
 
-* ``Copy (⌘C)`` : 선택한 위젯을 복사합니다.
-* ``Paste (⌘V)`` : 복사한 위젯을 붙여넣습니다.
-* ``Undo (⌘Z)`` : 실행한 기능을 되돌립니다.
-* ``Duplicate (⌘D)`` : 선택한 위젯을 동일한 레벨에 복제합니다.
-* ``Redo (⇧⌘Z)`` : 언두한 기능을 다시 실행합니다.
+* ``Copy (⌘C)`` : Copy selected widget.
+* ``Paste (⌘V)`` : Paste copied widget.
+* ``Undo (⌘Z)`` : Undo steps.
+* ``Duplicate (⌘D)`` : Duplicate selected widget.
+* ``Redo (⇧⌘Z)`` : Redo steps.
 
 
 ----------
 
 
-뷰 관리 View Management
+View Management
 --------------------
 
-* ``Zoom In (⌘+)`` : 스페이지를 확대합니다.
-* ``Zoom Out (⌘-)`` : 스테이지를 축소합니다.
-* ``Event Panel (⇧⌘E)`` : 이벤트 패널을 보여줍니다.
-* ``Resource Panel (⇧⌘R)`` : 리소스 패널을 보여줍니다.
-* ``Memo (⇧⌘M)`` : 메모 패널을 보여줍니다.
-* ``Custom Code (⇧⌘C)`` : 커스텀 코드 패널을 보여줍니다.
+* ``Zoom In (⌘+)`` : Zoom In stage.
+* ``Zoom Out (⌘-)`` : Zoom Out stage.
+* ``Event Panel (⇧⌘E)`` : Opens Event panel.
+* ``Resource Panel (⇧⌘R)`` : Opens Resource panel.
+* ``Memo (⇧⌘M)`` : Opens Memo panel.
+* ``Custom Code (⇧⌘C)`` : Opens Custom Code panel.
 
 
 ----------
 
 
-캔버스 뷰 관리 Canvas View Management
+Canvas View Management
 --------------------------------
 
-* ``Show Outline (⌘L)`` : 위젯의 외곽요소를 보여줍니다.
-* ``Show Widget Info (⌘I)`` : 위젯의 정보를 보여줍니다. (추가된 메모를 나타냅니다.)
-* ``Show Ruler (⌘R)`` : 스테이지에 룰러 요소를 보여줍니다.
-* ``Show Guide (⌘;)`` : 설정해 놓은 가이드 라인을 보여줍니다.
-* ``Tracing (⇧⌘T)`` : 이미지 트레이싱 기능을 on/off 합니다.
+* ``Show Outline (⌘L)`` : Show or hide outline of widgets in canvas.
+* ``Show Widget Info (⌘I)`` : Show or hide information of widgets in canvas.
+* ``Show Ruler (⌘R)`` : Show or hide ruler on canvas.
+* ``Show Guide (⌘;)`` : Show or hide guide on canvas.
+* ``Tracing (⇧⌘T)`` : Show or hide tracing image on canvas.
