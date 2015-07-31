@@ -100,6 +100,6 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Appendix
    
-   appenddix_templates
-   appenddix_shortcut
-   appenddix_dict
+   appendix_templates
+   appendix_shortcut
+   appendix_dict
