@@ -9,7 +9,7 @@ Canvas
 
 .. image:: resource/iu_manual_canvas.png
 
-Canvas Area displays Webview based on your structure. You can *add widget** to canvas.
+Canvas Area displays Webview based on your structure. You can *add widget* to canvas.
 
 `How to add widget to canvas`_
 
