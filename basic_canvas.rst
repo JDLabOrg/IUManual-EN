@@ -2,6 +2,7 @@
 .. _Event Panel : ./panel_event.html
 .. _Tab Menu : ./basic_top_toolbar.html#id2
 .. _Export Widget Panel : ./panel_export_widget.html
+.. _How to add widget to canvas : ./widget_basic.html
 
 
 Canvas
