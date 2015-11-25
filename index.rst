@@ -13,7 +13,7 @@ You can download **IUEditor** from website below.
 * IUEditor Facebook Page (Korean): https://www.facebook.com/iueditor
 
 
-.. note:: Currently IUEditor offers Free User License until 30 September, 2015. Anyone can use IUEditor but only for personal and non-commercial project.
+.. note:: Currently IUEditor offers Free User License until the end of 2015. Anyone can use IUEditor but only for personal and non-commercial project.
 
 ---------
 
