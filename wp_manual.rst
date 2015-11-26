@@ -2,7 +2,7 @@
 Wordpress Manual
 ===========
 
-.. image:: resource/iu_manual_canvas.png
+IUEditor Wordpress manual.
 
 Canvas Area displays Webview based on your structure. You can *add widget* to canvas.
 
