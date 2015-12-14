@@ -41,6 +41,7 @@ You can download **IUEditor** from website below.
    :caption: Advanced Feature
    
    advanced_scenario_mode
+   advanced_Prototype_mode
    advanced_heroku
    
    
