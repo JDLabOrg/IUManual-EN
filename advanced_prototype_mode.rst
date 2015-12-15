@@ -34,7 +34,7 @@ Project Workflow
 Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. 
 
 * ``Default thumbnails`` : List of page thumbnails contained in project.
-* ``Custom thumbnails`` : List of page thumbnails captured in editor mode using ``Page Capture Button`` in toolbar.
+* ``Custom thumbnails`` : List of page thumbnails captured in editor mode using **Page Capture Button** in toolbar.
 
 * ``Rectangle Button`` : Add square dialog below the selected node.
 * ``Rhombus Button`` : Add diamond dialog below the selected node.
@@ -45,7 +45,7 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 
 ----------
 
-Screen Definition
+Node Definition
 -------------------------------
 
 .. image:: 
