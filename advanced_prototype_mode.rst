@@ -35,7 +35,6 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_thumbnail.png
-
 * ``Default thumbnails`` : List of page thumbnails contained in project.
 * ``Custom thumbnails`` : List of page thumbnails captured in editor mode using **Page Capture Button** in toolbar.
 
@@ -43,13 +42,12 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_workflow.png
-
 * ``Rectangle Button`` : Add square dialog below the selected node.
 * ``Rhombus Button`` : Add diamond dialog below the selected node.
 
 
-* ``Inward Label`` : Add label on top of the thumbnail
-* ``Outward Label`` : Add label below of the thumbnail
+* ``Inward Label`` : Add label on top of the selected node.
+* ``Outward Label`` : Add label below of the selected node.
 
 
 
@@ -61,4 +59,4 @@ Node Definition
 
 .. image:: resource/scenario/ic_SB_screen.png
 
-Displays **Screen Definition** about selected page. You can add or change content in screen description or exception area.
+Displays **Node Definition** about selected page. You can add or change content in screen description or exception area. Double-clicking thumbnails on canvas also displays **Node Definition**.
