@@ -39,7 +39,7 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 * ``Default thumbnails`` : List of page thumbnails contained in project.
 * ``Custom thumbnails`` : List of page thumbnails captured in editor mode using **Page Capture Button** in toolbar.
 
-.. note:: ..image:: resource/iu_manual_advanced_prototype_mode_workflow.png Thumbnails will be added by **Page Capture** button in **Editor Mode**.
+.. note:: Thumbnails will be added by **Page Capture** button in **Editor Mode**.
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_workflow.png
