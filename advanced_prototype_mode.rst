@@ -4,7 +4,7 @@
 Prototype Mode
 =======================
 
-..image::
+..image:: resource/iu_manual_advanced_prototype_mode.png
 
 In Top toolbar, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
