@@ -8,7 +8,7 @@ Prototype Mode
 
 In Top toolbar, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
-Prototype Mode offers `Revision History`_ / `Project Workflow`_ / Node Definition`_ page. You can refresh scenario by clicking ``Refresh Scenario Button`` and can build **HTML Scenario** by clicking ``Document Build Button`` . And ``Refresh Thumbnail`` button updates page thumbnails in workflow and page list.
+Prototype Mode offers `Revision History`_ / `Project Workflow`_ / `Node Definition`_ page. You can refresh scenario by clicking ``Refresh Workflow Button`` and can build **HTML Scenario** by clicking ``Build Senario Button`` . And ``Refresh Thumbnail`` button updates page thumbnails contained in workflow and page list.
 
 
 ----------
@@ -33,14 +33,25 @@ Project Workflow
 
 Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. 
 
+
+.. image:: resource/iu_manual_advanced_prototype_mode_thumbnail.png
+
 * ``Default thumbnails`` : List of page thumbnails contained in project.
 * ``Custom thumbnails`` : List of page thumbnails captured in editor mode using **Page Capture Button** in toolbar.
+
+.. note:: ..image:: resource/iu_manual_advanced_prototype_mode_workflow.png Thumbnails will be added by **Page Capture** button in **Editor Mode**.
+
+
+.. image:: resource/iu_manual_advanced_prototype_mode_workflow.png
 
 * ``Rectangle Button`` : Add square dialog below the selected node.
 * ``Rhombus Button`` : Add diamond dialog below the selected node.
 
+
 * ``Inward Label`` : Add label on top of the thumbnail
 * ``Outward Label`` : Add label below of the thumbnail
+
+
 
 
 ----------
