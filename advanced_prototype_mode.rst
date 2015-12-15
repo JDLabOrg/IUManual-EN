@@ -63,6 +63,6 @@ Displays **Node Definition** about selected page. You can add or change content 
 
 * ``Memo img area`` : Select img from resource panel to replace numburing on screenshot area.
 * ``Add Memo Button`` : Create new editable row field in table.
-* ``Delete Button`` : Create new editable row field in table.
+* ``Delete Button`` : Delete selected momo in table.
 
 By clicking screenshot area selected memo's number will apeaar.
