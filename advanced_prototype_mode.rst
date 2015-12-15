@@ -13,7 +13,8 @@ Prototype Mode offers `Revision History`_ / `Project Workflow`_ / Node Definitio
 
 ----------
 
-
+Revision History
+-------------------------------
  
 .. image:: 
 
@@ -24,6 +25,7 @@ Displays **Revision History** about current project. You can add or change histo
 * ``Add New Date Button`` : Create new editable row field in table.
 * ``Remove Date Button`` : Delete selected row from table.
 ----------
+
 Project Workflow
 -------------------------------
 
