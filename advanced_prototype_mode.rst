@@ -15,7 +15,7 @@ Prototype Mode offers `Revision History`_ / `Project Workflow`_ / Node Definitio
 
 
  
-.. image:: 스크린샷
+.. image:: 
 
 
 Displays **Revision History** about current project. You can add or change history.
@@ -27,7 +27,7 @@ Displays **Revision History** about current project. You can add or change histo
 Project Workflow
 -------------------------------
 
-.. image:: 워크플로우 스크린샷
+.. image:: 
 
 Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. 
 
@@ -46,6 +46,6 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 Screen Definition
 -------------------------------
 
-.. image:: 스크린샷
+.. image:: 
 
 Displays **Screen Definition** about selected page. You can add or change content in screen description or exception area.
