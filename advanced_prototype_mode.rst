@@ -4,7 +4,7 @@
 Prototype Mode
 =======================
 
-..image::
+.. image:: resource/iu_manual_advanced_prototype_mode.png
 
 In Top toolbar, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
@@ -16,7 +16,7 @@ Prototype Mode offers `Revision History`_ / `Project Workflow`_ / Node Definitio
 Revision History
 -------------------------------
  
-.. image:: 
+.. image:: resource/scenario/ic_SB_revision.png
 
 
 Displays **Revision History** about current project. You can add or change history.
@@ -29,7 +29,7 @@ Displays **Revision History** about current project. You can add or change histo
 Project Workflow
 -------------------------------
 
-.. image:: 
+.. image:: resource/scenario/ic_SB_workflow.png
 
 Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. 
 
@@ -48,6 +48,6 @@ Displays **Workflow** about current project. User can add nodes by drag and drop
 Node Definition
 -------------------------------
 
-.. image:: 
+.. image:: resource/scenario/ic_SB_screen.png
 
 Displays **Screen Definition** about selected page. You can add or change content in screen description or exception area.
