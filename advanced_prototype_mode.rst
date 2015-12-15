@@ -31,7 +31,7 @@ Project Workflow
 
 .. image:: resource/scenario/ic_SB_workflow.png
 
-Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. 
+Displays **Workflow** about current project. User can add nodes by drag and drop page thumbnails. Press delete key to delete selected node.
 
 
 .. image:: resource/iu_manual_advanced_prototype_mode_thumbnail.png
@@ -60,3 +60,9 @@ Node Definition
 .. image:: resource/scenario/ic_SB_screen.png
 
 Displays **Node Definition** about selected page. You can add or change content in screen description or exception area. Double-clicking thumbnails on canvas also displays **Node Definition**.
+
+* ``Memo img area`` : Select img from resource panel to replace numburing on screenshot area.
+* ``Add Memo Button`` : Create new editable row field in table.
+* ``Delete Button`` : Create new editable row field in table.
+
+By clicking screenshot area selected memo's number will apeaar.
