@@ -38,13 +38,13 @@ Command Area consists of project-level features.
 Tab Menu
 --------
 
-Tab Menu area consists of 6 tabs - Text, Property, Style, Transform, Mouse-Over, and Back-End.
+Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Over, and Link** .
 
 
 
-.. image:: resource/iu_manual_top_toolbar_tab01_text.png
+.. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-weight / Font-size / Line-height / Heading / Font-color / Font-align** .
+* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Box-Shadow / Opacity / Background-Image** .
 
 
 
@@ -53,9 +53,11 @@ Tab Menu area consists of 6 tabs - Text, Property, Style, Transform, Mouse-Over,
 * ``Property Tab`` : In Property Tab, you can set & change properties of each Widgets. Each Widget has individual property options.
 
 
-.. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Box-Shadow / Opacity / Background-Image** .
+.. image:: resource/iu_manual_top_toolbar_tab01_text.png
+
+* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-weight / Font-size / Line-height / Heading / Font-color / Font-align** .
+
 
 
 .. image:: resource/iu_manual_top_toolbar_tab04_transform.png
@@ -72,7 +74,7 @@ Tab Menu area consists of 6 tabs - Text, Property, Style, Transform, Mouse-Over,
 
 .. image:: resource/iu_manual_top_toolbar_tab06_backend.png
 
-* ``Back-End Tab`` : In Back-end Tab, you can insert **Variables** to certain widget. (This feature available only on **Django Project** .)
+* ``Link Tab`` : In Link Tab, you can add **Hyperlink** to certain widget. 
 
 
 
