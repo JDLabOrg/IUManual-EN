@@ -36,8 +36,8 @@ In CUSTOM WIDGETS tab, custom widgets imported by **Import Button** will be show
 
 
 * ``Refresh Button`` : Updates custom widget library.
-* ``검색 영역 Search Field`` : Search custom widget library by name or tag.
-* ``확대/축소 버튼 Zoom in/Zoom out Button`` : Zoom in or out custom widget library.
+* ``earch Field`` : Search custom widget library by name or tag.
+* ``Zoom in/Zoom out Button`` : Zoom in or out custom widget library.
 
 `Go To Manage Custom Widgets Panel`_  
 
