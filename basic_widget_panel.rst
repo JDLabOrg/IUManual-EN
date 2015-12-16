@@ -9,7 +9,7 @@
 Widget Panel
 ==========
 
-Widget toolbar is at the right side of window. Open and close **Wiget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consist of `IU Widget` / `Custom Widget`_ tab.
+Widget toolbar is at the right side of window. Open and close **Wiget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consist of `IU Widget`_ / `Custom Widget`_ tab.
 
 
 ----------
