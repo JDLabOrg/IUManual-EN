@@ -51,12 +51,12 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Panel
       
+   project_setting
    panel_resource
    panel_event
    panel_memo
    panel_management_widget
    panel_export_widget
-   project_setting
 
    
 .. toctree::
