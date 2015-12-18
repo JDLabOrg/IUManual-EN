@@ -41,6 +41,7 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Advanced Feature
    
+   advanced_developer_mode
    advanced_scenario_mode
    advanced_prototype_mode
    advanced_heroku
