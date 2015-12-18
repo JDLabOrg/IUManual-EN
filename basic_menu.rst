@@ -26,7 +26,7 @@ IUEditor
 
 * ``About IUEditor`` : Show IUEditor's version info.
 * ``License`` : Shhow IUEditor's license info. You can enter license key and visit license page.
-* ``Preference`` : Open IUeditor ``Preference``_ window. 
+* ``Preference`` : Open IUeditor `Preference`_ window. 
 
 ----------
 
@@ -57,9 +57,9 @@ Project
 
 * ``Build`` : Generates HTML & CSS & JS files based on IU Project. 
 * ``Build Clean`` : Clean build data. It can fix program error.
-* ``Project Setting`` : Opens ``Project Setting``_ panel. 
-* ``Upload to Server`` : Opens ``Upload to Server``_ panel. 
-* ``Upload to Heroku`` : Opens ``Heroku Management``_ panel. 
+* ``Project Setting`` : Opens `Project Setting`_ panel. 
+* ``Upload to Server`` : Opens `Upload to Server`_ panel. 
+* ``Upload to Heroku`` : Opens `Heroku Management`_ panel. 
 * ``Reresh Page`` : Refresh current page. It can fix program error.
 
 ----------
@@ -88,10 +88,10 @@ Window
 .. image:: resource/iu_manual_basic_menu_window.png
 
 
-* ``Event`` : Opens ``Event panel``_ . 
-* ``Resource`` : Opens ``Resource panel``_ . 
-* ``Memo`` : Opens ``Memo panel``_ . 
-* ``Manage Custom Widgets`` : Opens ``Custom Widget Management Panel``_ . 
+* ``Event`` : Opens `Event panel`_ . 
+* ``Resource`` : Opens `Resource panel`_ . 
+* ``Memo`` : Opens `Memo panel`_ . 
+* ``Manage Custom Widgets`` : Opens `Custom Widget Management Panel`_ . 
 
 ----------
 
