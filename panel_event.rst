@@ -73,25 +73,3 @@ Adds Receiver Event to selected widget. When **Equation** returns True, Receiver
 
 
 
-
-----------
-
-.. image:: resource/iu_manual_panel_event_04link.png
-
-Link
--------------
-
-Adds Link Event to selected widget. Widget can have only One Link.
-
-
-* ``None`` : No link. (Default value)
-
-* ``Page`` : Adds page or div link.
-
-* ``URL`` : Adds URL link.
-
-* ``Panel`` : Adds link event that calls Panel.
-
-* ``Popup`` : Adds link event that calls Popup.
-
-
