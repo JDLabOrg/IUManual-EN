@@ -42,15 +42,17 @@ You can download **IUEditor** from website below.
    :caption: Advanced Feature
    
    advanced_developer_mode
-   advanced_scenario_mode
    advanced_prototype_mode
+   advanced_scenario_mode
    advanced_heroku
+   advanced_server
    
    
 .. toctree::
    :maxdepth: 2
    :caption: Panel
       
+   project_setting
    panel_resource
    panel_event
    panel_memo
@@ -60,10 +62,9 @@ You can download **IUEditor** from website below.
    
 .. toctree::
    :maxdepth: 2
-   :caption: Project
+   :caption: Project Type
    
    project_type
-   project_setting
 
    
 .. toctree::
@@ -96,7 +97,7 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Preference
    
-   Preference
+   preference
    
 
 .. toctree::
