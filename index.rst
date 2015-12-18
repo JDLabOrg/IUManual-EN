@@ -30,6 +30,7 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Basic Feature
    
+   basic_menu
    basic_top_toolbar
    basic_middle_toolbar
    basic_widget_panel
