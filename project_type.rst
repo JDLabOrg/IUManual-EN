@@ -42,6 +42,21 @@ Django Project is a Dynamic Project which can be connected with Backend. You can
 
 .. image:: resource/iu_manual_project_new_django.png
 
+-------------
 
+Angular Project
+-----------------------
+
+AngularJS Project is a Dynamic Project which can be connected with Backend. You can select Default Project in **New Project Popup** (When you run **File > New Project (⌘N)** menu, **New Project Popup** will be shown.)
+
+
+.. image:: resource/iu_manual_project_new_angularjs.png
+
+-------------
+
+Wordpress Project
+-----------------------
+
+Wordpress Project is a Dynamic Project which can be connected with Wordpress. This feature is under developing.
 
 
