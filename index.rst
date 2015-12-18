@@ -96,7 +96,7 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Preference
    
-   Preference
+   preference
    
 
 .. toctree::
