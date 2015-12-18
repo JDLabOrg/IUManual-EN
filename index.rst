@@ -56,14 +56,14 @@ You can download **IUEditor** from website below.
    panel_memo
    panel_management_widget
    panel_export_widget
+   project_setting
 
    
 .. toctree::
    :maxdepth: 2
-   :caption: Project
+   :caption: Project Type
    
    project_type
-   project_setting
 
    
 .. toctree::
