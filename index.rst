@@ -54,7 +54,6 @@ You can download **IUEditor** from website below.
    panel_resource
    panel_event
    panel_memo
-   panel_custom_code
    panel_import_widget
    panel_export_widget
 
