@@ -1,4 +1,4 @@
-.. _Custom widget : ./panel_management_widget.html
+.. _Custom Widget : ./panel_management_widget.html
 
 
 
