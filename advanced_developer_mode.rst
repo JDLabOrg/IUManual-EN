@@ -12,7 +12,7 @@ Developer Mode
 
 In Top toolbar, yo can switch to **Developer Mode ** by clickig ``Mode Switch Button``.
 
-In Developer mode **Code Panel** will be shown. It consist of `HTML ID`_ / `Cusom Code`_ area.
+In Developer mode **Code Panel** will be shown. It consist of `HTML ID`_ / `Custom Code`_ area.
 
 
 ----------
