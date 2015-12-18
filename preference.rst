@@ -25,6 +25,7 @@ Project
 
 * ``Project Save Option`` : Compress project's json file if 'Minimize Data' checkbox checked.
 * ``Compile Option``
+
     * ``Export HTML ID Option`` : Select whether contain HTML ID as default to all widget or customize. 
     * ``Name on Structure`` : Select whether contain widget's name in html document or not.
 
