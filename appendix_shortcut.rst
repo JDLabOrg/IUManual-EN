@@ -20,6 +20,29 @@ Project Management
 ----------
 
 
+Mode Switch
+----------------------------
+
+* ``Editor Mode (⌘[)`` : Switch to Editor Mode.
+* ``Developer Mode (⌘])`` : Switch to Developer Mode.
+* ``Prototype Mode (⌘\)`` : Switch to Prototype Mode.
+
+----------
+
+
+Add Widget
+---------------------
+
+* ``IUBox (⌘1)`` : Select IUBox widget to add on canvas.
+* ``IUText (⌘2)`` : Select IUText widget to add on canvas.
+* ``IUImage (⌘3)`` : Select IUImage widget to add on canvas.
+* ``IUStatic Image (⌘4)`` : Select IUStatic Image widget to add on canvas.
+* ``IUCell (⌘5)`` : Select IUCell widget to add on canvas.
+
+
+----------
+
+
 Widget Control
 ---------------------
 
@@ -38,10 +61,10 @@ View Management
 
 * ``Zoom In (⌘+)`` : Zoom In stage.
 * ``Zoom Out (⌘-)`` : Zoom Out stage.
+* ``Widget Panel (⌘↵)`` : Show and Hide Widget panel.
 * ``Event Panel (⇧⌘E)`` : Opens Event panel.
 * ``Resource Panel (⇧⌘R)`` : Opens Resource panel.
 * ``Memo (⇧⌘M)`` : Opens Memo panel.
-* ``Custom Code (⇧⌘C)`` : Opens Custom Code panel.
 
 
 ----------
