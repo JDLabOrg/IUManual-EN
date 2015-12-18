@@ -91,7 +91,7 @@ Window
 * ``Event`` : Opens `Event panel`_ . 
 * ``Resource`` : Opens `Resource panel`_ . 
 * ``Memo`` : Opens `Memo panel`_ . 
-* ``Manage Custom Widgets`` : Opens `Custom Widget Management Panel`_ . 
+* ``Manage Custom Widgets`` : Opens `Manage Custom Widgets Panel`_ . 
 
 ----------
 
