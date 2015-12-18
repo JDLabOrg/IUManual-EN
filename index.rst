@@ -81,6 +81,7 @@ You can download **IUEditor** from website below.
    widget_basic
    widget_complex
    widget_programming
+   widget_wordpress
    
  
   
@@ -93,9 +94,9 @@ You can download **IUEditor** from website below.
    
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorials
+   :caption: Preference
    
-   tutorial
+   Preference
    
 
 .. toctree::
@@ -105,3 +106,4 @@ You can download **IUEditor** from website below.
    appendix_templates
    appendix_shortcut
    appendix_dict
+   tutorial
