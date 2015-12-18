@@ -4,6 +4,8 @@
 Menu
 ==========================
 
+.. image:: resource/iu_manual_basic_menu.png
+
 Description about IUEditor Menu Bar.
 ----------
 
