@@ -42,9 +42,10 @@ You can download **IUEditor** from website below.
    :caption: Advanced Feature
    
    advanced_developer_mode
-   advanced_scenario_mode
    advanced_prototype_mode
+   advanced_scenario_mode
    advanced_heroku
+   advanced_server
    
    
 .. toctree::
