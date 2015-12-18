@@ -4,14 +4,25 @@
 
 
 
-Import Widget Panel
+Manage Custom Widget Panel
 ==================================
 
-When you run **Project > Custom Widgets (⇧⌘W)** menu, Import Widget Panel will be shown. You can import custom widgets (.iuw) into this panel. This panel supports Grid / Table view in Widget list.
+When you run **Window > Manage Custom Widgets (⇧⌘W)** menu, Manage Custom Widgets Panel will be shown. You can import custom widgets, Compositions and Pages into this panel. This panel supports Grid / Table view in Widget list. You can open and close widget information area with toggle butto next to the search box.
  
 
 .. image:: resource/iu_manual_panel_import_widget.png
 
+
+----------
+
+Top Bar
+----------------------------
+
+* ``Widget Tab`` : Show imported custom widget list. Import custom widget with ``import button`` .
+* ``Page Tab`` : 불러오기 한 페이지의 목록을 관리하고 내보내기 한 페이지를 불러옵니다.
+* ``Composition Tab`` : 불러오기 한 컴포지션의 목록을 관리하고 내보내기 한 컴포지션을 불러옵니다.
+* ``Widget Info Toggle Button`` : `커스텀 위젯 정보`_ 을 껐다 켤 수 있는 토글 버튼입니다.
+* ``Search Bar`` : 커스텀 위젯의 이름을 검색할 수 있습니다.
 
 
 ----------
