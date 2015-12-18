@@ -1,4 +1,12 @@
-.. _시나리오 모드 Scenario Mode : ./advanced_scenario_mode.html
+.. _Preference: ./preference.html
+.. _Project Setting: ./project_setting.html
+.. _Upload to Server: ./advanced_server.html
+.. _Heroku Management: ./advanced_heroku.html
+.. _Event Panel: ./panel_event.html
+.. _Resource Panel: ./panel_resource.html
+.. _Memo Panel: ./panel_memo.html
+.. _Manage Custom Widgets Panel: ./panel_management_widget.html
+
 
 
 Menu
@@ -18,7 +26,7 @@ IUEditor
 
 * ``About IUEditor`` : Show IUEditor's version info.
 * ``License`` : Shhow IUEditor's license info. You can enter license key and visit license page.
-* ``Preference`` : Open IUeditor preference window. (링크)
+* ``Preference`` : Open IUeditor ``Preference``_ window. 
 
 ----------
 
@@ -49,9 +57,9 @@ Project
 
 * ``Build`` : Generates HTML & CSS & JS files based on IU Project. 
 * ``Build Clean`` : Clean build data. It can fix program error.
-* ``Project Setting`` : Opens Project Setting panel. (링크)
-* ``Upload to Server`` : Opens Upload to Server panel. (링크)
-* ``Upload to Heroku`` : Opens Heroku Management panel. (링크)
+* ``Project Setting`` : Opens ``Project Setting``_ panel. 
+* ``Upload to Server`` : Opens ``Upload to Server``_ panel. 
+* ``Upload to Heroku`` : Opens ``Heroku Management``_ panel. 
 * ``Reresh Page`` : Refresh current page. It can fix program error.
 
 ----------
@@ -80,10 +88,10 @@ Window
 .. image:: resource/iu_manual_basic_menu_window.png
 
 
-* ``Event`` : Opens Event panel. (링크)
-* ``Resource`` : Opens Resource panel. (링크)
-* ``Memo`` : Opens Memo panel. (링크)
-* ``Manage Custom Widgets`` : Opens Custom Widget Management panel. (링크)
+* ``Event`` : Opens ``Event panel``_ . 
+* ``Resource`` : Opens ``Resource panel``_ . 
+* ``Memo`` : Opens ``Memo panel``_ . 
+* ``Manage Custom Widgets`` : Opens ``Custom Widget Management Panel``_ . 
 
 ----------
 
