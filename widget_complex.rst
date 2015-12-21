@@ -153,7 +153,7 @@ Tab View widget has multiple **Tabs** .
 
 .. image:: resource/widget/IUTable.png
 
-Tab View
+Table
 ----------
 
 .. image:: resource/iu_manual_prop_complex_IUTable.png
