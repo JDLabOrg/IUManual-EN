@@ -127,6 +127,51 @@ Video Clip widget supports MP4. You can input videos from Resource panel.
 
 
 
+.. image:: resource/widget/IUTable.png
+
+Table
+----------
+
+.. image:: resource/iu_manual_prop_complex_IUTable.png
+
+Table widget can add simple table on canvas.
+
+
+
+**Property**
+
+* Child : -
+* Link  : -
+* Scroll Animator : -
+* Background Image : -
+* Backend Ellipsis : -
+
+----------
+
+
+
+.. image:: resource/widget/IUSimpleTabView.png
+
+Simple Tab View
+----------
+
+.. image:: resource/iu_manual_prop_complex_IUSimpleTabView.png
+
+Simple Tab View widget has more simple structure than Tab View widget .
+
+
+
+**Property**
+
+* Child : -
+* Link  : -
+* Scroll Animator : -
+* Background Image : -
+* Backend Ellipsis : -
+
+----------
+
+
 
 .. image:: resource/widget/IUTabView.png
 
@@ -148,7 +193,6 @@ Tab View widget has multiple **Tabs** .
 * Backend Ellipsis : -
 
 ----------
-
 
 
 .. image:: resource/widget/IUCollapsible.png
