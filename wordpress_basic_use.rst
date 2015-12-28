@@ -6,11 +6,11 @@ Wordpress Basic Usage
 Introduction
 -----------
 
-You can generate a Wordpress theme with IUEditor, utilizing all the powerful features.
+You can generate a Wordpress theme with IUEditor, utilizing all of its powerful features.
 
 .. images:: resource/wordpress/iu_manual_wordpress_basic_ues_newproject.png
 
-* From new project window, click Wordpress tab and choose pre-built template to start with.
+* From new project window, click Wordpress tab and choose any default page sturucture or pre-built template to start with.
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_widgetgroup.png
 
