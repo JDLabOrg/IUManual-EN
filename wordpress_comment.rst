@@ -29,7 +29,7 @@
 코멘트 입력폼 Comment Input Form
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_comment_element_type.png
+.. image:: resource/wordpress/iu_manual_wordpress_comment_input_form.png
 
 * 코멘트 입력 폼과 구성요소들을 표시합니다.
 * 반드시 아티클 위젯 하위에 삽입되어야 동작합니다.
