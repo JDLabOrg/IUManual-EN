@@ -10,7 +10,7 @@ Project Type
 Default Project
 --------------------------
 
-Default Project is a Static Project which is not connected with Backend. You can select Default Project in **New Project Popup** (When you run **File > New Project (⌘N)** menu, **New Project Popup** will be shown.)
+Default Project is a Static Project which is not connected with any back-end framework. You can select Default Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
 .. image:: resource/iu_manual_project_new_default.png
@@ -26,10 +26,10 @@ Default Project is a Static Project which is not connected with Backend. You can
 * ``IUAcademy`` : Creates new project with **IUAcademy** Template.
 
 
-* ``Recent Project`` : Shows recent 5 projects that recently have been updated.
-* ``Open Project`` : Opens IU project.
+* ``Recent Project`` : Shows last 5 projects that recently have been updated.
+* ``Open Project`` : Opens existing IU project.
 
-.. note :: When you selected Empty Page, you can set default width value of new project.
+.. note :: When you select Empty Page, you can set default width value of new project.
 
 
 -------------
@@ -37,17 +37,17 @@ Default Project is a Static Project which is not connected with Backend. You can
 Django Project
 -----------------------
 
-Django Project is a Dynamic Project which can be connected with Backend. You can select Default Project in **New Project Popup** (When you run **File > New Project (⌘N)** menu, **New Project Popup** will be shown.)
+Django Project is a Dynamic Project which can be connected with Django as back-end framework. You can select Django Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
 .. image:: resource/iu_manual_project_new_django.png
 
 -------------
 
-Angular Project
+AngularJS Project
 -----------------------
 
-AngularJS Project is a Dynamic Project which can be connected with Backend. You can select Default Project in **New Project Popup** (When you run **File > New Project (⌘N)** menu, **New Project Popup** will be shown.)
+AngularJS Project is a Dynamic Project which can be connected with AngularJS as back-end framework. You can select AngularJS Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
 .. image:: resource/iu_manual_project_new_angularjs.png
@@ -57,6 +57,7 @@ AngularJS Project is a Dynamic Project which can be connected with Backend. You 
 Wordpress Project
 -----------------------
 
-Wordpress Project is a Dynamic Project which can be connected with Wordpress. This feature is under developing.
+Wordpress Project is a Dynamic Project which can be connected with Wordpress as back-end. Wordpress project has special widgets for wordpress templates. You can select Wordpress Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
+.. image:: resource/iu_manual_project_new_wordpress.png
