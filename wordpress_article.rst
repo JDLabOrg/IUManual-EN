@@ -8,7 +8,7 @@
 아티클 위젯 Article Widget
 ----------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_article_widget.jpg
+.. image:: resource/wordpress/iu_manual_wordpress_article_widget.png
 
 * 아티클 구성요소들을 포함하는 워드프레스 테마의 핵심 위젯입니다.
 * 삽입된 하나의 아티클 위젯은 사이트 적용시 페이지 문맥에 따라 단독으로(single.php), 혹은 반복되어 리스트(index.php,  archive.php 등)로 출력됩니다.
@@ -24,7 +24,7 @@
 아티클 제목 Article Title
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_article_title.jpg
+.. image:: resource/wordpress/iu_manual_wordpress_article_title.png
 
 * 해당 아티클(post/page)의 제목이 출력됩니다.
 * 아티클 위젯 하위에 삽입되어야 정상 동작합니다.
@@ -37,8 +37,8 @@
 아티클 본문 Article Body
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_article_body_full.jpg
-.. image:: resource/wordpress/iu_manual_wordpress_article_body_excerpt.jpg
+.. image:: resource/wordpress/iu_manual_wordpress_article_body_full.png
+.. image:: resource/wordpress/iu_manual_wordpress_article_body_excerpt.png
 
 * 해당 아티클의 본문이 출력됩니다.
 * 아티클 위젯 하위에 삽입되어야 동작합니다.
@@ -55,7 +55,7 @@
 아티클 요소 Article Element
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_article_element.jpg
+.. image:: resource/wordpress/iu_manual_wordpress_article_element.png
 
 * 해당 아티클의 선택된 구성요소(썸네일/저자/기록날짜)가 출력됩니다.
 
