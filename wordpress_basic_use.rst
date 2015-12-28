@@ -1,38 +1,37 @@
-워드프레스 기본 사용 Wordpress Basic Usage
+Wordpress Basic Usage
 ==========
 
 
 
-소개 Introduction
+Introduction
 -----------
 
-IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습니다.
+You can generate a Wordpress theme with IUEditor, utilizing all the powerful features.
 
 .. images:: resource/wordpress/iu_manual_wordpress_basic_ues_newproject.png
 
-* New Project > Wordpress 에서 원하는 템플릿을 선택합니다.
-
-(교체)
+* From new project window, click Wordpress tab and choose pre-built template to start with.
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_widgetgroup.png
 
-* 우측하단 Wordpress 위젯들을 활용해 테마에 필요한 요소들을 삽입할 수 있습니다.
+* You may insert Wordpress widgets (at the bottom right of the editor window) to locate and design Wordpress theme elements.
+
 
 ---------
 
-페이지 구성 Anatomy of Pages
+Anatomy of Pages
 -------------
-(교체)
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_theme_anatomy.png
 
 
-* index: 블로그 홈 화면 및 테마 전체의 기본이 되는 필수 페이지 입니다.
-* single: 블로그의 특정 포스트 링크로 진입했을때 출력되는 페이지 입니다.
-* archive: 기간이나 작성자 등을 기준으로 조회할때 출력되는 페이지 입니다.
-* category: 특정 카테고리내 글 목록을 조회할때 출력되는 페이지 입니다.
-* page_404: 잘못된 URL로 진입한 경우 출력되는 페이지 입니다.
+* ``index``: A required page that  블로그 홈 화면 및 테마 전체의 기본이 되는 필수 페이지 입니다.
+* ``single``: Single page template which is shown when a visitor enter to a specific post.
+* ``archive``: Archive page template to show pages retrieved by an author-based or period-based
+* ``category``: Category page template 특정 카테고리내 글 목록을 조회할때 출력되는 페이지 입니다.
+* ``page_404``: 404 page template shown when a visitor enter to a wrong URL.
 
+In addition, users can add any other pages required for Wordpress template.
 그 외 테마에 필요한 페이지는 사용자가 임의로 추가할 수 있습니다. (예: page.php, date.php 등)
 
 .. Note:: 워드프레스 테마의 페이지 구성에 대해 좀 더 자세한 정보는 다음 링크를 참조하시기 바랍니다. https://yoast.com/wordpress-theme-anatomy/
