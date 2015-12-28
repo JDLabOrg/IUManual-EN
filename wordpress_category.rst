@@ -16,7 +16,6 @@
 카테고리 레이블 Category Label
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_category_label_property.png
 .. image:: resource/wordpress/iu_manual_wordpress_category_label.png
 
 * 특정 아티클(post/page)이 소속된 카테고리가 한 번 출력됩니다.
@@ -27,7 +26,6 @@
 카테고리 리스트 Category List
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_category_list_property.png
 .. image:: resource/wordpress/iu_manual_wordpress_category_list.png
 
 * 현 페이지에 포함된 상위 카테고리 리스트를 출력합니다.
@@ -39,7 +37,6 @@
 카테고리 경로 Category Path
 ------------
 
-.. image:: resource/wordpress/iu_manual_wordpress_category_path_property.png
 .. image:: resource/wordpress/iu_manual_wordpress_category_path.png
 
 * 현재 아티클이 포함된 카테고리의 경로를 나타냅니다.
