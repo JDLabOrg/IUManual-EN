@@ -1,4 +1,4 @@
-WordPress Basic Usage
+WordPress: Basic Usage
 ==========
 
 .. Note:: Video tutorial for IUEditor WordPress theme  https://www.youtube.com/watch?v=ZbjSCoE0Ano&list=PLWlO_EZgRC0aLLZ-oe_yMqdEaV4KdM5-l&index=1
