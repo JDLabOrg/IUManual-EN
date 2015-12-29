@@ -19,7 +19,7 @@ Category Label
 .. image:: resource/wordpress/iu_manual_wordpress_category_label.png
 
 * Prints a category of the Category widget's parent Article.
-* Works well only when inserted under an Article widget.
+* Works well only under an Article widget.
 
 ------------
 
@@ -40,4 +40,4 @@ Category Path
 .. image:: resource/wordpress/iu_manual_wordpress_category_path.png
 
 * Prints category path that an Article contains.
-* Works well when inserted under an Article widget, or anywhere in 'single' page.
+* Works well under an Article widget or anywhere in 'single' page.
