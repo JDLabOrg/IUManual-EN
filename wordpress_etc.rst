@@ -1,4 +1,4 @@
-Other Widgets
+WordPress: Other Widgets
 ==========
 
 .. image:: resource/widget/WPPageLink.png
