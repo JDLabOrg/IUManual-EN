@@ -40,4 +40,4 @@ Category Path
 .. image:: resource/wordpress/iu_manual_wordpress_category_path.png
 
 * Prints category path that an Article contains.
-* Works well under an Article widget or anywhere in 'single' page.
+* Works well under an Article widget or anywhere in ``single`` page.
