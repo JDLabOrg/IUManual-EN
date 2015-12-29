@@ -1,56 +1,54 @@
-워드프레스 기본 사용 Wordpress Basic Usage
+WordPress: Basic Usage
 ==========
 
+.. Note:: Video tutorial for IUEditor WordPress theme  https://www.youtube.com/watch?v=ZbjSCoE0Ano&list=PLWlO_EZgRC0aLLZ-oe_yMqdEaV4KdM5-l&index=1
 
-
-소개 Introduction
+Introduction
 -----------
 
-IUEditor의 기능을 활용해 워드프레스 테마를 생성할 수 있습니다.
+You can generate a WordPress theme with IUEditor, utilizing all of its powerful features.
 
 .. images:: resource/wordpress/iu_manual_wordpress_basic_ues_newproject.png
 
-* New Project > Wordpress 에서 원하는 템플릿을 선택합니다.
-
-(교체)
+* From new project window, click WordPress tab and choose any default page sturucture or pre-built template to start with.
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_widgetgroup.png
 
-* 우측하단 Wordpress 위젯들을 활용해 테마에 필요한 요소들을 삽입할 수 있습니다.
+* You may insert WordPress widgets (at the bottom right of the editor window) to locate and design WordPress theme elements.
+
 
 ---------
 
-페이지 구성 Anatomy of Pages
+Anatomy of Pages
 -------------
-(교체)
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_theme_anatomy.png
 
 
-* index: 블로그 홈 화면 및 테마 전체의 기본이 되는 필수 페이지 입니다.
-* single: 블로그의 특정 포스트 링크로 진입했을때 출력되는 페이지 입니다.
-* archive: 기간이나 작성자 등을 기준으로 조회할때 출력되는 페이지 입니다.
-* category: 특정 카테고리내 글 목록을 조회할때 출력되는 페이지 입니다.
-* page_404: 잘못된 URL로 진입한 경우 출력되는 페이지 입니다.
+* ``index``: A required, basic page. This page represents home screen of the WordPress blog, also work as default template in case of other page templates' absence.
+* ``single``: Single page template which is shown when a visitor enter to a specific post link.
+* ``archive``: Archive page template to show posts retrieved by an author or certain period
+* ``category``: Category page template used to show display posts in a certain category
+* ``page_404``: 404 page template shown when a visitor enter to a wrong URL.
 
-그 외 테마에 필요한 페이지는 사용자가 임의로 추가할 수 있습니다. (예: page.php, date.php 등)
+In addition, user can add any other pages in case of need for WordPress template. (ex: page.php, date.php, and so on)
 
-.. Note:: 워드프레스 테마의 페이지 구성에 대해 좀 더 자세한 정보는 다음 링크를 참조하시기 바랍니다. https://yoast.com/wordpress-theme-anatomy/
+.. Note:: For more detailed information about anatomy of WordPress theme, please refer to the following link: https://yoast.com/wordpress-theme-anatomy/
 
 
 -------------
 
-설정 Setting
+Settings
 --------------
 
 .. image:: resource/wordpress/iu_manual_wordpress_basic_use_buildsetting.png
 
-**프로젝트 > 프로젝트 셋팅** 메뉴를 실행하거나 **⇧⌘P** 키를 입력해 프로젝트 셋팅 패널을 열고, 워드프레스 Wordpress 탭을 선택해 워드프레스 관련 설정을 변경할 수 있습니다.
+You can follow **Project > Project Setting** menu or press **⇧⌘P** to open Project Setting window, then click WordPress tab to change settings for WordPress features.
 
-* Wordpress theme Build Path: 생성된 테마 파일들을 출력할 경로입니다. 경로끝에 $AppName을 입력해 프로젝트명으로 최종 경로를 만들 수 있습니다.
-* Wordpress Resource Path: 이미지, CSS 등 테마 파일의 리소스가 저장될 로컬 경로입니다.
-* Wordpress User Source Path: 사용자가 추가로 삽입한 CSS, JSS 파일들이 저장될 로컬 경로입니다.
-* Wordpress Resource Prefix: 웹 상에서 Resource Path에 접근하는 URL 경로입니다.
-* Wordpress User Source Prefix: 웹 상에서 User Source Path에 접근하는 URL 경로입니다.
+* ``WordPress theme Build Path``: Output path for generated theme files. You may add $AppName at the end of the path in order that the final path contains the name of the project at the end.
+* ``WordPress Resource Path``: Output path for the resource files of the theme, such as images, css, and so on.
+* ``WordPress User Source Path``: Output path for 'User Source', which are CSS or JS files added to the project by user.
+* ``WordPress Resource Prefix``: URL path to access the Resource Path on the web.
+* ``WordPress User Source Prefix``: URL path to access the User Source Path on the web.
 
 ----------

@@ -66,6 +66,12 @@ You can download **IUEditor** from website below.
    :caption: Project Type
    
    project_type
+   wordpress_basic_use
+   wordpress_site_information
+   wordpress_article
+   wordpress_category
+   wordpress_comment
+   wordpress_etc
 
    
 .. toctree::
