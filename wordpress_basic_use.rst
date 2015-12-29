@@ -8,7 +8,7 @@ Introduction
 
 You can generate a WordPress theme with IUEditor, utilizing all of its powerful features.
 
-.. images:: resource/wordpress/iu_manual_wordpress_basic_ues_newproject.png
+.. images:: resource/wordpress/iu_manual_wordpress_basic_use_newproject.png
 
 * From new project window, click WordPress tab and choose any default page sturucture or pre-built template to start with.
 
