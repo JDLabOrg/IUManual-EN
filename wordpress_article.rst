@@ -1,4 +1,4 @@
-Wordpress: Article
+WordPress: Article
 ==========
 
 In IUEditor, Article represents a WordPress article such as a post, a page. It may contain subject, content, thumbnail, date and author as its elements.
