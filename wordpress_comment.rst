@@ -1,4 +1,4 @@
-Comment
+WordPress: Comment
 ==========
 
 Widgets regarding commments or comment input form in WordPress post.
