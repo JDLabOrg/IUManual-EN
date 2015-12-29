@@ -26,7 +26,7 @@ Article Title
 .. image:: resource/wordpress/iu_manual_wordpress_article_title.png
 
 * Prints the parent Article's title. (WordPress post/page title)
-* Works well only when inserted under an Article widget.
+* Works well only under an Article widget.
 * You may chooose to make it either link or plain text in Property tab.
 
 ------------
@@ -40,7 +40,7 @@ Article Body
 .. image:: resource/wordpress/iu_manual_wordpress_article_body_excerpt.png
 
 * Prints the Article's content body.
-* Works well only when inserted under an Article widget.
+* Works well only under an Article widget.
 * You may choose to make it display either full text or excerpt with Type setting in Property tab.
 
   * When Excerpt chosen, you can control the length of the excerpt as the number of words with excerpt length setting in Property tab. (55 default)
@@ -59,5 +59,5 @@ Article Element
 * Prints one of elements of the Article (thumbnail, author or date)
 
   * You can choose which element to display with Element Type setting in Property tab.
-* Works well only when inserted under an Article widget.
+* Works well only under an Article widget.
 * You may choose to make it either link or plain text in Property tab.
