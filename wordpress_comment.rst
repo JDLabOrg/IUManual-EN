@@ -1,14 +1,14 @@
-코멘트 Comment
+Comment
 ==========
 
-포스트에 작성된 코멘트 및 코멘트 입력폼을 디자인하는 위젯들입니다.
+Widgets regarding commments or comment input form in WordPress post.
 
-코멘트 위젯 Comment Widget
+Comment Widget
 ----------------
 
 .. image:: resource/wordpress/iu_manual_wordpress_comment_widget.png
-* 해당 아티클에 달린 코멘트들을 출력합니다.
-* 아티클 위젯 하위에 삽입되어야 합니다.
+* Prints an Article's comments.
+* Works well only when inserted under an Article widget.
 * 프로퍼티 탭의 Sample Repeat에 지정된 횟수에 따라 에디터에서 코멘트 샘플이 반복출력되어 레이아웃 작업에 활용할 수 있습니다.
 
   * 반복출력시 포지션Position 속성이 렐러티브Relative로 설정되어야 합니다.
