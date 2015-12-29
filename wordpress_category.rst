@@ -1,4 +1,4 @@
-Category
+WordPress: Category
 ==========
 
 Display category of an Article or Article list.
