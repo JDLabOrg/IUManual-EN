@@ -105,7 +105,7 @@ You can download **IUEditor** from website below.
    :caption: Preference
    
    preference
-   
+   preference_custom_template
 
 .. toctree::
    :maxdepth: 2
