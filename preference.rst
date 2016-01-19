@@ -15,6 +15,7 @@ General
 
 * ``Select Tab Menu`` : Show or hide tab menus from top toolbar.
 * ``Guide Line Color`` : Change guide line color. (View guideline : View > Guide ⌘;)
+* ``Custom Template List URL`` : Input plist URL for apply custom template at new project window's template list.
 
 -------------
 
