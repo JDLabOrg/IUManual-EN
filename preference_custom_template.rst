@@ -19,6 +19,7 @@
 
 
 **plist 구조**
+
 .. image:: resource/iu_manual_preference_custom_plist.png
 
 * ``1. isTemplate`` : 무조건 YES를 적어주시면 됩니다. (No는 내부에서만 사용하고 있습니다.)
