@@ -10,7 +10,7 @@ Navigation
 
 .. image:: resource/iu_manual_navigation.png
 
-Navigation area is placed left-side of Canvas, and contains `Structure`_ , `Page`_ , `Composition`_ area.
+Navigation area is at the left side of canvas. Three key elements are `Structure`_ , `Page`_ ,and `Composition`_.
 
 
 ----------
@@ -20,14 +20,14 @@ Navigation area is placed left-side of Canvas, and contains `Structure`_ , `Page
 Structure
 ---------
 
-Structure area consists of current page's structure. ( **section , header , footer , page content , widget** , ...)
+The components of the current page (**section, header, footer, page content, widget**, ...) can be seen in this area.
 
-You can **reorder, remove, rename, and hide** widget in structure.
+You can **rearrange, remove, rename, and hide** widgets from the structure.
 
-* ``Add New Popup`` : Add a Popup widget into current page.
-* ``Add New Panel`` : Add a panel widget into current page.
-* ``Add New Section`` : Add a section into page content.
-* ``Delete`` : Delete selected element.
+* ``Add New Popup`` : Add a popup widget into the current page.
+* ``Add New Panel`` : Add a panel widget into the current page.
+* ``Add New Section`` : Add a section to the page content.
+* ``Delete`` : Delete the selected element.
 
 
 ----------
@@ -37,13 +37,13 @@ You can **reorder, remove, rename, and hide** widget in structure.
 Page
 -------
 
-Page area consists of current project's page list. You can **add, remove, and rename page & group** .
+Page tab shows the list of pages/groups included in the current project. You can **add, remove, and rename pages/groups** .
 
 
-* ``Add New Custom Page Button`` : Adds new custom page.
-* ``Add New Page Button`` : Adds new page.
-* ``Add New Group Button`` : Adds new group.
-* ``Delete Button`` : Delete selected page or group.
+* ``Add New Custom Page Button`` : Adds a new custom page.
+* ``Add New Page Button`` : Adds a new page.
+* ``Add New Group Button`` : Adds a new group.
+* ``Delete Button`` : Delete the selected page or group.
 
 
 
@@ -54,12 +54,12 @@ Page area consists of current project's page list. You can **add, remove, and re
 Composition
 ------------
 
-Composition area consists of current project's composition list. You can **add, remove, and rename composition & group** .
-
-* ``Add New Custom Composition Button`` : Adds new custom composition.
-* ``Add New Composition Button`` : Adds new composition.
-* ``Add New Group Button`` : Adds new group.
-* ``Delete Button`` : Delete selected composition or group.
+Compositions tab shows the design compositions of the current project. You can **add, remove, and rename composition & group**.
+ 
+* ``Add New Custom Composition Button`` : Adds a new custom composition.
+* ``Add New Composition Button`` : Adds a new composition.
+* ``Add New Group Button`` : Adds a new group.
+* ``Delete Button`` : Delete the selected composition or group.
 
 
 
@@ -72,11 +72,11 @@ References
 
 *How to rename widget, page, and group*
 
-1. Select object(widget, page, or group) that you want to rename
+1. Select the item (widget, page, or group) you want to rename
 2. Press **Enter or Tab key**
 3. Type new name as you want
 4. Press **Enter Key**
 
-.. note :: You can not use these name : **id / ifdef / default** 
+.. note :: You can not use these names : **id / ifdef / default** 
 
 
