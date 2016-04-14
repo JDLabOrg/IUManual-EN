@@ -24,10 +24,10 @@ Command
 
 Command Area consists of project-level features.
 
-* ``Build Button`` : Generates  HTML & CSS & JS files based on IU Project.
-* ``Server Stop Button`` : Stops localhost server.
+* ``Build Button`` : Generates HTML & CSS & JS files based on IU Project.
+* ``Server Stop Button`` : Stops the local host server.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
-* ``Scenario / Edit Mode Toggle Button`` : Switches Edit Mode to `Scenario Mode`_ . (Also works reverse.)
+* ``Scenario / Edit Mode Toggle Button`` : Switches Edit Mode to `Scenario Mode`_ and vice versa.
 
 
 
@@ -50,13 +50,13 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab02_property.png
 
-* ``Property Tab`` : In Property Tab, you can set & change properties of each Widgets. Each Widget has individual property options.
+* ``Property Tab`` : In Property Tab, you can set & change properties of each widgets. Each widget has individual property options.
 
 
 
 .. image:: resource/iu_manual_top_toolbar_tab01_text.png
 
-* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-weight / Font-size / Line-height / Heading / Font-color / Font-align** .
+* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-size / Font-weight (thinkness) / Font-color / Line-height / Heading / Font-alignment** .
 
 
 
@@ -68,7 +68,7 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab05_mouse_over.png
 
-* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widgets. (e.g. **BG-color, Text-Color, X-position, Y-position, width, height, BG-image position, ...** )
+* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widget. (e.g. **BG-color, Text-Color, X-position, Y-position, width, height, BG-image position, ...** )
 
 
 
