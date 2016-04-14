@@ -20,7 +20,7 @@ IU Widget
 
 .. image:: resource/iu_manual_iuwidgets.png
 
-In IU WIDGET tab, all available widgets in IUEditor will be shown. Fundamental elements including **Box / Text / Image / Static Image / Cell** widgets and other various widgets used in a web page are offered. All the provided widgets are divided into Base, Complex, Programming groups. You can see the detailed information of each widget by **double clicking** the widget.
+In IU WIDGET tab, all available widgets in IUEditor will be shown. Fundamental elements including **Box / Text / Image / Static Image / Cell** widgets and other various widgets used in a web page are offered. All the provided widgets are divided into Base, Complex, Programming groups. You can see the detailed information of each widget by **right-clicking** the widget.
 
 `Go To Widget Property`_
 
@@ -32,7 +32,7 @@ Custom Widget
 
 .. image:: resource/iu_manual_customwidgets.png
 
-In CUSTOM WIDGETS tab, custom widgets imported by **Import Button** will be shown. The widgets can be divided into customized widget groups. You can add custom widget on canvas by **drag and drop** or **double click** the widget. You can see detailed information by **second click** widgets. You can edit information of custom widget in ``Manage Custom Widget``_ window.  
+In CUSTOM WIDGETS tab, custom widgets imported by **Import Button** (Window> Manage Custom Widgets) will be shown. The widgets can be divided into customized widget groups. You can add custom widgets on canvas by **drag and drop** or **double clicking** the widget. You can check the detailed information of a widget by **right-clicking** it. All the information of custom widgets can be edited at ``Manage Custom Widget``_ window.  
 
 
 * ``Refresh Button`` : Updates custom widget library.
