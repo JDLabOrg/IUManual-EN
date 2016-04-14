@@ -7,4 +7,4 @@ Upload to Server
 
 When you run  **Project > Upload to Server(⇧⌘U)** menu, **Upload to Server Panel** will be shown.
 
-Upload to Server Panel will help you to upload **Build Files** to your Server. 
+With this panel, you can upload the **Built Files** to your Server. 
