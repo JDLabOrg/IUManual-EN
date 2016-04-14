@@ -38,13 +38,13 @@ Command Area consists of project-level features.
 Tab Menu
 --------
 
-Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Over, and Link** .
+Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Over, and Link**.
 
 
 
 .. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Background-Image / Box-Shadow / Opacity** .
+* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Background-Image / Box-Shadow / Opacity**.
 
 
 
@@ -68,13 +68,13 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab05_mouse_over.png
 
-* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widget. (e.g. **BG-color, Text-Color, X-position, Y-position, width, height, BG-image position, ...** )
+* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widget. (e.g. **BG-color, Text-color, X-position, Y-position, width, height, BG-image position, ...** )
 
 
 
 .. image:: resource/iu_manual_top_toolbar_tab06_backend.png
 
-* ``Link Tab`` : In Link Tab, you can add **Hyperlink** to certain widget. 
+* ``Link Tab`` : In Link Tab, you can add **Hyperlink** to a certain widget. 
 
 
 
