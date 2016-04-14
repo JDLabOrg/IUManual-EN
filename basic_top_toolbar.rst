@@ -56,7 +56,7 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab01_text.png
 
-* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-size / Font-weight (thinkness) / Font-color / Line-height / Heading / Font-alignment** .
+* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-size / Font-weight (thinkness) / Font-color / Line-height / Heading / Font-alignment**.
 
 
 
@@ -68,7 +68,7 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab05_mouse_over.png
 
-* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widget. (e.g. **BG-color, Text-color, X-position, Y-position, width, height, BG-image position, ...** )
+* ``Mouse-Over Tab`` : In Mouse-Over Tab, you can add Mouse-Over actions to each widget. (e.g. **BG-color, Text-color, X-position, Y-position, width, height, BG-image position, ...**)
 
 
 
@@ -87,9 +87,9 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 Stage
 ----------
 
-* ``Fixed Widget Show / Hide Button`` : Switches show to hide **Fixed Widgets** .
+* ``Fixed Widget Show / Hide Button`` : Switches show to hide **Fixed Widgets**.
 * ``Tracing`` : Adds virtual background image into your canvas, so that you can create design quickly.
-* ``Page Setting`` : Modifies current page's **Page Width** and **Media Query** .
-* ``Zoom`` : Applies Zoom-In / Out to IUEditor's Canvas.
+* ``Page Setting`` : Modifies current page's **Page Width** and **Media Query**.
+* ``Zoom`` : Applies Zoom-In / Out to IUEditor's canvas.
 
 
