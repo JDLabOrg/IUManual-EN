@@ -22,7 +22,7 @@ HTML ID
 -----------------------
 
 
-You can check and change HTML ID here. There is a check box for **Export HTML ID**. At the ``Project panel`` (IUEditor Menu Bar > Preferences), you can set the options from **Export HTML ID Option**. (Offered options: Always include/ Optimization & customization)
+You can check and change HTML ID here. There is a check box for **Export HTML ID**. At the ``Project panel`` (IUEditor Menu Bar > Preference), you can set the options from **Export HTML ID Option**. (Offered options: Always include/ Optimization & customization)
 
 
 ----------
