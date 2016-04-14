@@ -38,7 +38,7 @@ Command Area consists of project-level features.
 Tab Menu
 --------
 
-Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Over, and Link**.
+Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Over/ and Link**.
 
 
 
