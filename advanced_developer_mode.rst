@@ -12,7 +12,7 @@ Developer Mode
 
 From the toolbar at the top, you can switch to **Developer Mode** by clicking ``Mode Switching Button``.
 
-In a Developer mode **Code Panel** will be shown. It consists of `HTML ID`_ / `Custom Code`_ area.
+In Developer mode, **Code Panel** will be shown. It consists of `HTML ID`_ / `Custom Code`_ .
 
 
 ----------
@@ -22,7 +22,7 @@ HTML ID
 -----------------------
 
 
-You can check and change HTML ID here. There is a check box for **Export HTML ID**. In ``Preference - Project``, you can set **Export HTML ID Option**. (Always include or Optimize and customize)
+You can check and change HTML ID here. There is a check box for **Export HTML ID**. At the ``Project panel`` (IUEditor Menu Bar > Preferences), you can set the options from **Export HTML ID Option**. (Offered options: Always include/ Optimization & customization)
 
 
 ----------
