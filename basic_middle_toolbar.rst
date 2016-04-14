@@ -12,7 +12,7 @@ Middle Toolbar
 
 .. image:: resource/iu_manual_middle_toolbar.png
 
-Middle Toolbar is placed top of Canvas and contains `Page Capture`_ / `Position`_ / `Frame`_ / `Background-Color`_ / `Show/Hide Widget Button`_ area.
+Middle Toolbar is placed at the top of canvas and contains `Page Capture`_ / `Position`_ / `Frame`_ / `Background-Color`_ / `Show/Hide Widget Button`_ area.
 
 
 ----------
@@ -22,7 +22,7 @@ Middle Toolbar is placed top of Canvas and contains `Page Capture`_ / `Position`
 Page Capture
 -------
 
-Screen capture current page and add custom thumnail in **Prototype Mode**. 
+Captures the current page and adds custom thumnail in **Prototype Mode**. 
 
 
 ----------
@@ -32,15 +32,15 @@ Screen capture current page and add custom thumnail in **Prototype Mode**.
 Position
 --------
 
-Position area consists of **Position & Align & input fields & stepper for X & Y position** . 
+Position area consists of **Position/ Align options/ Input fields/ Stepper for X & Y position**. 
 
 
-* ``Position`` : Select position from select - **Absolute, Relative, Fixed** .
+* ``Position`` : Select position from select - **Absolute/ Relative/ Fixed**.
 * ``Sub Position`` : Select sub position from select.
 * ``Allign Button`` : Consists of **align vertical center** and **align horizontal center** buttons and **align multiple element** button.
-* ``Position Setting Popup`` : You can change **fixed center position, overflow, z-index** properties.
-* ``X posiition input field & Stepper`` : You can change **X** value by typing value into textfield or clicking stepper. (px or %)
-* ``Y posiition input field & Stepper`` : You can change **Y** value by typing value into textfield or clicking stepper. (px or %)
+* ``Position Setting Popup (Down Arrow)`` : You can change **fixed center position, overflow, z-index** properties.
+* ``X posiition input field & stepper`` : You can change **X** value by typing value into text field or clicking stepper. (px or %)
+* ``Y posiition input field & stepper`` : You can change **Y** value by typing value into text field or clicking stepper. (px or %)
 
 
 ----------
@@ -49,11 +49,11 @@ Position area consists of **Position & Align & input fields & stepper for X & Y 
 Frame
 -----
 
-Frame area consists of **input fields & stepper for width & height value** . 
+Frame area consists of **Input fields/ stepper for width & height value**. 
 
-* ``Width input field & Stepper`` : You can change **Width** value by typing value into textfield or clicking stepper. (px or %)
-* ``Height input field & Stepper`` : You can change **Height** value by typing value into textfield or clicking stepper. (px or %)
-* ``Frame Setting Popup`` : You can change **min-width , max-width , min-height , max-height , calc-width , calc-height** properties.
+* ``Width input field & stepper`` : You can change **Width** value by typing value into text field or clicking stepper. (px or %)
+* ``Height input field & stepper`` : You can change **Height** value by typing value into text field or clicking stepper. (px or %)
+* ``Frame Setting Popup (Down Arrow)`` : You can change **min-width , max-width , min-height , max-height , calc-width , calc-height** properties.
 
 
 ----------
@@ -62,8 +62,7 @@ Frame area consists of **input fields & stepper for width & height value** .
 Background Color
 ----------------
 
-Background Color area consists of **set background color button, set gradient popup** . You can change background color or gradient to selected widget.
-
+Background Color area consists of **set background color button/ set gradient popup**. You can change the background color and the color gradient of the selected widget.
 
 ----------
 
