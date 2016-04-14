@@ -40,8 +40,8 @@ File
 * ``New Project`` : Open New Project window.
 * ``Open`` : Open Finder to find IU Project file to open.
 * ``Open Recent`` : Open recent IU Project file.
-* ``Save`` : Save current project.
-* ``Duplicate`` : Duplicate project's current path.
+* ``Save`` : Save the current project.
+* ``Duplicate`` : Duplicate the project's current path.
 * ``Rename`` : Edit the name of the project.
 * ``Move To`` : Change current project's path .
 * ``Close`` : Close current project.
@@ -103,9 +103,9 @@ Help
 
 
 * ``Search`` : Search IUEditor function.
-* ``Documentation`` : Open IUEditor Manual page in brower.
-* ``Visit IUEditor`` : Open IUEditor Homepage page in brower.
-* ``Visit Facebook`` : Open IUEditor Facebook page in brower.
+* ``Documentation`` : Open IUEditor Manual page in the brower.
+* ``Visit IUEditor`` : Open IUEditor Homepage page in the brower.
+* ``Visit Facebook`` : Open IUEditor Facebook page in the brower.
 
 
 
