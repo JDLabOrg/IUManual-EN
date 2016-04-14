@@ -18,11 +18,11 @@ When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** w
 Default
 ------------
 
-* ``Project Title`` : Adds project title.
-* ``Favicon`` : Adds favicon image. (Favicon image resource required)
-* ``Custom Header Code`` : Adds custom code which will be applied to each page in current project.
+* ``Project Title`` : Adds the title of the project.
+* ``Favicon`` : Adds favicon image (Favicon image resource is required).
+* ``Custom Header Code`` : Adds custom code which will be applied to each page of the current project.
 
-.. note :: After create new project, Project Default Width cannot change.
+.. note :: After creation of a new project, Project Default Width cannot be changed.
 
 
 -------------
@@ -35,7 +35,7 @@ Meta
 
 
 * ``Meta Image`` : Adds Meta Image for meta-data. (URL)
-* ``Author`` : Adds Ahthor name for meta-data.
+* ``Author`` : Adds Author name for meta-data.
 * ``Project URL`` : Adds Project URL for meta-data.
 * ``Project Keywords`` : Adds Project Keywords for meta-data. (Multiple keywords are available)
 * ``Project Description`` : Adds Project Description for meta-data.
@@ -52,13 +52,13 @@ Build
 ------------
 
 
-* ``Build Path`` : Set Build path for build files.
-* ``Build Resource Path`` : Set Build Resource Path for build resource files.
+* ``Build Path`` : Set Build path for built files.
+* ``Build Resource Path`` : Set Build Resource Path for built resource files.
 * ``Resource Prefix`` : Set Resource Prefix. 
 * ``Link Prefix`` : Set Link Prefix.
 * ``HTML Port`` : Set HTML Port for build.
 
-.. note :: If your project's domain isn't same as root path, you have to modify Resource & Link Prefix.
+.. note :: If your project's domain isn't the same as the root path, you have to modify Resource & Link Prefix.
 
 
 ------------
@@ -69,7 +69,7 @@ Build
 Django
 ------------
 
-.. note :: Django tab available on `Django Project`_ .
+.. note :: Django tab is available on `Django Project`_ .
 
 * ``Django Build Path`` : Set Django Build path for Django build files.
 * ``Django Resource Path`` : Set Django Resource Path for Django resource files.
