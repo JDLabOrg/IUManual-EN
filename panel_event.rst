@@ -8,7 +8,7 @@
 Event Panel
 ====================
 
-When you run **View > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like `Scroll Animator`_ or `Variable`_ .
+When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like `Scroll Animator`_ or `Variable`_ .
 
 
 
@@ -24,7 +24,7 @@ Adds Scroll Animator to animate widget by scrolling. When target widget closing 
 
 * ``X-Position`` : Adds Scroll Animator to X-Position.
 * ``Y-Position`` : Adds Scroll Animator to Y-Position.
-* ``Opacity`` : Adds Scroll Animator to Opacity,
+* ``Opacity`` : Adds Scroll Animator to Opacity.
 
 
 
@@ -35,18 +35,18 @@ Adds Scroll Animator to animate widget by scrolling. When target widget closing 
 Variable
 ----------------
 
-Adds Variable to selected widget.
+Adds Variable to the selected widget.
 
 
 * ``Variable Name`` : Shows Variable list in your project.
 
-* ``Triggered Widget`` : Shows Triggered widget list according to selected Variable.
+* ``Triggered Widget`` : Shows Triggered widget list according to the selected variable.
 
-* ``New Variable Name`` : Adds new Variable name.
+* ``New Variable Name`` : Adds a new variable name.
 
-* ``Value Count`` : Set Default & Maximum value to variable.
+* ``Value Count`` : Set Default & Maximum value to the variable.
 
-* ``Trigger Action`` : Set Trigger Action to selected widget.
+* ``Trigger Action`` : Set Trigger Action to the selected widget.
 
 
 ----------
@@ -56,20 +56,20 @@ Adds Variable to selected widget.
 Receiver
 -------------
 
-Adds Receiver Event to selected widget. When **Equation** returns True, Receiver Event will be shown.
+Adds Receiver Event to the selected widget. When **Equation** returns True, Receiver Event will be shown.
 
 
-* ``Variable Name`` : Shows Variable list that have Receiver Event.
+* ``Variable Name`` : Shows the list of variables that have Receiver Event.
 
-* ``Receiver Widget`` : Shows Receiver Widget list according to selected Variable.
+* ``Receiver Widget`` : Shows the list of Receiver Widget according to the selected variable.
 
-* ``Equation`` : Set Equation case. (e.g. SampleVariable==1)
+* ``Equation`` : Set Equation case. (e.g. Sample Variable = 1)
 
-* ``Scroll Location`` : Set Equation range about scroll position.
+* ``Scroll Location`` : Set Equation range of the scroll position.
 
-* ``Animation Effect`` : Set Animation Effect when Receiver Event be run.
+* ``Animation Effect`` : Set Animation Effect when Receiver Event is run.
 
-* ``Duration`` : Set Duration for Receiver Event.
+* ``Duration`` : Set Duration for the Receiver Event.
 
 
 
