@@ -44,13 +44,13 @@ Tab Menu area consists of 6 tabs - **Style, Property, Text, Transform, Mouse-Ove
 
 .. image:: resource/iu_manual_top_toolbar_tab03_style.png
 
-* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Box-Shadow / Opacity / Background-Image** .
+* ``Style Tab`` : In Style Tab, you can modify **Radius / Border / Background-Image / Box-Shadow / Opacity** .
 
 
 
 .. image:: resource/iu_manual_top_toolbar_tab02_property.png
 
-* ``Property Tab`` : In Property Tab, you can set & change properties of each widgets. Each widget has individual property options.
+* ``Property Tab`` : In Property Tab, you can set & change properties of each widget. Each widget has individual property options.
 
 
 
