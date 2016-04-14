@@ -8,7 +8,7 @@ Heroku Management
 
 When you run  **Project > Upload to Heroku (⇧⌘H)** menu, **Heroku Management Panel** will be shown.
 
-Heroku Management Panel will help you to upload the **Built Files** to your Heroku Server. Try out a tutorial below :
+With this panel, you can upload the Built Files to your Heroku Server. Try out a tutorial below :
 
 `Tutorial 203 - Heroku`_
 
