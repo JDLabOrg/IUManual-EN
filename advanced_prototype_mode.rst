@@ -59,7 +59,7 @@ Node Description
 
 .. image:: resource/scenario/ic_SB_screen.png
 
-Displays the node description of the selected page. By adding memos to the node, you can send orders to partners of your collaborative project. You can also add or change content in the **Screen Description** or **Exception** area. Double-clicking thumbnails on canvas also displays **Node Description**.
+Displays the **Node Description** of the selected page. By adding memos to the node, you can send orders to partners of your collaborative project. You can also add or change content in the **Screen Description** or **Exception** area. Double-clicking thumbnails on canvas also displays the node description.
 
 * ``Memo image area`` : Select image from the resource panel to replace the numbering in the screenshot area.
 * ``Add Memo Button`` : Create a new editable row field in the table.
