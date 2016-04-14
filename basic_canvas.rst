@@ -10,9 +10,9 @@ Canvas
 
 .. image:: resource/iu_manual_canvas.png
 
-Canvas Area displays Webview based on your structure. You can *add widget* to canvas.
+Canvas is the preview of the website. The structure designed on the canvas by **adding widgets**  will be shown in the web page. 
 
-`How to add widget to canvas`_
+`How to add widgets to canvas`_
 
 
 ----------
@@ -25,16 +25,16 @@ Context Menu - Single Widget
 
 .. image:: resource/iu_manual_canvas_context_single.png
 
-When you selected single widget in canvas, you can call **Context Menu Popup** by right-click.
+After selecting a single widget in canvas, right-click to open the **Context Menu**.
 
 
-* ``Widget`` : Displays whole widgets which are placed on current mouse pointer position.
+* ``Widget`` : Shows the whole widgets placed at the current position of the mouse pointer.
 
 .. image:: resource/iu_manual_canvas_context_single_widget.png
 
-* ``Add Memo`` : Opens `Memo Panel`_ that can add memo to selected widget.
-* ``Export to Widget`` : Opens `Export Widget Panel`_ that can export **Custom Widget** .
-* ``Show Event`` : Opens `Event Panel`_ that can add & change event to selected widget.
+* ``Add Memo`` : Opens `Memo Panel`_ where you can add memo about the selected widget.
+* ``Export to Widget`` : Opens `Export Widget Panel`_ that is used to export **Custom Widget** .
+* ``Show Event`` : Opens `Event Panel`_ that allows us to add & change the event to the selected widget.
 * ``Select Tab`` : Switches property panel to selected `Tab Menu`_
 
 
@@ -47,14 +47,14 @@ Context Menu - Muiltiple Widget
 
 .. image:: resource/iu_manual_canvas_context_multi.png
 
-When you selected multiple widget in canvas, you can call **Context Menu Popup** by right-click.
+After selecting multiple widgets in canvas, right-click to open the **Context Menu**.
 
 
-* ``Align`` : Aligns selected widgets according to selected option : **Align Left / Align Center / Align Right / Align Top / Align Middle / Align Bottom**
+* ``Align`` : Aligns the selected widgets according to the option chosen : **Align Left / Align Center / Align Right / Align Top / Align Middle / Align Bottom**
 
 .. image:: resource/iu_manual_canvas_context_multi_align.png
 
-* ``Size`` : Fixes size of selected widgets according to selected option : **Match Width / Match Height**
+* ``Size`` : Fixes the size of selected widgets according to the option chosen : **Match Width / Match Height**
 
 .. image:: resource/iu_manual_canvas_context_multi_size.png
 
