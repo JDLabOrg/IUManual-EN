@@ -5,7 +5,7 @@
 Resource Panel
 =======================
 
-When you run **View > Resource (⇧⌘R)** menu, Resource Panel will be shown. You can import resources (image / video / clipart) into Resource Panel.
+When you run **Window > Resource (⇧⌘R)** menu, Resource Panel will be shown. You can import resources (image / video / clipart) into Resource Panel.
 
 .. note :: Supported File Type : jpg / png / git / svg / mp4
 
@@ -14,11 +14,11 @@ When you run **View > Resource (⇧⌘R)** menu, Resource Panel will be shown. Y
 .. image:: resource/iu_manual_panel_resource.png
 
 
-* ``Import Resource Button`` : Imports resources from local disk.
+* ``Import Resource Button`` : Imports resources from the local disk.
 * ``Import Clipart Button`` : Imports cliparts from `Import Clipart`_ .
 * ``Resource Type Select Button`` : Sorts out files in Resource Panel by file type.
-* ``Add New Folder Button`` : Adds new folder.
-* ``Delete Button`` : Deletes selected file(s) or folder(s).
+* ``Add New Folder Button`` : Adds a new folder.
+* ``Delete Button`` : Deletes the selected file(s) or folder(s).
 
 
 ----------
@@ -27,7 +27,7 @@ When you run **View > Resource (⇧⌘R)** menu, Resource Panel will be shown. Y
 Import Clipart 
 ---------------------------
 
-You can import clipart images that supported by IUEditor.
+You can import clipart images that are supported by IUEditor.
 
 .. image:: resource/iu_manual_panel_resource_clipart.png
 
@@ -46,5 +46,5 @@ You can import clipart images that supported by IUEditor.
 Resource Management Tips
 ----------------------------
 
-* You can create groups and reorder resources files.
-* You can insert image resource to widget by drag & drop into `Image Widget`_ .
+* You can create groups and reorder files in resources.
+* You can insert image resources to widget by drag & drop into `Image Widget`_ .
