@@ -11,21 +11,21 @@
 Export Widget Panel
 ==============================
 
-You can open Export Widget Panel when :
+You can open Export Widget Panel from the left side of the canvas:
 
-* Select Widget in structure : Call Context Menu > `Export Widget`_
-* Select page in pages : Call Context Menu > `Export Page`_
-* Select composition in compositions :Call Context Menu > `Export Composition`_
+* Right-click the widget in structure section 
+* Right-click the page in pages 
+* Right-click composition in compositions 
 
 
 .. image:: resource/iu_manual_panel_export_widget.png
 
 
-* ``Customize Viewport Size`` : Resizes viewport size of custome widget.
-* ``Name`` : Set name of custom widget.
-* ``New Group`` : Set group of custom widget.
-* ``Export Directory`` : Set export directory of custom widget.
-* ``Description`` : Adds descriptions to cutsom widget.
+* ``Customize Viewport Size`` : Resizes viewport size of the custom widget.
+* ``Name`` : Sets name of custom widget.
+* ``New Group`` : Sets the group of the custom widget.
+* ``Export Directory`` : Sets the export directory of the custom widget.
+* ``Description`` : Adds descriptions to the cutsom widget.
 
 
 ----------
