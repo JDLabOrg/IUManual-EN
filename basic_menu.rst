@@ -25,7 +25,7 @@ IUEditor
 
 
 * ``About IUEditor`` : Show IUEditor's version info.
-* ``License`` : Shhow IUEditor's license info. You can enter license key and visit license page.
+* ``License`` : Show IUEditor's license info. You can enter license key and visit license page.
 * ``Preference`` : Open IUeditor `Preference`_ window. 
 
 ----------
@@ -41,8 +41,8 @@ File
 * ``Open`` : Open Finder to find IU Project file to open.
 * ``Open Recent`` : Open recent IU Project file.
 * ``Save`` : Save current project.
-* ``Duplicate`` : Duplicate project an current path.
-* ``Rename`` : Edit project name.
+* ``Duplicate`` : Duplicate project's current path.
+* ``Rename`` : Edit the name of the project.
 * ``Move To`` : Change current project's path .
 * ``Close`` : Close current project.
 
@@ -60,7 +60,7 @@ Project
 * ``Project Setting`` : Opens `Project Setting`_ panel. 
 * ``Upload to Server`` : Opens `Upload to Server`_ panel. 
 * ``Upload to Heroku`` : Opens `Heroku Management`_ panel. 
-* ``Reresh Page`` : Refresh current page. It can fix program error.
+* ``Refresh Page`` : Refresh current page. It can fix program error.
 
 ----------
 
@@ -71,8 +71,8 @@ View
 .. image:: resource/iu_manual_basic_menu_view.png
 
 
-* ``ZoomOut`` : Zoom In stage.
-* ``ZoomIn`` : Zoom Out stage.
+* ``ZoomOut`` : Zoom Out stage.
+* ``ZoomIn`` : Zoom In stage.
 * ``Outline`` : Show or hide outline of widgets in canvas.
 * ``Widget Info`` : Show or hide information of widgets in canvas.
 * ``Ruler`` : Show or hide ruler on canvas.
