@@ -27,11 +27,11 @@ Anatomy of Pages
 
 * ``index``: A basic, required page. This page represents home screen of the WordPress blog, also works as a default template in case of other page templates' absence.
 * ``single``: Single page template which is shown when a visitor enters to a specific post link.
-* ``archive``: Archive of page templates to show posts retrieved by an author of certain period
+* ``archive``: Archive of page templates to show posts retrieved by an author or during certain period
 * ``category``: Category of page templates used to display posts in a certain category
 * ``page_404``: 404 page template shown when a visitor enters to a wrong URL.
 
-In addition, user can add any other pages when WordPress template is needed. (ex: page.php, date.php, and so on)
+In addition, user can add more pages when WordPress template is needed. (ex: page.php, date.php, and so on)
 
 .. Note:: For more detailed information about anatomy of WordPress theme, please refer to the following link: https://yoast.com/wordpress-theme-anatomy/
 
