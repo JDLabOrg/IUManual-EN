@@ -26,22 +26,22 @@ Context Menu - Single Widget
 .. image:: resource/iu_manual_canvas_context_single.png
 
 After selecting a single widget in canvas, right-click to open the **Context Menu**.
+Below are information and functions in the Context Menu.
 
-
-* ``Widget`` : Shows the whole widgets placed at the current position of the mouse pointer.
+* ``Widgets`` : Shows the whole widgets placed at the current position of the mouse pointer.
 
 .. image:: resource/iu_manual_canvas_context_single_widget.png
 
 * ``Add Memo`` : Opens `Memo Panel`_ where you can add memo about the selected widget.
 * ``Export to Widget`` : Opens `Export Widget Panel`_ that is used to export **Custom Widget** .
-* ``Show Event`` : Opens `Event Panel`_ that allows us to add & change the event to the selected widget.
-* ``Select Tab`` : Switches property panel to selected `Tab Menu`_
+* ``Show Event`` : Opens `Event Panel`_ that allows us to add an event to the selected widget and later make adjustments on events
+* ``Select Tab`` : Switches Property panel on the top to the selected `Tab`_
 
 
 ----------
 
 
-Context Menu - Muiltiple Widget 
+Context Menu - Muiltiple Widgets 
 ----------------------------------------------
 
 
@@ -54,7 +54,7 @@ After selecting multiple widgets in canvas, right-click to open the **Context Me
 
 .. image:: resource/iu_manual_canvas_context_multi_align.png
 
-* ``Size`` : Fixes the size of selected widgets according to the option chosen : **Match Width / Match Height**
+* ``Size`` : Fixes the size of the selected widgets according to the option chosen : **Match Width / Match Height**
 
 .. image:: resource/iu_manual_canvas_context_multi_size.png
 
