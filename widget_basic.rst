@@ -118,3 +118,24 @@ Cell widget contains **Text Content** , aligned Vertical-Center automatically. (
 ----------
 
 
+
+.. image:: resource/widget/IUIconButton.png
+
+Icon Button
+----------
+
+.. image:: resource/iu_manual_prop_basic_IUIconButton.png
+
+Icon Button widget contains **Text Content** and **Image**, aligned Vertical-Center automatically. 
+
+
+
+**Property**
+
+* Child : Invalid
+* Link : Valid
+* Scroll Animator : Valid
+* Background Image : Valid
+* Backend Ellipsis : Valid
+
+----------
