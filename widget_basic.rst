@@ -24,6 +24,12 @@ Box widget is a fundamental widget which is generated to <div> tag. Mostly, Box 
 * Background Image : Valid
 * Backend Ellipsis : Invalid
 
+.. raw:: html
+
+    <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/_D5d3eKYFMw" frameborder="0" allowfullscreen></iframe>
+    </div>
+
 ----------
 
 
