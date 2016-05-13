@@ -71,3 +71,9 @@ Section is placed under Page Content.
 **Centered Box** 
  
 Centered Box is placed under Section (Centered Box can be removed). Centered Box used for horizontal-center layout.
+**Panel** 
+ 
+You can add a panel by press [+] button of panel group. To call panel, create link with any widget and select link target to panel. 
+**Popup** 
+ 
+You can add a popup by press [+] button of popup group. To call popup, create link with any widget and select link target to popup. 
