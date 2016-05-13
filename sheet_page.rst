@@ -48,7 +48,7 @@ Page Default Widget
 
 
 .. image:: resource/widget/IUPage.png
-**Header**
+**Page**
 
 .. image:: resource/iu_manual_prop_basic_IUPage.png 
 IUPage is same as html document. You can change page structure in property tab.
@@ -86,7 +86,7 @@ Centered Box is placed under Section (Centered Box can be removed). Centered Box
 .. image:: resource/iu_manual_prop_basic_IUPanel.png 
 You can add a panel by press [+] button of panel group. To call panel, create link with any widget and select link target to panel. 
 
-.. image:: resource/widget/IUPopup.png
+.. image:: resource/widget/IUPopUp.png
 **Popup** 
 
 .. image:: resource/iu_manual_prop_basic_IUPopup.png 
