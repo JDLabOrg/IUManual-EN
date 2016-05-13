@@ -50,7 +50,7 @@ Text widget contains **Text Content** which is generated to <p>, <h1> or <h2> ta
 
 
 
-.. image:: resource/widget/IUImage.png
+.. image:: resource/widget/IUFloatingImage.png
 
 Image
 ----------
@@ -74,7 +74,7 @@ Static Image widget contains **Image Content** which is generated to <img> tag. 
 
 
 
-.. image:: resource/widget/IUFloatingImage.png
+.. image:: resource/widget/IUImage.png
 
 Static Image
 ----------
