@@ -11,7 +11,7 @@ Tutorials
 
 Here are basic tutorials for IUEditor.
 
-`Go Tutorial`_ .
+`Go to Tutorial`_ 
 
 
 ----------
