@@ -115,8 +115,6 @@ html_theme_options = {
 # Add any paths that contain custom themes here, relative to this directory.
 html_context = {
 	'css_files':[
-		'//media.readthedocs.org/css/sphinx_rtd_theme.css',
-		'//media.readthedocs.org/css/readthedocs-doc-embed.css',
 		'//tutorial.iueditor.org/manual/css/my_theme.css',
 	],
 }
