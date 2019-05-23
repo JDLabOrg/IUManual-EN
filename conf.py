@@ -117,9 +117,9 @@ html_theme_path = ["sphinx_rtd_theme"]
 
 html_context = {
 	'css_files':[
-		'http://media.readthedocs.org/css/sphinx_rtd_theme.css',
-		'http://media.readthedocs.org/css/readthedocs-doc-embed.css',
-		'http://tutorial.iueditor.org/manual/css/my_theme.css',
+		'media.readthedocs.org/css/sphinx_rtd_theme.css',
+		'media.readthedocs.org/css/readthedocs-doc-embed.css',
+		'tutorial.iueditor.org/manual/css/my_theme.css',
 	],
 }
 
