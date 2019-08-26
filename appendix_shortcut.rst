@@ -13,7 +13,6 @@ Project Management
 ----------------------------
 
 * ``Project Setting (Shift+Cmd+P)`` : Opens Project Setting panel.
-* ``Upload to Heroku (Shift+Cmd+H)`` : Opens Heroku Management panel.
 * ``Refresh (Shift+Cmd+F)`` : Refreshes current page.
 * ``Import Custom Widget (Shift+Cmd+W)`` : Opens Custom Widget Panel.
 

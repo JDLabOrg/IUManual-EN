@@ -13,8 +13,6 @@ You can download **IUEditor** from website below.
 * IUEditor Facebook Page (Korean): https://www.facebook.com/iueditor
 
 
-.. note:: Anyone can use IUEditor for personal and non-commercial projects (up to 5 pages).
-
 ---------
 
 
