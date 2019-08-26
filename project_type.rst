@@ -51,13 +51,3 @@ AngularJS Project is a Dynamic Project which can be connected with AngularJS as 
 
 
 .. image:: resource/iu_manual_project_new_angularjs.png
-
--------------
-
-Wordpress Project
------------------------
-
-Wordpress Project is a Dynamic Project which can be connected with Wordpress as back-end. Wordpress project has special widgets for wordpress templates. You can select Wordpress Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
-
-
-.. image:: resource/iu_manual_project_new_wordpress.png
