@@ -63,6 +63,7 @@ Text widget contains **Text Content** which is generated to <p>, <h1> or <h2> ta
 
 Image
 ----------
+.. _Image_Widget:
 
 .. image:: resource_new/img.png
 
