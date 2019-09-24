@@ -140,7 +140,7 @@ html_context = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['manual']
+html_static_path = ['_static']
 
 #html_style = 'css/my_theme.css'
 
@@ -187,6 +187,13 @@ html_show_sourcelink = True
 
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'SphinxRTDthemedemodoc'
+
+
+# image options
+# ref : https://pythonhosted.org/sphinxcontrib-images/
+images_config = {
+
+}
 
 
 # -- Options for LaTeX output --------------------------------------------------
