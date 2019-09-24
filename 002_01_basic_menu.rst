@@ -1,4 +1,3 @@
-.. _Preference: ./preference.html
 .. _Project Setting: ./project_setting.html
 .. _Event Panel: ./panel_event.html
 .. _Resource Panel: ./panel_resource.html
@@ -24,7 +23,7 @@ IUEditor
 
 
 * ``About IUEditor`` : Show IUEditor's version info.
-* ``Preference`` : Open IUeditor `Preference`_ window.
+* ``Preference`` : Open IUEditor :doc:`Preference<009_00_preference>` window.
 
 ----------
 

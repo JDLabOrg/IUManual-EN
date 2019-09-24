@@ -1,9 +1,10 @@
 .. _Custom Widget : ./panel_management_widget.html
 
 
-
 Preference
 =======================
+
+
 Set IUEditor's service environment.
 
 -------------
