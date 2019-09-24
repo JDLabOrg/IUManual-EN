@@ -13,8 +13,8 @@
 
 import sys, os
 
-sys.path.append(os.path.abspath('.'))
-sys.path.append(os.path.abspath('./test_py_module'))
+# sys.path.append(os.path.abspath('.'))
+# sys.path.append(os.path.abspath('./test_py_module'))
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -36,7 +36,7 @@ extensions = [
 ]
 
 # Math
-mathjax_path = "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+# mathjax_path = "//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
