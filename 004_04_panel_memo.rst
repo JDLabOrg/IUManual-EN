@@ -6,7 +6,7 @@ Memo Panel
 When you run **Window > Memo (⇧⌘M)** menu, Memo Panel will be shown. You can add a memo to the selected widget.
 
 
-.. image:: resource/iu_manual_panel_memo.png
+.. image:: resource_new/panel_memo.png
 
 
 * ``Show / Hide Table Toggle Button`` : Open or Close Memo List area.

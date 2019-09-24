@@ -13,7 +13,7 @@ When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** w
 ----------
 
 
-.. image:: resource/iu_manual_project_setting_01default.png
+.. image:: resource_new/proj_setting_default.png
 
 Default
 ------------
@@ -28,7 +28,7 @@ Default
 -------------
 
 
-.. image:: resource/iu_manual_project_setting_02meta.png
+.. image:: resource_new/proj_setting_meta.png
 
 Meta
 ------------
@@ -46,7 +46,7 @@ Meta
 ------------
 
 
-.. image:: resource/iu_manual_project_setting_03build.png
+.. image:: resource_new/proj_setting_build.png
 
 Build
 ------------
@@ -54,7 +54,7 @@ Build
 
 * ``Build Path`` : Set Build path for built files.
 * ``Build Resource Path`` : Set Build Resource Path for built resource files.
-* ``Resource Prefix`` : Set Resource Prefix. 
+* ``Resource Prefix`` : Set Resource Prefix.
 * ``Link Prefix`` : Set Link Prefix.
 * ``HTML Port`` : Set HTML Port for build.
 
@@ -64,7 +64,7 @@ Build
 ------------
 
 
-.. image:: resource/iu_manual_project_setting_04django.png
+.. image:: resource_new/proj_setting_django.png
 
 Django
 ------------

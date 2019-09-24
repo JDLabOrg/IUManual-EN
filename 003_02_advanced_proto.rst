@@ -18,8 +18,6 @@ And ``Refresh Thumbnail`` updates the page thumbnails that are included in the w
 Revision History
 -------------------------------
 
-.. image:: resource_new/advanced_proto_revision.png
-
 
 Displays **the history of revision** made in the current project. You can add or change the history.
 
@@ -31,19 +29,19 @@ Displays **the history of revision** made in the current project. You can add or
 Project Workflow
 -------------------------------
 
-.. image:: resource_new/advanced_proto_workflow.png
+.. image:: resource_new/advanced_proto_revision.png
 
 Displays **Workflow** of the current project. Users can add nodes by drag and drop of page thumbnails. Press delete key to delete the selected node.
 
 
-.. image:: resource/iu_manual_advanced_prototype_mode_thumbnail.png
+
 * ``Default thumbnails`` : A list of page thumbnails included in the project.
 * ``Custom thumbnails`` : A list of page thumbnails captured by using **Page Capture Button** on the toolbar in editor mode.
 
 .. note:: Thumbnails can be added by using **Page Capture Button**  in **Editor Mode**.
 
 
-.. image:: resource/iu_manual_advanced_prototype_mode_workflow.png
+.. image:: resource_new/advanced_proto_workflow.png
 * ``Rectangle Button`` : Adds a square dialog below the selected node.
 * ``Rhombus Button`` : Adds a diamond dialog below the selected node.
 

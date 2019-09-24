@@ -14,7 +14,7 @@ When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You c
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_01scr.png
+.. image:: resource_new/panel_event_scroll.png
 
 Scroll Animator
 ---------------
@@ -30,7 +30,7 @@ Adds Scroll Animator to animate widget by scrolling. When target widget closing 
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_02var.png
+.. image:: resource_new/panel_event_variable.png
 
 Variable
 ----------------
@@ -51,7 +51,7 @@ Adds Variable to the selected widget.
 
 ----------
 
-.. image:: resource/iu_manual_panel_event_03receiver.png
+.. image:: resource_new/panel_event_receiver.png
 
 Receiver
 -------------
@@ -70,6 +70,3 @@ Adds Receiver Event to the selected widget. When **Equation** returns True, Rece
 * ``Animation Effect`` : Set Animation Effect when Receiver Event is run.
 
 * ``Duration`` : Set Duration for the Receiver Event.
-
-
-

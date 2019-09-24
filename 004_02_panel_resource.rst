@@ -11,7 +11,7 @@ When you run **Window > Resource (⇧⌘R)** menu, Resource Panel will be shown.
 
 
 
-.. image:: resource/iu_manual_panel_resource.png
+.. image:: resource_new/panel_resource.png
 
 
 * ``Import Resource Button`` : Imports resources from the local disk.
@@ -19,28 +19,6 @@ When you run **Window > Resource (⇧⌘R)** menu, Resource Panel will be shown.
 * ``Resource Type Select Button`` : Sorts out files in Resource Panel by file type.
 * ``Add New Folder Button`` : Adds a new folder.
 * ``Delete Button`` : Deletes the selected file(s) or folder(s).
-
-
-----------
-
-
-Import Clipart 
----------------------------
-
-You can import clipart images that are supported by IUEditor.
-
-.. image:: resource/iu_manual_panel_resource_clipart.png
-
-
-* ``Import`` : Imports selected clipart(s)
-* ``Cancel`` : Closes Clipart Panel.
-* ``Grid / List View Change Button`` : Switches view type (List & Grid).
-* ``Clipart Type Select Button`` : Sorts out clipart in Clipart Panel by tag.
-* ``Search`` : Searches by filename.
-
-
-----------
-
 
 
 Resource Management Tips

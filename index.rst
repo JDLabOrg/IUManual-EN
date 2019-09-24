@@ -20,77 +20,44 @@ You can download **IUEditor** from website below.
    :maxdepth: 2
    :caption: Introduction
 
-<<<<<<< HEAD:000_00_index.rst
    001_01_intro_what_is
    001_02_intro_env
-=======
-   intro_what_is_iueditor
-   intro_environment
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Basic Feature
 
-<<<<<<< HEAD:000_00_index.rst
    002_01_basic_menu
    002_02_basic_top_toolbar
    002_03_basic_mid_toolbar
    002_04_basic_widget
    002_05_basic_nav
    002_06_basic_canvas
-=======
-   basic_menu
-   basic_top_toolbar
-   basic_middle_toolbar
-   basic_widget_panel
-   basic_navigation
-   basic_canvas
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Advanced Feature
 
-<<<<<<< HEAD:000_00_index.rst
    003_01_advanced_dev
    003_02_advanced_proto
    advanced_heroku
    advanced_server
 
-=======
-   advanced_developer_mode
-   advanced_prototype_mode
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 .. toctree::
    :maxdepth: 2
    :caption: Panel
 
-<<<<<<< HEAD:000_00_index.rst
    004_01_panel_project_setting
    004_02_panel_resource
    004_03_panel_event
    004_04_panel_memo
    004_05_panel_manage_custom
    004_06_panel_export
-=======
-   project_setting
-   panel_resource
-   panel_event
-   panel_memo
-   panel_management_widget
-   panel_export_widget
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Project Type
 
-<<<<<<< HEAD:000_00_index.rst
    005_00_project_type
    wordpress_basic_use
    wordpress_site_information
@@ -98,74 +65,40 @@ You can download **IUEditor** from website below.
    wordpress_category
    wordpress_comment
    wordpress_etc
-=======
-   project_type
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Sheet
 
-<<<<<<< HEAD:000_00_index.rst
    006_01_sheet_page
    006_02_sheet_comp
-=======
-   sheet_page
-   sheet_composition
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Widget
 
-<<<<<<< HEAD:000_00_index.rst
    007_01_widget_basic
    007_02_widget_complex
    007_03_widget_programming
-=======
-   widget_basic
-   widget_complex
-   widget_programming
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
    widget_wordpress
-
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Known Bugs
 
-<<<<<<< HEAD:000_00_index.rst
    008_00_known_bug_list
-=======
-   known_bug_list
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
-
 
 .. toctree::
    :maxdepth: 2
    :caption: Preference
 
-<<<<<<< HEAD:000_00_index.rst
    009_00_preference
-=======
-   preference
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Appendix
 
-<<<<<<< HEAD:000_00_index.rst
    010_01_appendix_templates
    010_02_appendix_shortcut
    010_03_appendix_dict
    010_04_appendix_tutorial
-=======
-   appendix_templates
-   appendix_shortcut
-   appendix_dict
-   tutorial
->>>>>>> 6ed0507248b803d815db4eb26e294c49cadc47f9:index.rst
