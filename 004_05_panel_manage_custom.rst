@@ -1,9 +1,3 @@
-.. _Custom Widget List : #id1
-.. _Custom Widget Info : #id2
-
-
-
-
 Manage Custom Widget Panel
 ==================================
 
@@ -21,7 +15,7 @@ Top Bar
 * ``Widget Tab`` : Manage imported custom widgets. Import custom widget with **import button**.
 * ``Page Tab`` : Manage imported custom page. Import custom page with **import button**.
 * ``Composition Tab`` : Manage imported custom composition. Import custom composition with **import button**.
-* ``Widget Information Toggle Button`` : Show or hide `Custom Widget Information`_ area.
+* ``Widget Information Toggle Button`` : Show or hide :ref:`Custom Widget Information` area.
 * ``Search Bar`` : Searches by custom widget name.
 
 
@@ -31,7 +25,7 @@ Top Bar
 Widget Group List
 ----------------------------
 
-Widget Group List is placed at the left side of the panel. You can browse `Custom Widget List`_ by selecting the group name.
+Widget Group List is placed at the left side of the panel. You can browse :ref:`Custom Widget List` by selecting the group name.
 
 
 
@@ -51,7 +45,7 @@ Custom Widget List is placed at the center of the panel.
 ----------
 
 
-Custom Widget Info
+Custom Widget Information
 ------------------------------
 
 Custom Widget Info is placed at the right side of the panel.

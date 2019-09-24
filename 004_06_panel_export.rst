@@ -1,13 +1,3 @@
-.. _Import Widget Panel : ./panel_import_widget.html
-.. _Navigation > Page : ./basic_navigation.html#id2
-.. _Navigation > Composition : ./basic_navigation.html#id3
-
-.. _Export Widget : #export-widget-iuw
-.. _Export Page : #export-page-iup
-.. _Export Composition : #export-composition-iuc
-
-
-
 Export Widget Panel
 ==============================
 
@@ -25,7 +15,7 @@ You can open Export Widget Panel from the left side of the canvas:
 * ``Name`` : Sets name of custom widget.
 * ``New Group`` : Sets the group of the custom widget.
 * ``Export Directory`` : Sets the export directory of the custom widget.
-* ``Description`` : Adds descriptions to the cutsom widget.
+* ``Description`` : Adds descriptions to the custom widget.
 
 
 ----------

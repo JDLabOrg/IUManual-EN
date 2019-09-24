@@ -1,5 +1,3 @@
-
-
 Page
 ============
 
@@ -19,10 +17,10 @@ When you select the index page and click the **Property** button, Page Setting p
 * **Header** : Set **Header + Page Content Page Layout**
 * **Footer** : Set **Footer + Page Content Page Layout**
 
-* **Page Title** : Adds Page Title to current page.
-* **Page Keyword** : Adds Page Keywords to current page. (Multiple keywords available)
-* **Page Description** : Adds Page Description to current page.
-* **Page Meta Image** : Adds Meta Image to current page. (URL)
+* **Page Title** : Add Page Title to current page.
+* **Page Keyword** : Add Page Keywords to current page. (Multiple keywords available)
+* **Page Description** : Add Page Description to current page.
+* **Page Meta Image** : Add Meta Image to current page. (URL)
 
 
 -------------
@@ -35,8 +33,8 @@ When you click the **Project > Project Code (⇧⌘C)** button, Project Code pan
 
 .. image:: resource_new/sheet_page_code.png
 
-* **Page Header Custom Code** : Adds Custom Code in header of current page.
-* **Page Header Custom Code for Backend** : Adds Custom Code for Backend in header of current page.
+* **Page Header Custom Code** : Add Custom Code in header of current page.
+* **Page Header Custom Code for Backend** : Add Custom Code for Backend in header of current page.
 
 
 
