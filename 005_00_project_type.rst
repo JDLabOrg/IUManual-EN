@@ -36,6 +36,7 @@ Default Project is a Static Project which is not connected with any back-end fra
 
 Django Project
 -----------------------
+.. _Django_Project:
 
 Django Project is a Dynamic Project which can be connected with Django as back-end framework. You can select Django Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 

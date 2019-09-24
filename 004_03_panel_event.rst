@@ -1,14 +1,7 @@
-.. _Scroll Animator : #id1
-.. _Variable : #id2
-
-
-
-
-
 Event Panel
 ====================
 
-When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like `Scroll Animator`_ or `Variable`_ .
+When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like :ref:`Scroll Animator` or :ref:`Variable`.
 
 
 
@@ -19,8 +12,7 @@ When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You c
 Scroll Animator
 ---------------
 
-Adds Scroll Animator to animate widget by scrolling. When target widget closing to middle of browser, selected value will transform from before to after.
-
+Adds Scroll Animator to animate widget by scrolling. When the target widget appear in the middle of browser, the selected value will transform from before to after.
 
 * ``X-Position`` : Adds Scroll Animator to X-Position.
 * ``Y-Position`` : Adds Scroll Animator to Y-Position.

@@ -1,7 +1,3 @@
-.. _Import Clipart : #id1
-.. _Image Widget : ./widget_basic.html#image
-
-
 Resource Panel
 =======================
 
@@ -25,4 +21,4 @@ Resource Management Tips
 ----------------------------
 
 * You can create groups and reorder files in resources.
-* You can insert image resources to widget by drag & drop into `Image Widget`_ .
+* You can insert image resources to widget by drag & drop into :ref:`Image Widget<Image_Widget>`.

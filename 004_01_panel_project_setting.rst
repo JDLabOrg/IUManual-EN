@@ -1,14 +1,7 @@
-.. _Default : #id1
-.. _Meta : #id2
-.. _Build : #id3
-.. _Django : #id4
-.. _Django Project : ./project_type.html#django-project
-
-
 Project Setting
 =======================
 
-When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** will be shown. You can modify settings from `Default`_ , `Meta`_ , `Build`_ , `Django`_ Tab menu.
+When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** will be shown. You can modify settings from :ref:`Default`, :ref:`Meta`, :ref:`Build`, :ref:`Django` Tab menu.
 
 ----------
 
@@ -69,12 +62,12 @@ Build
 Django
 ------------
 
-.. note :: Django tab is available on `Django Project`_ .
+.. note :: Django tab is available on :ref:`Django Project<Django_Project>`.
 
 * ``Django Build Path`` : Set Django Build path for Django build files.
 * ``Django Resource Path`` : Set Django Resource Path for Django resource files.
 * ``Django Resource Prefix`` : Set Django Resource Prefix.
-* ``Runserver after build`` : Set Runserver option.
+* ``Run server after build`` : Set Run Server option.
 * ``Django Port`` : Set Django Port for Django build.
 * ``Python Interpreter Path`` : Set Python Interpreter Path for Django build.
 * ``Django Manage.py Path`` : Set Manage.py path for Django build.

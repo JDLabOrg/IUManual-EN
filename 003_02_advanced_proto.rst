@@ -29,7 +29,7 @@ Project Workflow
 
 .. image:: resource_new/advanced_proto_revision.png
 
-Display **Workflow** of the current project. Users can add nodes by drag and drop of page thumbnails. Press delete key to delete the selected node.
+Display **Workflow** of the current project. Users can add nodes by drag and drop of page's thumbnail. Press delete key to delete the selected node.
 
 
 * ``Default thumbnails`` : A list of page thumbnails included in the project.
