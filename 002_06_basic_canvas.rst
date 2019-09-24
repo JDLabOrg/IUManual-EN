@@ -10,7 +10,7 @@ Canvas
 
 Canvas is the preview of the website. The structure designed on the canvas by **adding widgets**  will be shown in the web page.
 
-:ref:How to add widgets to canvas<How_to_add_widget_to_canvas>`
+:ref:`How to add widgets to canvas<How_to_add_widget_to_canvas>`
 
 
 ----------
