@@ -10,7 +10,7 @@
 Middle Toolbar
 ==============
 
-.. image:: resource_new/mid_toolbar.png
+.. thumbnail:: resource_new/mid_toolbar.png
 
 Middle Toolbar is placed at the top of canvas and contains `Page Capture`_ / `Position`_ / `Frame`_ / `Background-Color`_ / `Show/Hide Widget Button`_ area.
 
