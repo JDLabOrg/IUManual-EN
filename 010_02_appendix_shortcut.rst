@@ -1,4 +1,4 @@
-
+`
 Shortcut
 =================
 
@@ -10,9 +10,9 @@ Shortcut
 Project Management
 ----------------------------
 
-* ``Project Setting (Shift+Cmd+P)`` : Opens Project Setting panel.
-* ``Refresh (Shift+Cmd+F)`` : Refreshes current page.
-* ``Import Custom Widget (Shift+Cmd+W)`` : Opens Custom Widget Panel.
+* ``Project Setting`` :kbd:`Shift+Cmd+P` : Opens Project Setting panel.
+* ``Refresh`` :kbd:`Shift+Cmd+F` : Refreshes current page.
+* ``Import Custom Widget`` :kbd:`Shift+Cmd+W` : Opens Custom Widget Panel.
 
 ----------
 
@@ -21,8 +21,8 @@ Mode Switch
 ----------------------------
 
 * ``Editor Mode`` :kbd:`Cmd+[` : Switch to Editor Mode.
-* ``Developer Mode (Cmd+])`` : Switch to Developer Mode.
-* ``Prototype Mode (Cmd+\)`` : Switch to Prototype Mode.
+* ``Developer Mode`` :kbd:`Cmd+]` : Switch to Developer Mode.
+* ``Prototype Mode`` :kbd:`Cmd+\` : Switch to Prototype Mode.
 
 ----------
 
@@ -30,11 +30,11 @@ Mode Switch
 Add Widget
 ---------------------
 
-* ``IUBox (Cmd+1)`` : Select IUBox widget to add on canvas.
-* ``IUText (Cmd+2)`` : Select IUText widget to add on canvas.
-* ``IUImage (Cmd+3)`` : Select IUImage widget to add on canvas.
-* ``IUStatic Image (Cmd+4)`` : Select IUStatic Image widget to add on canvas.
-* ``IUCell (Cmd+5)`` : Select IUCell widget to add on canvas.
+* ``IUBox`` :kbd:`Cmd+1` : Select IUBox widget to add on canvas.
+* ``IUText`` :kbd:`Cmd+2` : Select IUText widget to add on canvas.
+* ``IUImage`` :kbd:`(Cmd+3)` : Select IUImage widget to add on canvas.
+* ``IUStatic Image`` :kbd:`(Cmd+4)` : Select IUStatic Image widget to add on canvas.
+* ``IUCell`` :kbd:`(Cmd+5)` : Select IUCell widget to add on canvas.
 
 
 ----------
@@ -43,11 +43,11 @@ Add Widget
 Widget Control
 ---------------------
 
-* ``Copy (Cmd+C)`` : Copy selected widget.
-* ``Paste (Cmd+V)`` : Paste copied widget.
-* ``Undo (Cmd+Z)`` : Undo steps.
-* ``Duplicate (Cmd+D)`` : Duplicate selected widget.
-* ``Redo (Shift+Cmd+Z)`` : Redo steps.
+* ``Copy`` :kbd:`Cmd+C` : Copy selected widget.
+* ``Paste`` :kbd:`Cmd+V` : Paste copied widget.
+* ``Undo`` :kbd:`Cmd+Z` : Undo steps.
+* ``Duplicate`` :kbd:`Cmd+D` : Duplicate selected widget.
+* ``Redo`` :kbd:`Shift+Cmd+Z` : Redo steps.
 
 
 ----------
@@ -56,12 +56,12 @@ Widget Control
 View Management
 --------------------
 
-* ``Zoom In (Cmd+ +)`` : Zoom In stage.
-* ``Zoom Out (Cmd+ -)`` : Zoom Out stage.
-* ``Widget Panel (Cmd+Return)`` : Show and Hide Widget panel.
-* ``Event Panel (Shift+Cmd+E)`` : Opens Event panel.
-* ``Resource Panel (Shift+Cmd+R)`` : Opens Resource panel.
-* ``Memo (Shift+Cmd+M)`` : Opens Memo panel.
+* ``Zoom In`` :kbd:`Cmd+ +` : Zoom In stage.
+* ``Zoom Out`` :kbd:`Cmd+ -` : Zoom Out stage.
+* ``Widget Panel`` :kbd:`Cmd+Return` : Show and Hide Widget panel.
+* ``Event Panel`` :kbd:`Shift+Cmd+E` : Opens Event panel.
+* ``Resource Panel`` :kbd:`Shift+Cmd+R` : Opens Resource panel.
+* ``Memo`` :kbd:`Shift+Cmd+M` : Opens Memo panel.
 
 
 ----------
@@ -70,8 +70,8 @@ View Management
 Canvas View Management
 --------------------------------
 
-* ``Show Outline (Cmd+L)`` : Show or hide outline of widgets in canvas.
-* ``Show Widget Info (Cmd+I)`` : Show or hide information of widgets in canvas.
-* ``Show Ruler (Cmd+R)`` : Show or hide ruler on canvas.
-* ``Show Guide (Cmd+;)`` : Show or hide guide on canvas.
-* ``Tracing (Shift+Cmd+T)`` : Show or hide tracing image on canvas.
+* ``Show Outline`` :kbd:`Cmd+L` : Show or hide outline of widgets in canvas.
+* ``Show Widget Info`` :kbd:`Cmd+I` : Show or hide information of widgets in canvas.
+* ``Show Ruler`` :kbd:`Cmd+R` : Show or hide ruler on canvas.
+* ``Show Guide`` :kbd:`Cmd+;` : Show or hide guide on canvas.
+* ``Tracing`` :kbd:`Shift+Cmd+T` : Show or hide tracing image on canvas.
