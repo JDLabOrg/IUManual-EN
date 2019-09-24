@@ -8,7 +8,7 @@
 Navigation
 ==========
 
-.. image:: resource/iu_manual_navigation.png
+.. image:: resource_new/basic_nav.png
 
 Navigation area is at the left side of canvas. Three key elements are `Structure`_ , `Page`_ ,and `Composition`_.
 
@@ -55,7 +55,7 @@ Composition
 ------------
 
 Composition tab shows the design compositions of the current project. You can **add, remove, and rename composition & group**.
- 
+
 * ``Add New Custom Composition Button`` : Adds a new custom composition.
 * ``Add New Composition Button`` : Adds a new composition.
 * ``Add New Group Button`` : Adds a new group.
@@ -77,6 +77,4 @@ References
 3. Type new name as you want
 4. Press **Enter Key**
 
-.. note :: You can not use these names : **id / ifdef / default** 
-
-
+.. note :: You can not use these names : **id / ifdef / default**

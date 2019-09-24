@@ -10,7 +10,7 @@
 Middle Toolbar
 ==============
 
-.. image:: resource/iu_manual_middle_toolbar.png
+.. image:: resource_new/mid_toolbar.png
 
 Middle Toolbar is placed at the top of canvas and contains `Page Capture`_ / `Position`_ / `Frame`_ / `Background-Color`_ / `Show/Hide Widget Button`_ area.
 
@@ -22,7 +22,7 @@ Middle Toolbar is placed at the top of canvas and contains `Page Capture`_ / `Po
 Page Capture
 -------
 
-Captures the current page and adds custom thumnail in **Prototype Mode**. 
+Captures the current page and adds custom thumnail in **Prototype Mode**.
 
 
 ----------
@@ -32,7 +32,7 @@ Captures the current page and adds custom thumnail in **Prototype Mode**.
 Position
 --------
 
-Position area consists of **Position/ Align options/ Input fields/ Stepper for X & Y position**. 
+Position area consists of **Position/ Align options/ Input fields/ Stepper for X & Y position**.
 
 
 * ``Position`` : Select position from select - **Absolute/ Relative/ Fixed**.
@@ -49,7 +49,7 @@ Position area consists of **Position/ Align options/ Input fields/ Stepper for X
 Frame
 -----
 
-Frame area consists of **Input fields/ stepper for width & height value**. 
+Frame area consists of **Input fields/ stepper for width & height value**.
 
 * ``Width input field & stepper`` : You can change **Width** value by typing value into text field or clicking stepper. (px or %)
 * ``Height input field & stepper`` : You can change **Height** value by typing value into text field or clicking stepper. (px or %)

@@ -8,9 +8,9 @@
 Canvas
 ===========
 
-.. image:: resource/iu_manual_canvas.png
+.. image:: resource_new/canvas.png
 
-Canvas is the preview of the website. The structure designed on the canvas by **adding widgets**  will be shown in the web page. 
+Canvas is the preview of the website. The structure designed on the canvas by **adding widgets**  will be shown in the web page.
 
 `How to add widgets to canvas`_
 
@@ -19,18 +19,18 @@ Canvas is the preview of the website. The structure designed on the canvas by **
 
 
 
-Context Menu - Single Widget 
+Context Menu - Single Widget
 ----------------------------------------------
 
 
-.. image:: resource/iu_manual_canvas_context_single.png
+.. image:: resource_new/single_widget_01.png
 
 After selecting a single widget in canvas, right-click to open the **Context Menu**.
 Below are information and functions in the Context Menu.
 
 * ``Widgets`` : Shows the whole widgets placed at the current position of the mouse pointer.
 
-.. image:: resource/iu_manual_canvas_context_single_widget.png
+.. image:: resource_new/single_widget_02.png
 
 * ``Add Memo`` : Opens `Memo Panel`_ where you can add memo about the selected widget.
 * ``Export to Widget`` : Opens `Export Widget Panel`_ that is used to export **Custom Widget** .
@@ -41,21 +41,19 @@ Below are information and functions in the Context Menu.
 ----------
 
 
-Context Menu - Muiltiple Widgets 
+Context Menu - Muiltiple Widgets
 ----------------------------------------------
 
 
-.. image:: resource/iu_manual_canvas_context_multi.png
+.. image:: resource_new/multi_widget_01.png
 
 After selecting multiple widgets in canvas, right-click to open the **Context Menu**.
 
 
 * ``Align`` : Aligns the selected widgets according to the option chosen : **Align Left / Align Center / Align Right / Align Top / Align Middle / Align Bottom**
 
-.. image:: resource/iu_manual_canvas_context_multi_align.png
+.. image:: resource_new/multi_widget_02.png
 
 * ``Size`` : Fixes the size of the selected widgets according to the option chosen : **Match Width / Match Height**
 
-.. image:: resource/iu_manual_canvas_context_multi_size.png
-
-
+.. image:: resource_new/multi_widget_03.png
