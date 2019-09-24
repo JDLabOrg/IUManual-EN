@@ -1,10 +1,7 @@
-Basic Widget
-============
-
 .. _How_to_add_widget_to_canvas:
 
------------
-
+Basic Widget
+============
 
 .. image:: resource/widget/IUBox.png
 
