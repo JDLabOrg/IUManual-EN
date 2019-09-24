@@ -22,7 +22,7 @@ Mode Switch
 
 * ``Editor Mode`` :kbd:`Cmd+[` : Switch to Editor Mode.
 * ``Developer Mode`` :kbd:`Cmd+]` : Switch to Developer Mode.
-* ``Prototype Mode`` :kbd:`Cmd+\` : Switch to Prototype Mode.
+* ``Prototype Mode`` :kbd:`Cmd+\\` : Switch to Prototype Mode.
 
 ----------
 
@@ -32,9 +32,9 @@ Add Widget
 
 * ``IUBox`` :kbd:`Cmd+1` : Select IUBox widget to add on canvas.
 * ``IUText`` :kbd:`Cmd+2` : Select IUText widget to add on canvas.
-* ``IUImage`` :kbd:`(Cmd+3)` : Select IUImage widget to add on canvas.
-* ``IUStatic Image`` :kbd:`(Cmd+4)` : Select IUStatic Image widget to add on canvas.
-* ``IUCell`` :kbd:`(Cmd+5)` : Select IUCell widget to add on canvas.
+* ``IUImage`` :kbd:`Cmd+3` : Select IUImage widget to add on canvas.
+* ``IUStatic Image`` :kbd:`Cmd+4` : Select IUStatic Image widget to add on canvas.
+* ``IUCell`` :kbd:`Cmd+5` : Select IUCell widget to add on canvas.
 
 
 ----------
