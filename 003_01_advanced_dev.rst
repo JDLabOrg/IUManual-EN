@@ -1,18 +1,11 @@
-.. _HTML ID : #HTML ID
-.. _Custom Code : #Custom Code
-
-
-
-
 Developer Mode
 =======================
-
 
 .. image:: resource_new/advanced_dev.png
 
 From the toolbar at the top, you can switch to **Developer Mode** by clicking ``Mode Switching Button``.
 
-In Developer mode, **Code Panel** will be shown. It consists of `HTML ID`_ / `Custom Code`_ .
+In Developer mode, **Code Panel** will be shown. It consists of :ref:`HTML ID` / :ref:`Custom Code`.
 
 
 ----------

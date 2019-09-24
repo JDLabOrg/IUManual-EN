@@ -1,6 +1,3 @@
-
-
-
 Prototype Mode
 =======================
 
@@ -8,8 +5,8 @@ Prototype Mode
 
 From the toolbar at the top, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
-Prototype Mode offers `Revision History`_ / `Project Workflow`_ / `Node Description`_ page.
-You can refresh scenario by clicking ``Reset Workflow`` and can build **HTML Scenario** by clicking ``Build Senario``.
+Prototype Mode offers :ref:`Revision History` / :ref:`Project Workflow` / :ref:`Node Description` page.
+You can refresh scenario by clicking ``Reset Workflow`` and can build **HTML Scenario** by clicking ``Build Scenario``.
 And ``Refresh Thumbnail`` updates the page thumbnails that are included in the workflow and the page list.
 
 
@@ -19,11 +16,11 @@ Revision History
 -------------------------------
 
 
-Displays **the history of revision** made in the current project. You can add or change the history.
+Display **the history of revision** made in the current project. You can add or change the history.
 
 
-* ``Add New Date`` : Creates a new editable row field in the table.
-* ``Remove Date`` : Deletes the selected row from table.
+* ``Add New Date`` : Create a new editable row field in the table.
+* ``Remove Date`` : Delete the selected row from table.
 
 ----------
 
@@ -32,8 +29,7 @@ Project Workflow
 
 .. image:: resource_new/advanced_proto_revision.png
 
-Displays **Workflow** of the current project. Users can add nodes by drag and drop of page thumbnails. Press delete key to delete the selected node.
-
+Display **Workflow** of the current project. Users can add nodes by drag and drop of page thumbnails. Press delete key to delete the selected node.
 
 
 * ``Default thumbnails`` : A list of page thumbnails included in the project.
@@ -43,12 +39,12 @@ Displays **Workflow** of the current project. Users can add nodes by drag and dr
 
 
 .. image:: resource_new/advanced_proto_workflow.png
-* ``Rectangle Button`` : Adds a square dialog below the selected node.
-* ``Rhombus Button`` : Adds a diamond dialog below the selected node.
+* ``Rectangle Button`` : Add a square dialog below the selected node.
+* ``Rhombus Button`` : Add a diamond dialog below the selected node.
 
 
-* ``Inward Label`` : Adds a label on top of the selected node.
-* ``Outward Label`` : Adda a label below the selected node.
+* ``Inward Label`` : Add a label on top of the selected node.
+* ``Outward Label`` : Add a label below the selected node.
 
 
 
@@ -60,10 +56,10 @@ Node Description
 
 .. image:: resource/scenario/ic_SB_screen.png
 
-Displays the **Node Description** of the selected page. By adding memos to the node, you can send orders to partners of your collaborative project. You can also add or change content in the **Screen Description** or **Exception** area. Double-clicking the thumbnails on canvas also displays the node description.
+Display the **Node Description** of the selected page. By adding memos to the node, you can send orders to partners of your collaborative project. You can also add or change content in the **Screen Description** or **Exception** area. Double-clicking the thumbnails on canvas also displays the node description.
 
-* ``Memo image area`` : Selects an image from the resource panel to replace the numbering in the screenshot area.
-* ``Add Memo Button`` : Creates a new editable row field in the table.
+* ``Memo image area`` : Select an image from the resource panel to replace the numbering in the screenshot area.
+* ``Add Memo Button`` : Create a new editable row field in the table.
 * ``Delete Button`` : Deletes the selected memo in the table.
 
-When you click the screenshot area, the number of the selected memo will apear.
+When you click the screenshot area, the number of the selected memo will appear.
