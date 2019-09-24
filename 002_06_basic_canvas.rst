@@ -1,8 +1,3 @@
-.. _Memo Panel : ./panel_memo.html
-.. _Event Panel : ./panel_event.html
-.. _Tab Menu : ./basic_top_toolbar.html#id2
-.. _Export Widget Panel : ./panel_export_widget.html
-
 Canvas
 ===========
 
@@ -30,16 +25,16 @@ Below are information and functions in the Context Menu.
 
 .. image:: resource_new/single_widget_02.png
 
-* ``Add Memo`` : Opens `Memo Panel`_ where you can add memo about the selected widget.
-* ``Export to Widget`` : Opens `Export Widget Panel`_ that is used to export **Custom Widget** .
-* ``Show Event`` : Opens `Event Panel`_ that allows us to add an event to the selected widget and later make adjustments on events
-* ``Select Tab`` : Switches Property panel on the top to the selected `Tab`_
+* ``Add Memo`` : Opens :doc:`Memo Panel<004_04_panel_memo>` where you can add memo about the selected widget.
+* ``Export to Widget`` : Opens :doc:`Export Widget Panel<004_06_panel_export>` that is used to export **Custom Widget** .
+* ``Show Event`` : Opens :doc:`Event Panel<004_03_panel_event>` that allows us to add an event to the selected widget and later make adjustments on events
+* ``Select Tab`` : Switches Property panel on the top to the selected :ref:`Tab<Tab_Menu>`.
 
 
 ----------
 
 
-Context Menu - Muiltiple Widgets
+Context Menu - Multiple Widgets
 ----------------------------------------------
 
 

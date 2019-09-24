@@ -1,16 +1,9 @@
-.. _Structure : #id1
-.. _Page : #id2
-.. _Composition : #id3
-
-
-
-
 Navigation
 ==========
 
 .. thumbnail:: resource_new/basic_nav.png
 
-Navigation area is at the left side of canvas. Three key elements are `Structure`_ , `Page`_ ,and `Composition`_.
+Navigation area is at the left side of canvas. Three key elements are :ref:`Structure` , :ref:`Page` ,and :ref:`Composition`.
 
 
 ----------
