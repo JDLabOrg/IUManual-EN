@@ -1,16 +1,10 @@
-.. _Command : #id1
-.. _Tab Menu : #id2
-.. _Stage : #id3
-.. _Scenario Mode : ./advanced_scenario_mode.html
-
-
 Top Toolbar
 ===========
 
 
 .. thumbnail:: resource_new/top_toolbar.png
 
-**Top Toolbar** contains `Command`_ / `Tab Menu`_ / `Stage`_ area.
+**Top Toolbar** contains :ref:`Command` / :ref:`Tab Menu` / :ref:`Stage` area.
 
 
 ----------
@@ -27,7 +21,7 @@ Command Area consists of project-level features.
 * ``Build Button`` : Generates HTML & CSS & JS files based on IU Project.
 * ``Server Stop Button`` : Stops the local host server.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
-* ``Scenario / Edit Mode Toggle Button`` : Switches Edit Mode to `Scenario Mode`_ and vice versa.
+* ``Scenario / Edit Mode Toggle Button`` : Switches Edit Mode to:doc:`Scenario Mode<advanced_scenario_mode>` and vice versa.
 
 
 
@@ -56,7 +50,7 @@ Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Ove
 
 .. thumbnail:: resource_new/text_tab.png
 
-* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-size / Font-weight (thinkness) / Font-color / Line-height / Heading / Font-alignment**.
+* ``Text Tab`` : In Text Tab, you can modify **Font-family / Font-size / Font-weight (thickness) / Font-color / Line-height / Heading / Font-alignment**.
 
 
 
