@@ -9,7 +9,7 @@ Programming Widget
 Form
 ----------
 
-.. image:: resource_new/form.png
+.. thumbnail:: resource_new/form.png
 
 Form widget is a container for programming widgets which is generated to :code:`<form>` tag. If you want to use programming widgets, you must to add Form widget in your project.
 
@@ -33,7 +33,7 @@ Form widget is a container for programming widgets which is generated to :code:`
 Input Text
 ----------
 
-.. image:: resource_new/input_text.png
+.. thumbnail:: resource_new/input_text.png
 
 Input Text widget is a textfield which is generated to :code:`<input>` tag (type : text).
 
@@ -55,7 +55,7 @@ Input Text widget is a textfield which is generated to :code:`<input>` tag (type
 Input Paragraph Text
 --------------------
 
-.. image:: resource_new/input_paragraph.png
+.. thumbnail:: resource_new/input_paragraph.png
 
 Input Paragraph Text widget is a textfield which is generated to :code:`<textarea>` tag.
 
@@ -80,7 +80,7 @@ Input Paragraph Text widget is a textfield which is generated to :code:`<textare
 Select
 ----------
 
-.. image:: resource_new/select.png
+.. thumbnail:: resource_new/select.png
 
 Select widget is a select button which is generated to <select> tag. If you want to make select button, add this widget into Form widget.
 
@@ -103,7 +103,7 @@ Select widget is a select button which is generated to <select> tag. If you want
 HTML (Hyper Text Markup Language)
 ------------------------------------
 
-.. image:: resource_new/html.png
+.. thumbnail:: resource_new/html.png
 
 HTML widget is a code container which is generated to **custom html tag** (e.g. :code:`<style>`, :code:`<script>`, etc, ...). You can make custom widget by input custom html code into HTML widget.
 
@@ -127,7 +127,7 @@ HTML widget is a code container which is generated to **custom html tag** (e.g. 
 Collection
 ------------
 
-.. image:: resource_new/collection.png
+.. thumbnail:: resource_new/collection.png
 
 Collection widget can import multiple Composition widgets. If you want to make collection view with compositions, you can create collection view with Collection widget.
 
@@ -149,7 +149,7 @@ Collection widget can import multiple Composition widgets. If you want to make c
 Page Number Set
 ----------------
 
-.. image:: resource_new/page_numb.png
+.. thumbnail:: resource_new/page_numb.png
 
 Page Number Set widget displays page links that usually placed bottom of Collection.
 
@@ -173,7 +173,7 @@ Page Number Set widget displays page links that usually placed bottom of Collect
 Checkbox
 ----------
 
-.. image:: resource_new/checkbox.png
+.. thumbnail:: resource_new/checkbox.png
 
 
 Checkbox widget displays checkbox which is generated to :code:`<input>` tag (type:checkbox).
@@ -199,7 +199,7 @@ Checkbox widget displays checkbox which is generated to :code:`<input>` tag (typ
 Radio Button
 --------------
 
-.. image:: resource_new/radio_btn.png
+.. thumbnail:: resource_new/radio_btn.png
 
 Radio Button widget displays radio button which is generated to :code:`<input>` tag (type:radio).
 
@@ -223,7 +223,7 @@ Radio Button widget displays radio button which is generated to :code:`<input>` 
 Button
 ----------
 
-.. image:: resource_new/button.png
+.. thumbnail:: resource_new/button.png
 
 Button widget displays button which is generated to :code:`<input>` tag (type:default / reset / submit).
 
@@ -248,7 +248,7 @@ Button widget displays button which is generated to :code:`<input>` tag (type:de
 File Upload
 ------------
 
-.. image:: resource_new/file_upload.png
+.. thumbnail:: resource_new/file_upload.png
 
 
 File Upload widget displays file upload interface which is generated :code:`<input>` tag (type:file).
@@ -273,7 +273,7 @@ File Upload widget displays file upload interface which is generated :code:`<inp
 Switch
 ----------
 
-.. image:: resource_new/switch.png
+.. thumbnail:: resource_new/switch.png
 
 Switch widget displays toggle button which is generated to :code:`<input>` tag (type:checkbox), and contains two switch items.
 
@@ -296,7 +296,7 @@ Switch widget displays toggle button which is generated to :code:`<input>` tag (
 Flip Switch
 -------------
 
-.. image:: resource_new/flip_switch.png
+.. thumbnail:: resource_new/flip_switch.png
 
 Flip Switch widget displays sliding switch which is generated to :code:`<input>` tag (type:checkbox).
 
@@ -322,7 +322,7 @@ Flip Switch widget displays sliding switch which is generated to :code:`<input>`
 Slider
 ----------
 
-.. image:: resource_new/slider.png
+.. thumbnail:: resource_new/slider.png
 
 Slider widget displays slider interface. You can change value by dragging slide pointer. (Or type a number to value)
 
@@ -347,7 +347,7 @@ Slider widget displays slider interface. You can change value by dragging slide 
 Range Slider
 ------------
 
-.. image:: resource_new/range_slider.png
+.. thumbnail:: resource_new/range_slider.png
 
 
 Range Slider widget displays range slider interface. You can change range value by dragging slide pointers. (Or type a number to value)

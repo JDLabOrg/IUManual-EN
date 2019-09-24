@@ -10,7 +10,7 @@ Page Setting
 
 When you select the index page and click the **Property** button, Page Setting properties will be shown.
 
-.. image:: resource_new/sheet_page.png
+.. thumbnail:: resource_new/sheet_page.png
 
 * **Empty Layout** : Set **Empty (Page Content) Page Layout** .
 * **Header + Footer** : Set **Header + Page Content + Footer Page Layout** .
@@ -49,7 +49,7 @@ Page Default Widget
 .. image:: resource/widget/IUPage.png
 **Page**
 
-.. image:: resource_new/sheet_page_page.png
+.. thumbnail:: resource_new/sheet_page_page.png
 IUPage is same as html document. You can change page structure in property tab.
 
 
@@ -57,7 +57,7 @@ IUPage is same as html document. You can change page structure in property tab.
 .. image:: resource/widget/IUHeader.png
 **Header**
 
-.. image:: resource_new/sheet_page_header.png
+.. thumbnail:: resource_new/sheet_page_header.png
 Header is placed top of page. Header can import **Header or another composition** .
 
 
@@ -72,7 +72,7 @@ Page Content is placed middle of page (Page Content cannot be removed). You can 
 .. image:: resource/widget/IUFooter.png
 **Footer**
 
-.. image:: resource_new/sheet_page_footer.png
+.. thumbnail:: resource_new/sheet_page_footer.png
 Footer is placed bottom of page. Footer can import **Footer of another composition** .
 
 
@@ -93,7 +93,7 @@ Centered Box is placed under Section (Centered Box can be removed). Centered Box
 .. image:: resource/widget/IUPanel.png
 **Panel**
 
-.. image:: resource_new/sheet_page_panel.png
+.. thumbnail:: resource_new/sheet_page_panel.png
 You can add a panel by press [+] button of panel group. To call panel, create link with any widget and select link target to panel.
 
 
@@ -101,5 +101,5 @@ You can add a panel by press [+] button of panel group. To call panel, create li
 .. image:: resource/widget/IUPopUp.png
 **Popup**
 
-.. image:: resource_new/sheet_page_popup.png
+.. thumbnail:: resource_new/sheet_page_popup.png
 You can add a popup by press [+] button of popup group. To call popup, create link with any widget and select link target to popup.

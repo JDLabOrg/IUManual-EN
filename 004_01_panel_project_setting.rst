@@ -6,7 +6,7 @@ When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** w
 ----------
 
 
-.. image:: resource_new/proj_setting_default.png
+.. thumbnail:: resource_new/proj_setting_default.png
 
 Default
 ------------
@@ -21,7 +21,7 @@ Default
 -------------
 
 
-.. image:: resource_new/proj_setting_meta.png
+.. thumbnail:: resource_new/proj_setting_meta.png
 
 Meta
 ------------
@@ -39,7 +39,7 @@ Meta
 ------------
 
 
-.. image:: resource_new/proj_setting_build.png
+.. thumbnail:: resource_new/proj_setting_build.png
 
 Build
 ------------
@@ -57,7 +57,7 @@ Build
 ------------
 
 
-.. image:: resource_new/proj_setting_django.png
+.. thumbnail:: resource_new/proj_setting_django.png
 
 Django
 ------------

@@ -1,7 +1,7 @@
 Prototype Mode
 =======================
 
-.. image:: resource_new/advanced_proto.png
+.. thumbnail:: resource_new/advanced_proto.png
 
 From the toolbar at the top, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
@@ -27,7 +27,7 @@ Display **the history of revision** made in the current project. You can add or 
 Project Workflow
 -------------------------------
 
-.. image:: resource_new/advanced_proto_revision.png
+.. thumbnail:: resource_new/advanced_proto_revision.png
 
 Display **Workflow** of the current project. Users can add nodes by drag and drop of page's thumbnail. Press delete key to delete the selected node.
 
@@ -38,7 +38,7 @@ Display **Workflow** of the current project. Users can add nodes by drag and dro
 .. note:: Thumbnails can be added by using **Page Capture Button**  in **Editor Mode**.
 
 
-.. image:: resource_new/advanced_proto_workflow.png
+.. thumbnail:: resource_new/advanced_proto_workflow.png
 * ``Rectangle Button`` : Add a square dialog below the selected node.
 * ``Rhombus Button`` : Add a diamond dialog below the selected node.
 
