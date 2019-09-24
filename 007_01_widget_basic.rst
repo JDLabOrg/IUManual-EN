@@ -1,7 +1,7 @@
 Basic Widget
 ============
 
-.. _How to add widget to canvas:
+.. _How_to_add_widget_to_canvas:
 
 -----------
 
