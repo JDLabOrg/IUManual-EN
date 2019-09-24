@@ -10,16 +10,17 @@
 Menu
 ==========================
 
-.. image:: resource_new/mac_menu_bar.png
+.. image:: resource_new/mac_menu_bar_blk.png
 
 Description about IUEditor Menu Bar
+
 ----------
 
 
 IUEditor
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_iueditor.png
+.. image:: resource_new/iueditor.png
 
 
 * ``About IUEditor`` : Show IUEditor's version info.
@@ -31,16 +32,14 @@ IUEditor
 File
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_file.png
+.. image:: resource_new/file.png
 
 
 * ``New Project`` : Open New Project window.
 * ``Open`` : Open Finder to find IU Project file to open.
 * ``Open Recent`` : Open recent IU Project file.
 * ``Save`` : Save the current project.
-* ``Duplicate`` : Duplicate the project's current path.
-* ``Rename`` : Edit the name of the project.
-* ``Move To`` : Change current project's path .
+* ``Save As`` : Save the current project under a different name.
 * ``Close`` : Close current project.
 
 ----------
@@ -49,12 +48,14 @@ File
 Project
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_project.png
+.. image:: resource_new/project.png
 
 
 * ``Build`` : Generates HTML & CSS & JS files based on IU Project.
 * ``Build Clean`` : Clean build data. It can fix program error.
+* ``Stop`` : Stop the biuld.
 * ``Project Setting`` : Opens `Project Setting`_ panel.
+* ``Project Code`` : Opens `Project Code`_ panel.
 * ``Refresh Page`` : Refresh current page. It can fix program error.
 
 ----------
@@ -63,16 +64,17 @@ Project
 View
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_view.png
+.. image:: resource_new/view.png
 
-
+* ``Show Tab Bar`` : Show the tab bar.
+* ``Show All Tabs`` : Show the entire tab.
 * ``ZoomOut`` : Zoom Out stage.
 * ``ZoomIn`` : Zoom In stage.
 * ``Outline`` : Show or hide outline of widgets in canvas.
-* ``Widget Info`` : Show or hide information of widgets in canvas.
 * ``Ruler`` : Show or hide ruler on canvas.
 * ``Guide`` : Show or hide guide on canvas.
 * ``Tracing`` : Show or hide tracing image on canvas.
+* ``Enter Full Screen`` : Switch to full screen.
 
 ----------
 
@@ -80,13 +82,14 @@ View
 Window
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_window.png
+.. image:: resource_new/window.png
 
 
 * ``Event`` : Opens `Event panel`_ .
 * ``Resource`` : Opens `Resource panel`_ .
 * ``Memo`` : Opens `Memo panel`_ .
 * ``Manage Custom Widgets`` : Opens `Manage Custom Widgets Panel`_ .
+* ``Log`` : Opens log panel.
 
 ----------
 
@@ -94,10 +97,10 @@ Window
 Help
 ----------------------------
 
-.. image:: resource/iu_manual_basic_menu_help.png
+.. image:: resource_new/help.png
 
 
 * ``Search`` : Search IUEditor function.
 * ``Documentation`` : Open IUEditor Manual page in the brower.
-* ``Visit IUEditor`` : Open IUEditor Homepage page in the brower.
-* ``Visit Facebook`` : Open IUEditor Facebook page in the brower.
+* ``Ask IUEditor`` : Go to the webpage to ask questions about the program.
+* ``Acknowledgements`` : Shows information about the APIs used in the program.
