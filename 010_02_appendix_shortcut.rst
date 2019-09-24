@@ -4,8 +4,6 @@ Shortcut
 
 
 
-
-
 ----------
 
 
@@ -22,7 +20,7 @@ Project Management
 Mode Switch
 ----------------------------
 
-* ``Editor Mode (Cmd+[)`` : Switch to Editor Mode.
+* ``Editor Mode`` :kbd:`(Cmd+[)` : Switch to Editor Mode.
 * ``Developer Mode (Cmd+])`` : Switch to Developer Mode.
 * ``Prototype Mode (Cmd+\)`` : Switch to Prototype Mode.
 

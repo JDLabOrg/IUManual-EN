@@ -1,3 +1,4 @@
+.. External Links
 .. _IUPro : http://iupro.iueditor.org
 .. _IUPaper : http://iupaper.iueditor.org
 .. _IUAcademy : http://iuacademy.iueditor.org
@@ -21,4 +22,3 @@ IUEditor offers free templates projects below. You can select template project i
 
 * `IUAcademy`_
 .. image :: resource/templates/academy.png
-

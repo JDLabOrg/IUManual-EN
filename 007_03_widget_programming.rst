@@ -1,5 +1,3 @@
-
-
 Programming Widget
 ============
 
@@ -13,7 +11,7 @@ Form
 
 .. image:: resource_new/form.png
 
-Form widget is a container for programming widgets which is generated to <form> tag. If you want to use programming widgets, you must to add Form widget in your project.
+Form widget is a container for programming widgets which is generated to :code:`<form>` tag. If you want to use programming widgets, you must to add Form widget in your project.
 
 
 
@@ -37,7 +35,7 @@ Input Text
 
 .. image:: resource_new/input_text.png
 
-Input Text widget is a textfield which is generated to <input> tag (type : text).
+Input Text widget is a textfield which is generated to :code:`<input>` tag (type : text).
 
 
 **Property**
@@ -59,7 +57,7 @@ Input Paragraph Text
 
 .. image:: resource_new/input_paragraph.png
 
-Input Paragrapth Text widget is a textfield which is generated to <textarea> tag.
+Input Paragraph Text widget is a textfield which is generated to :code:`<textarea>` tag.
 
 
 
@@ -107,7 +105,7 @@ HTML (Hyper Text Markup Language)
 
 .. image:: resource_new/html.png
 
-HTML widget is a code container which is generated to **custom html tag** (e.g. <style>, <script>, etc, ...). You can make custom widget by input custom html code into HTML widget.
+HTML widget is a code container which is generated to **custom html tag** (e.g. :code:`<style>`, :code:`<script>`, etc, ...). You can make custom widget by input custom html code into HTML widget.
 
 
 
@@ -178,7 +176,7 @@ Checkbox
 .. image:: resource_new/checkbox.png
 
 
-Checkbox widget displays checkbox which is generated to <input> tag (type:checkbox).
+Checkbox widget displays checkbox which is generated to :code:`<input>` tag (type:checkbox).
 
 
 
@@ -203,7 +201,7 @@ Radio Button
 
 .. image:: resource_new/radio_btn.png
 
-Radio Button widget displays radio button which is generated to <input> tag (type:radio).
+Radio Button widget displays radio button which is generated to :code:`<input>` tag (type:radio).
 
 
 
@@ -227,7 +225,7 @@ Button
 
 .. image:: resource_new/button.png
 
-Button widget displays button which is generated to <input> tag (type:default / reset / submit).
+Button widget displays button which is generated to :code:`<input>` tag (type:default / reset / submit).
 
 
 
@@ -253,7 +251,7 @@ File Upload
 .. image:: resource_new/file_upload.png
 
 
-File Upload widget displays file upload interface which is generated <input> tag (type:file).
+File Upload widget displays file upload interface which is generated :code:`<input>` tag (type:file).
 
 
 
@@ -277,7 +275,7 @@ Switch
 
 .. image:: resource_new/switch.png
 
-Switch widget displays toggle button which is generated to <input> tag (type:checkbox), and contains two switch items.
+Switch widget displays toggle button which is generated to :code:`<input>` tag (type:checkbox), and contains two switch items.
 
 **Property**
 
@@ -300,7 +298,7 @@ Flip Switch
 
 .. image:: resource_new/flip_switch.png
 
-Flip Switch widget displays sliding switch which is generated to <input> tag (type:checkbox).
+Flip Switch widget displays sliding switch which is generated to :code:`<input>` tag (type:checkbox).
 
 
 
@@ -352,7 +350,7 @@ Range Slider
 .. image:: resource_new/range_slider.png
 
 
-Range Slider widget displays range slider interface. You can change range vaule by dragging slide pointers. (Or type a number to value)
+Range Slider widget displays range slider interface. You can change range value by dragging slide pointers. (Or type a number to value)
 
 
 

@@ -1,5 +1,3 @@
-
-
 Complex Widget
 ============
 
@@ -25,7 +23,6 @@ Transition widget has two transition items. When mouse action triggered, transit
 * Backend Ellipsis : Invalid
 
 ----------
-
 
 
 .. image:: resource/widget/IUCarousel.png
