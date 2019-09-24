@@ -2,17 +2,15 @@
 .. _Event Panel : ./panel_event.html
 .. _Tab Menu : ./basic_top_toolbar.html#id2
 .. _Export Widget Panel : ./panel_export_widget.html
-.. _How to add widget to canvas : ./widget_basic.html
-
 
 Canvas
 ===========
 
-.. image:: resource_new/canvas.png
+.. thumbnail:: resource_new/canvas.png
 
 Canvas is the preview of the website. The structure designed on the canvas by **adding widgets**  will be shown in the web page.
 
-`How to add widgets to canvas`_
+:ref:`How to add widgets to canvas`
 
 
 ----------

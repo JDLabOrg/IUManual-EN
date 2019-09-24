@@ -1,7 +1,7 @@
-
-
 Basic Widget
 ============
+
+.. _How to add widget to canvas:
 
 -----------
 
@@ -150,7 +150,7 @@ Image and Text
 
 .. image:: resource_new/img_text.png
 
-Image and text widget contains **Text Content** and **Image**, aligned Vertical-Center automatically. 
+Image and text widget contains **Text Content** and **Image**, aligned Vertical-Center automatically.
 
 
 **Property**
