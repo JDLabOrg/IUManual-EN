@@ -23,7 +23,7 @@ Displays **the history of revision** made in the current project. You can add or
 
 
 * ``Add New Date`` : Creates a new editable row field in the table.
-* ``Remove Date `` : Deletes the selected row from table.
+* ``Remove Date`` : Deletes the selected row from table.
 
 ----------
 
