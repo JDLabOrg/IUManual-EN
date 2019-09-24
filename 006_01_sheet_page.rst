@@ -29,6 +29,7 @@ When you select the index page and click the **Property** button, Page Setting p
 
 Project Code
 -----------------------
+.. _Project_Code:
 
 When you click the **Project > Project Code (⇧⌘C)** button, Project Code panel will be shown.
 

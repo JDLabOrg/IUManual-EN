@@ -1,11 +1,3 @@
-.. _Project Setting: ./project_setting.html
-.. _Event Panel: ./panel_event.html
-.. _Resource Panel: ./panel_resource.html
-.. _Memo Panel: ./panel_memo.html
-.. _Manage Custom Widgets Panel: ./panel_management_widget.html
-
-
-
 Menu
 ==========================
 
@@ -52,9 +44,9 @@ Project
 
 * ``Build`` : Generates HTML & CSS & JS files based on IU Project.
 * ``Build Clean`` : Clean build data. It can fix program error.
-* ``Stop`` : Stop the biuld.
-* ``Project Setting`` : Opens `Project Setting`_ panel.
-* ``Project Code`` : Opens `Project Code`_ panel.
+* ``Stop`` : Stop the build.
+* ``Project Setting`` : Opens :doc:`Project Setting<004_01_panel_project_setting>` panel.
+* ``Project Code`` : Opens :ref:`Project_Code<Project Code>` panel.
 * ``Refresh Page`` : Refresh current page. It can fix program error.
 
 ----------
@@ -84,11 +76,11 @@ Window
 .. image:: resource_new/window.png
 
 
-* ``Event`` : Opens `Event panel`_ .
-* ``Resource`` : Opens `Resource panel`_ .
-* ``Memo`` : Opens `Memo panel`_ .
-* ``Manage Custom Widgets`` : Opens `Manage Custom Widgets Panel`_ .
-* ``Log`` : Opens log panel.
+* ``Event`` : Open :doc:`Event panel<004_03_panel_event>`.
+* ``Resource`` : Open :doc:`Resource panel<004_02_panel_resource>`.
+* ``Memo`` : Open :doc:`Memo panel<004_04_panel_memo>`.
+* ``Manage Custom Widgets`` : Open :doc:`Manage Custom Widgets Panel<004_05_panel_manage_custom>`.
+* ``Log`` : Open log panel.
 
 ----------
 
@@ -100,6 +92,6 @@ Help
 
 
 * ``Search`` : Search IUEditor function.
-* ``Documentation`` : Open IUEditor Manual page in the brower.
+* ``Documentation`` : Open IUEditor Manual page in the browser.
 * ``Ask IUEditor`` : Go to the webpage to ask questions about the program.
 * ``Acknowledgements`` : Shows information about the APIs used in the program.
