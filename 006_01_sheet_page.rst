@@ -19,10 +19,10 @@ When you select the index page and click the **Property** button, Page Setting p
 * **Header** : Set **Header + Page Content Page Layout**
 * **Footer** : Set **Footer + Page Content Page Layout**
 
-* **페이지 타이틀 Page Title** : Adds Page Title to current page.
-* **페이지 키워드 Page Keyword** : Adds Page Keywords to current page. (Multiple keywords available)
-* **페이지 설명 Page Description** : Adds Page Description to current page.
-* **페이지 메타 이미지 Page Meta Image** : Adds Meta Image to current page. (URL)
+* **Page Title** : Adds Page Title to current page.
+* **Page Keyword** : Adds Page Keywords to current page. (Multiple keywords available)
+* **Page Description** : Adds Page Description to current page.
+* **Page Meta Image** : Adds Meta Image to current page. (URL)
 
 
 -------------

@@ -127,7 +127,7 @@ HTML widget is a code container which is generated to **custom html tag** (e.g. 
 .. image:: resource/widget/PGCollection.png
 
 Collection
-----------
+------------
 
 .. image:: resource_new/collection.png
 
@@ -149,13 +149,11 @@ Collection widget can import multiple Composition widgets. If you want to make c
 .. image:: resource/widget/PGPageLinkSet.png
 
 Page Number Set
---------------
+----------------
 
 .. image:: resource_new/page_numb.png
 
 Page Number Set widget displays page links that usually placed bottom of Collection.
-
-주로 게시판이나 페이지 세트의 링크를 만들 때 사용합니다. 한 번의 몇개의 숫자를 나타낼 것인지 정할 수 있습니다.
 
 
 
