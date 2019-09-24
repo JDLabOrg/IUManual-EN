@@ -1,8 +1,7 @@
-
 Known Bug List
 =================
 
-Here are bug list for current version. 
+Here are bug list for current version.
 
 ----------
 
