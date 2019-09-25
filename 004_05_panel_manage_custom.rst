@@ -6,9 +6,6 @@ When you run **Window > Manage Custom Widgets (⇧⌘W)** menu, Manage Custom Wi
 
 .. image:: resource_new/panel_manage_widget.png
 
-
-----------
-
 Top Bar
 ----------------------------
 
@@ -19,17 +16,12 @@ Top Bar
 * ``Search Bar`` : Search by custom widget name.
 
 
-----------
-
 
 Widget Group List
 ----------------------------
 
 Widget Group List is placed at the left side of the panel. You can browse :ref:`Custom Widget List` by selecting the group name.
 
-
-
-----------
 
 
 Custom Widget List
@@ -41,8 +33,6 @@ Custom Widget List is placed at the center of the panel.
 * ``Refresh`` : Refresh current widget list.
 * ``Open Folder`` : Open custom widget folder.
 
-
-----------
 
 
 Custom Widget Information

@@ -3,13 +3,12 @@ Project Setting
 
 When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** will be shown. You can modify settings from :ref:`Default`, :ref:`Meta`, :ref:`Build`, :ref:`Django` Tab menu.
 
-----------
 
-
-.. thumbnail:: resource_new/proj_setting_default.png
 
 Default
 ------------
+
+.. thumbnail:: resource_new/proj_setting_default.png
 
 * ``Project Title`` : Add the title of the project.
 * ``Favicon`` : Add favicon image (Favicon image resource is required).
@@ -18,14 +17,11 @@ Default
 .. note :: After creation of a new project, Project Default Width cannot be changed.
 
 
--------------
-
-
-.. thumbnail:: resource_new/proj_setting_meta.png
 
 Meta
 ------------
 
+.. thumbnail:: resource_new/proj_setting_meta.png
 
 * ``Meta Image`` : Add Meta Image for meta-data. (URL)
 * ``Author`` : Add Author name for meta-data.
@@ -36,14 +32,12 @@ Meta
 * ``Facebook App ID`` : Add Facebook App ID for meta-data.
 
 
-------------
 
-
-.. thumbnail:: resource_new/proj_setting_build.png
 
 Build
 ------------
 
+.. thumbnail:: resource_new/proj_setting_build.png
 
 * ``Build Path`` : Set Build path for built files.
 * ``Build Resource Path`` : Set Build Resource Path for built resource files.
@@ -54,13 +48,11 @@ Build
 .. note :: If your project's domain isn't the same as the root path, you have to modify Resource & Link Prefix.
 
 
-------------
-
-
-.. thumbnail:: resource_new/proj_setting_django.png
 
 Django
 ------------
+
+.. thumbnail:: resource_new/proj_setting_django.png
 
 .. note :: Django tab is available on :ref:`Django Project<Django_Project>`.
 

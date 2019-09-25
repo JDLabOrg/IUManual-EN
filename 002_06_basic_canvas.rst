@@ -8,8 +8,6 @@ Canvas is the preview of the website. The structure designed on the canvas by **
 :ref:`How to add widgets to canvas<How_to_add_widget_to_canvas>`
 
 
-----------
-
 
 
 Context Menu - Single Widget
@@ -30,8 +28,6 @@ Below are information and functions in the Context Menu.
 * ``Show Event`` : Open :doc:`Event Panel<004_03_panel_event>` that allows us to add an event to the selected widget and later make adjustments on events
 * ``Select Tab`` : Switch Property panel on the top to the selected :ref:`Tab<Tab_Menu>`.
 
-
-----------
 
 
 Context Menu - Multiple Widgets

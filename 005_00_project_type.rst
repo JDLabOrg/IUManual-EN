@@ -4,8 +4,6 @@ Project Type
 
 .. image:: resource/icon_IU_128x128.png
 
--------------
-
 Default Project
 --------------------------
 
@@ -31,7 +29,6 @@ Default Project is a Static Project which is not connected with any back-end fra
 .. note :: When you select Empty Page, you can set default width value of new project.
 
 
--------------
 
 Django Project
 -----------------------
@@ -42,7 +39,7 @@ Django Project is a Dynamic Project which can be connected with Django as back-e
 
 .. image:: resource/iu_manual_project_new_django.png
 
--------------
+
 
 AngularJS Project
 -----------------------

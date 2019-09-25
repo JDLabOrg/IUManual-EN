@@ -18,7 +18,6 @@ You can open Export Widget Panel from the left side of the canvas:
 * ``Description`` : Add descriptions to the custom widget.
 
 
-----------
 
 Export Widget (.iuw)
 -----------------------------
@@ -29,10 +28,6 @@ When you export **Widget** , IUEditor generates ``CustomWidgetName.iuw`` file.
 
 
 
-
-
-----------
-
 Export Page (.iup)
 -----------------------------
 
@@ -41,8 +36,6 @@ Export Page (.iup)
 When you export **Page** , IUEditor generates ``CustomPageName.iup`` file.
 
 
-
-----------
 
 Export Composition (.iuc)
 -----------------------------

@@ -4,8 +4,6 @@ Widget Panel
 Widget toolbar is at the right side of canvas. Open and close **Widget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consists of :ref:`IU Widget` / :ref:`Custom Widget` tab.
 
 
-----------
-
 
 IU Widget
 ----------------
@@ -16,7 +14,6 @@ In IU WIDGET tab, all available widgets in IUEditor will be shown. Fundamental e
 
 :doc:`Go To Widget Property<007_01_widget_basic>`.
 
-----------
 
 
 Custom Widget

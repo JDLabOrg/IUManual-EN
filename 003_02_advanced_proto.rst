@@ -10,8 +10,6 @@ You can refresh scenario by clicking ``Reset Workflow`` and can build **HTML Sce
 And ``Refresh Thumbnail`` updates the page thumbnails that are included in the workflow and the page list.
 
 
-----------
-
 Revision History
 -------------------------------
 
@@ -22,7 +20,6 @@ Display **the history of revision** made in the current project. You can add or 
 * ``Add New Date`` : Create a new editable row field in the table.
 * ``Remove Date`` : Delete the selected row from table.
 
-----------
 
 Project Workflow
 -------------------------------
@@ -48,9 +45,6 @@ Display **Workflow** of the current project. Users can add nodes by drag and dro
 * ``Outward Label`` : Add a label below the selected node.
 
 
-
-
-----------
 
 Node Description
 -------------------------------

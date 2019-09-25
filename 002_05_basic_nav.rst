@@ -6,9 +6,6 @@ Navigation
 Navigation area is at the left side of canvas. Three key elements are :ref:`Structure` , :ref:`Page` ,and :ref:`Composition`.
 
 
-----------
-
-
 
 Structure
 ---------
@@ -21,10 +18,6 @@ You can **rearrange, remove, rename, and hide** widgets from the structure.
 * ``Add New Panel`` : Add a panel widget into the current page.
 * ``Add New Section`` : Add a section to the page content.
 * ``Delete`` : Delete the selected element.
-
-
-----------
-
 
 
 Page
@@ -40,10 +33,6 @@ Page tab shows the list of pages/groups included in the current project. You can
 
 
 
-----------
-
-
-
 Composition
 ------------
 
@@ -54,10 +43,6 @@ Composition tab shows the design compositions of the current project. You can **
 * ``Add New Group Button`` : Add a new group.
 * ``Delete Button`` : Delete the selected composition or group.
 
-
-
-
------------
 
 
 References
