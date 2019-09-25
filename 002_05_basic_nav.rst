@@ -3,7 +3,7 @@ Navigation
 
 .. thumbnail:: resource/capture_window/basic_nav.png
 
-Navigation area is at the left side of canvas. Three key elements are :ref:`Structure` , :ref:`Page` ,and :ref:`Composition`.
+Navigation area is at the left side of canvas. Three key elements are `Structure`_ , `Page`_ ,and `Composition`_.
 
 
 

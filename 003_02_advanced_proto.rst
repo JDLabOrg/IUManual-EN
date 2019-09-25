@@ -5,7 +5,7 @@ Prototype Mode
 
 From the toolbar at the top, you can switch to **Prototype Mode** by clicking ``Mode Switch Button``.
 
-Prototype Mode offers :ref:`Revision History` / :ref:`Project Workflow` / :ref:`Node Description` page.
+Prototype Mode offers `Revision History`_ / `Project Workflow`_ / `Node Description`_ page.
 You can refresh scenario by clicking ``Reset Workflow`` and can build **HTML Scenario** by clicking ``Build Scenario``.
 And ``Refresh Thumbnail`` updates the page thumbnails that are included in the workflow and the page list.
 

@@ -1,7 +1,7 @@
 Widget Panel
 =============================
 
-Widget toolbar is at the right side of canvas. Open and close **Widget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consists of :ref:`IU Widget` / :ref:`Custom Widget` tab.
+Widget toolbar is at the right side of canvas. Open and close **Widget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consists of `IU Widget`_ / `Custom Widget`_ tab.
 
 
 
@@ -28,4 +28,4 @@ In CUSTOM WIDGETS tab, custom widgets imported by **Import Button** (Window> Man
 * ``Search Field`` : Search custom widget library by name or tag.
 * ``Zoom in/Zoom out Button`` : Zoom in or out custom widget library.
 
-:doc:`Go To Manage Custom Widgets Panel<004_05_panel_manage_custom>`.
+:doc:`Go To Manage Custom Widgets Panel<004_05_panel_manage_custom>` .

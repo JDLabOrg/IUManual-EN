@@ -5,7 +5,7 @@ Developer Mode
 
 From the toolbar at the top, you can switch to **Developer Mode** by clicking ``Mode Switching Button``.
 
-In Developer mode, **Code Panel** will be shown. It consists of :ref:`HTML ID` / :ref:`Custom Code`.
+In Developer mode, **Code Panel** will be shown. It consists of `HTML ID`_ / `Custom Code`_ .
 
 
 

@@ -1,7 +1,7 @@
 Project Setting
 =======================
 
-When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** will be shown. You can modify settings from :ref:`Default`, :ref:`Meta`, :ref:`Build`, :ref:`Django` Tab menu.
+When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** will be shown. You can modify settings from `Default`_, `Meta`_, `Build`_, `Django`_ Tab menu.
 
 
 
