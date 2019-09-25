@@ -61,6 +61,6 @@ Display the **Node Description** of the selected page. By adding memos to the no
 
 * ``Memo image area`` : Select an image from the resource panel to replace the numbering in the screenshot area.
 * ``Add Memo Button`` : Create a new editable row field in the table.
-* ``Delete Button`` : Deletes the selected memo in the table.
+* ``Delete Button`` : Delete the selected memo in the table.
 
 When you click the screenshot area, the number of the selected memo will appear.

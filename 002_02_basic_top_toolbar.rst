@@ -21,7 +21,7 @@ Command Area consists of project-level features.
 * ``Build Button`` : Generate HTML & CSS & JS files based on IU Project.
 * ``Server Stop Button`` : Stop the local host server.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
-* ``Design / Develop / Prototype`` : Switch Edit Mode to :doc:`Prototype Mode<003_02_advanced_proto>` and vice versa.
+* ``Design / Develop / Prototype`` : Select Design Mode, :doc:`Develop Mode<003_01_advanced_dev>` or :doc:`Prototype Mode<003_02_advanced_proto>`.
 
 
 
