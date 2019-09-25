@@ -11,8 +11,6 @@ Templates
 IUEditor offers free templates projects below. You can select template project in New Project panel.
 
 
-----------
-
 
 * `IUPro`_
 .. image :: resource/templates/iupro.png

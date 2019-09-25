@@ -3,18 +3,12 @@ Shortcut
 =================
 
 
-
-----------
-
-
 Project Management
 ----------------------------
 
 * ``Project Setting`` :kbd:`Shift+Cmd+P` : Open Project Setting panel.
 * ``Refresh`` :kbd:`Shift+Cmd+F` : Refresh current page.
 * ``Import Custom Widget`` :kbd:`Shift+Cmd+W` : Open Custom Widget Panel.
-
-----------
 
 
 Mode Switch
@@ -24,7 +18,6 @@ Mode Switch
 * ``Developer Mode`` :kbd:`Cmd+]` : Switch to Developer Mode.
 * ``Prototype Mode`` :kbd:`Cmd+\\` : Switch to Prototype Mode.
 
-----------
 
 
 Add Widget
@@ -37,8 +30,6 @@ Add Widget
 * ``IUCell`` :kbd:`Cmd+5` : Select IUCell widget to add on canvas.
 
 
-----------
-
 
 Widget Control
 ---------------------
@@ -49,8 +40,6 @@ Widget Control
 * ``Duplicate`` :kbd:`Cmd+D` : Duplicate selected widget.
 * ``Redo`` :kbd:`Shift+Cmd+Z` : Redo steps.
 
-
-----------
 
 
 View Management
@@ -63,8 +52,6 @@ View Management
 * ``Resource Panel`` :kbd:`Shift+Cmd+R` : Open Resource panel.
 * ``Memo`` :kbd:`Shift+Cmd+M` : Open Memo panel.
 
-
-----------
 
 
 Canvas View Management

@@ -6,16 +6,10 @@ Definitions of words which used in this documents.
 
 
 
-----------
-
-
 Build
 ----------------------------
 
 Generate HTML & CSS & JS files based on IU Project.
-
-
-----------
 
 
 Django
@@ -24,16 +18,12 @@ Django
 Python web framework.
 
 
-----------
-
 
 Python
 --------------------------------
 
 Server-side programming language.
 
-
-----------
 
 Widget
 --------------------------------

@@ -15,8 +15,6 @@ Here are basic tutorials for IUEditor.
 `Go Tutorial`_
 
 
-----------
-
 
 * `Tutorial 101 - Blog-Style Web page`_
 * `Tutorial 201 - Responsive Magazine View Part1 - Design`_
