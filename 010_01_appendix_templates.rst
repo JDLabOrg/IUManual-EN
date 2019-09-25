@@ -13,10 +13,10 @@ IUEditor offers free templates projects below. You can select template project i
 
 
 * `IUPro`_
-.. image :: resource/templates/iupro.png
+  .. image:: resource/templates/iupro.png
 
 * `IUPaper`_
-.. image :: resource/templates/paper.png
+  .. image:: resource/templates/paper.png
 
 * `IUAcademy`_
-.. image :: resource/templates/academy.png
+  .. image:: resource/templates/academy.png

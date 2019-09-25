@@ -1,5 +1,5 @@
 Widget Panel
-==========
+=============================
 
 Widget toolbar is at the right side of canvas. Open and close **Widget Panel** with **Show/Hide Widget Button** in the middle tool bar. Widget panel consists of :ref:`IU Widget` / :ref:`Custom Widget` tab.
 

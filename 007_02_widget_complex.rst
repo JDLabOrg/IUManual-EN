@@ -1,8 +1,6 @@
 Complex Widget
 ============
 
-
-
 Transition
 ----------
 
@@ -56,8 +54,8 @@ Google Map
 Google Map widget represents google map element. You can input **Map location** wherever you want.
 
 .. note::
-1) In Editor Mode, Google Map widget offers maximum preview 600 px x 600 px size.
-2) South Korea's map is not available Color Theme feature.
+  1) In Editor Mode, Google Map widget offers maximum preview 600 px x 600 px size.
+  2) South Korea's map is not available Color Theme feature.
 
 **Property**
 
@@ -134,7 +132,7 @@ Table widget can add simple table on canvas.
 .. image:: resource/widget/IUSimpleTabView.png
 
 Simple Tab View
-----------
+-----------------------------------
 
 .. thumbnail:: resource/capture_window/simple_tab_view.png
 
@@ -211,7 +209,7 @@ If you want to use Composition, connect target Composition into Import widget.
 
 
 Tweet Share Button
---------------------
+---------------------------------
 
 .. image:: resource/widget/IUTweetButton.png
 

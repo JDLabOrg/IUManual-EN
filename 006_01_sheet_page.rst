@@ -44,6 +44,7 @@ Page
 .. image:: resource/widget/IUPage.png
 
 .. thumbnail:: resource/capture_window/sheet_page_page.png
+
 IUPage is same as html document. You can change page structure in property tab.
 
 

@@ -1,5 +1,5 @@
 Programming Widget
-============
+==================================
 
 
 Form
@@ -23,7 +23,7 @@ If you want to use programming widgets, you must to add Form widget in your proj
 
 
 Input Text
-----------
+---------------------
 
 .. image:: resource/widget/PGTextField.png
 
@@ -42,7 +42,7 @@ Input Text widget is a textfield which is generated to :code:`<input>` tag (type
 
 
 Input Paragraph Text
---------------------
+----------------------------------------
 
 .. image:: resource/widget/PGTextView.png
 

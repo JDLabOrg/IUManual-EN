@@ -17,16 +17,15 @@ Command Area consists of project-level features.
 * ``Build Button`` : Generate HTML & CSS & JS files based on IU Project.
 * ``Server Stop Button`` : Stop the local host server.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
-* ``Design / Develop / Prototype`` : Select Design Mode, :doc:`Develop Mode<003_01_advanced_dev>` or :doc:`Prototype Mode<003_02_advanced_proto>`.
+* ``Design / Develop / Prototype`` : Select Design Mode, :doc:`Develop Mode<003_01_advanced_dev>` or :doc:`Prototype Mode<003_02_advanced_proto>` .
 
 
+.. _Tab_Menu:
 
 Tab Menu
 --------
-.. _Tab_Menu:
 
 Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Over/ and Link**.
-
 
 
 .. thumbnail:: resource/capture_window/style_tab.png

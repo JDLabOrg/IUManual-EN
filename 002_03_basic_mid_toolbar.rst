@@ -8,14 +8,14 @@ Middle Toolbar is placed at the top of canvas and contains :ref:`Refresh` / :ref
 
 
 Refresh
--------
+-----------------
 
 Refresh current canvas.
 
 
 
 Position
---------
+---------------------
 
 Position area consists of **Position/ Align options/ Input fields/ Stepper for X & Y position**.
 
@@ -30,7 +30,7 @@ Position area consists of **Position/ Align options/ Input fields/ Stepper for X
 
 
 Frame
------
+------------------------
 
 Frame area consists of **Input fields/ stepper for width & height value**.
 
@@ -41,7 +41,7 @@ Frame area consists of **Input fields/ stepper for width & height value**.
 
 
 Background Color
-----------------
+----------------------------------
 
 Background Color area consists of **set background color button/ set gradient popup**. You can change the background color and the color gradient of the selected widget.
 
