@@ -5,7 +5,6 @@ Menu
 
 Description about IUEditor Menu Bar
 
-----------
 
 
 IUEditor
@@ -17,7 +16,6 @@ IUEditor
 * ``About IUEditor`` : Show IUEditor's version info.
 * ``Preference`` : Open IUEditor :doc:`Preference<009_00_preference>` window.
 
-----------
 
 
 File
@@ -33,7 +31,6 @@ File
 * ``Save As`` : Save the current project under a different name.
 * ``Close`` : Close current project.
 
-----------
 
 
 Project
@@ -49,7 +46,6 @@ Project
 * ``Project Code`` : Open :ref:`Project_Code<Project Code>` panel.
 * ``Refresh Page`` : Refresh current page. It can fix program error.
 
-----------
 
 
 View
@@ -67,7 +63,6 @@ View
 * ``Tracing`` : Show or hide tracing image on canvas.
 * ``Enter Full Screen`` : Switch to full screen.
 
-----------
 
 
 Window
@@ -82,7 +77,6 @@ Window
 * ``Manage Custom Widgets`` : Open :doc:`Manage Custom Widgets Panel<004_05_panel_manage_custom>`.
 * ``Log`` : Open log panel.
 
-----------
 
 
 Help

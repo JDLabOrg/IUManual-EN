@@ -7,14 +7,10 @@ Top Toolbar
 **Top Toolbar** contains :ref:`Command` / :ref:`Tab Menu` / :ref:`Stage` area.
 
 
-----------
-
-
-.. thumbnail:: resource_new/command.png
-
 
 Command
 ------------------------------
+.. thumbnail:: resource_new/command.png
 
 Command Area consists of project-level features.
 
@@ -23,10 +19,6 @@ Command Area consists of project-level features.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
 * ``Design / Develop / Prototype`` : Select Design Mode, :doc:`Develop Mode<003_01_advanced_dev>` or :doc:`Prototype Mode<003_02_advanced_proto>`.
 
-
-
-
-----------
 
 
 Tab Menu
@@ -73,14 +65,10 @@ Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Ove
 
 
 
-
+Stage
 ----------
 
 .. thumbnail:: resource_new/stage.png
-
-
-Stage
-----------
 
 * ``Tracing`` : Add virtual background image into your canvas, so that you can create design quickly.
 * ``Page Setting`` : Modify current page's **Page Width** and **Media Query**.
