@@ -1,7 +1,7 @@
 Project Code
 ==================
 
-When you click the **Project > Project Code (⇧⌘C)** button, Project Code panel will be shown.
+When you click the **Project > Project Code** :kbd:`⇧⌘C` button, Project Code panel will be shown.
 
 .. image:: resource/capture_window/panel_project_code.png
 
@@ -11,6 +11,7 @@ HTML
 ----------------
 
 .. code:: html
+
   <head>
      <!-- start : your code -->
      <!-- auto generated code by IUEditor -->
@@ -22,6 +23,7 @@ Back-end
 ---------------
 
 .. code:: html
+
   <!-- page head custom code for back-end : your code -->
   <!DOCTYPE html>
   <head>
