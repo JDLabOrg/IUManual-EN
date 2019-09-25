@@ -1,7 +1,7 @@
 Event Panel
 ====================
 
-When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like :ref:`Scroll Animator` or :ref:`Variable`.
+When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You can add events like `Scroll Animator`_ or `Variable`_ .
 
 
 
