@@ -2,7 +2,7 @@
 What is IUEditor?
 =================
 
-**IUEditor** is optimized to simplify the complex process of design and development.
+IUEditor is optimized to simplify the complex process of design and development.
 
 
 Advantages

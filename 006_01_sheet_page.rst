@@ -24,13 +24,10 @@ When you select the index page and click the **Property** button, Page Setting p
 
 
 
-Project Code
+Page Custom Code
 -----------------------
-.. _Project_Code:
 
-When you click the **Project > Project Code (⇧⌘C)** button, Project Code panel will be shown.
-
-.. image:: resource_new/sheet_page_code.png
+.. image:: resource_new/page_code.png
 
 * **Page Header Custom Code** : Add Custom Code in header of current page.
 * **Page Header Custom Code for Backend** : Add Custom Code for Backend in header of current page.
