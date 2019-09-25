@@ -3,7 +3,7 @@
 IUEditor Manual
 ===============
 
-.. image:: resource_new/index_hero_img.png
+.. image:: resource/capture_window/index_hero_img.png
 
 Welcome to **IUEditor** Manual.
 

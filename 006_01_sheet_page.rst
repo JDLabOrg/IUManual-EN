@@ -10,7 +10,7 @@ Page Setting
 
 When you select the index page and click the **Property** button, Page Setting properties will be shown.
 
-.. thumbnail:: resource_new/sheet_page.png
+.. thumbnail:: resource/capture_window/sheet_page.png
 
 * **Empty Layout** : Set **Empty (Page Content) Page Layout** .
 * **Header + Footer** : Set **Header + Page Content + Footer Page Layout** .
@@ -27,7 +27,7 @@ When you select the index page and click the **Property** button, Page Setting p
 Page Custom Code
 -----------------------
 
-.. image:: resource_new/page_code.png
+.. image:: resource/capture_window/page_code.png
 
 * **Page Header Custom Code** : Add Custom Code in header of current page.
 * **Page Header Custom Code for Backend** : Add Custom Code for Backend in header of current page.
@@ -43,7 +43,7 @@ Page
 
 .. image:: resource/widget/IUPage.png
 
-.. thumbnail:: resource_new/sheet_page_page.png
+.. thumbnail:: resource/capture_window/sheet_page_page.png
 IUPage is same as html document. You can change page structure in property tab.
 
 
@@ -53,7 +53,7 @@ Header
 
 .. image:: resource/widget/IUHeader.png
 
-.. thumbnail:: resource_new/sheet_page_header.png
+.. thumbnail:: resource/capture_window/sheet_page_header.png
 
 Header is placed top of page. Header can import **Header or another composition** .
 
@@ -73,7 +73,7 @@ Footer
 
 .. image:: resource/widget/IUFooter.png
 
-.. thumbnail:: resource_new/sheet_page_footer.png
+.. thumbnail:: resource/capture_window/sheet_page_footer.png
 
 Footer is placed bottom of page. Footer can import **Footer of another composition** .
 
@@ -102,7 +102,7 @@ Panel
 
 .. image:: resource/widget/IUPanel.png
 
-.. thumbnail:: resource_new/sheet_page_panel.png
+.. thumbnail:: resource/capture_window/sheet_page_panel.png
 
 You can add a panel by press [+] button of panel group.
 To call panel, create link with any widget and select link target to panel.
@@ -114,7 +114,7 @@ Popup
 
 .. image:: resource/widget/IUPopUp.png
 
-.. thumbnail:: resource_new/sheet_page_popup.png
+.. thumbnail:: resource/capture_window/sheet_page_popup.png
 
 You can add a popup by press [+] button of popup group.
 To call popup, create link with any widget and select link target to popup.

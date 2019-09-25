@@ -1,7 +1,7 @@
 Middle Toolbar
 ==============
 
-.. thumbnail:: resource_new/mid_toolbar.png
+.. thumbnail:: resource/capture_window/mid_toolbar.png
 
 Middle Toolbar is placed at the top of canvas and contains :ref:`Refresh` / :ref:`Position` / :ref:`Frame` / :ref:`Background-Color` / :doc:`Show/Hide Widget Button<002_04_basic_widget>` area.
 

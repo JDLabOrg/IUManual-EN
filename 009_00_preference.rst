@@ -8,7 +8,7 @@ Set IUEditor's service environment.
 General
 --------------------------
 
-.. image:: resource_new/preference_general.png
+.. image:: resource/capture_window/preference_general.png
 
 * ``Select Tab Menu`` : Show or hide tab menus from top toolbar.
 * ``Guide Line Color`` : Change guide line color. (View guideline : View > Guide ⌘;)
@@ -18,7 +18,7 @@ General
 Project
 --------------------------
 
-.. image:: resource_new/preference_project.png
+.. image:: resource/capture_window/preference_project.png
 
 * ``Project Save Option`` : Compress project's json file if 'Minimize Data' checkbox checked.
 * ``Compile Option``
@@ -34,4 +34,4 @@ Fonts
 
 Add new webfont into font list.
 
-.. image:: resource_new/preference_fonts.png
+.. image:: resource/capture_window/preference_fonts.png

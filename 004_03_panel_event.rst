@@ -8,7 +8,7 @@ When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You c
 Scroll Animator
 ---------------
 
-.. image:: resource_new/panel_event_scroll.png
+.. image:: resource/capture_window/panel_event_scroll.png
 
 Add Scroll Animator to animate widget by scrolling. When the target widget appear in the middle of browser, the selected value will transform from before to after.
 
@@ -21,7 +21,7 @@ Add Scroll Animator to animate widget by scrolling. When the target widget appea
 Variable
 ----------------
 
-.. image:: resource_new/panel_event_variable.png
+.. image:: resource/capture_window/panel_event_variable.png
 
 Add Variable to the selected widget.
 
@@ -41,7 +41,7 @@ Add Variable to the selected widget.
 Receiver
 -------------
 
-.. image:: resource_new/panel_event_receiver.png
+.. image:: resource/capture_window/panel_event_receiver.png
 
 Add Receiver Event to the selected widget. When **Equation** returns True, Receiver Event will be shown.
 

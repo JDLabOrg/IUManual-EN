@@ -7,7 +7,7 @@ Form
 
 .. image:: resource/widget/PGForm.png
 
-.. thumbnail:: resource_new/form.png
+.. thumbnail:: resource/capture_window/form.png
 
 Form widget is a container for programming widgets which is generated to :code:`<form>` tag.
 If you want to use programming widgets, you must to add Form widget in your project.
@@ -27,7 +27,7 @@ Input Text
 
 .. image:: resource/widget/PGTextField.png
 
-.. thumbnail:: resource_new/input_text.png
+.. thumbnail:: resource/capture_window/input_text.png
 
 Input Text widget is a textfield which is generated to :code:`<input>` tag (type : text).
 
@@ -46,7 +46,7 @@ Input Paragraph Text
 
 .. image:: resource/widget/PGTextView.png
 
-.. thumbnail:: resource_new/input_paragraph.png
+.. thumbnail:: resource/capture_window/input_paragraph.png
 
 Input Paragraph Text widget is a textfield which is generated to :code:`<textarea>` tag.
 
@@ -65,7 +65,7 @@ Select
 
 .. image:: resource/widget/PGSelect.png
 
-.. thumbnail:: resource_new/select.png
+.. thumbnail:: resource/capture_window/select.png
 
 Select widget is a select button which is generated to <select> tag.
 If you want to make select button, add this widget into Form widget.
@@ -85,7 +85,7 @@ HTML (Hyper Text Markup Language)
 
 .. image:: resource/widget/PGHTML.png
 
-.. thumbnail:: resource_new/html.png
+.. thumbnail:: resource/capture_window/html.png
 
 HTML widget is a code container which is generated to **custom html tag**
 (e.g. :code:`<style>`, :code:`<script>`, etc, ...). You can make custom widget
@@ -106,7 +106,7 @@ Collection
 
 .. image:: resource/widget/PGCollection.png
 
-.. thumbnail:: resource_new/collection.png
+.. thumbnail:: resource/capture_window/collection.png
 
 Collection widget can import multiple Composition widgets.
 If you want to make collection view with compositions,
@@ -127,7 +127,7 @@ Page Number Set
 
 .. image:: resource/widget/PGPageLinkSet.png
 
-.. thumbnail:: resource_new/page_numb.png
+.. thumbnail:: resource/capture_window/page_numb.png
 
 Page Number Set widget displays page links that usually placed bottom of Collection.
 
@@ -146,7 +146,7 @@ Checkbox
 
 .. image:: resource/widget/PGCheckBox.png
 
-.. thumbnail:: resource_new/checkbox.png
+.. thumbnail:: resource/capture_window/checkbox.png
 
 
 Checkbox widget displays checkbox which is generated to :code:`<input>` tag (type:checkbox).
@@ -166,7 +166,7 @@ Radio Button
 
 .. image:: resource/widget/PGRadioButton.png
 
-.. thumbnail:: resource_new/radio_btn.png
+.. thumbnail:: resource/capture_window/radio_btn.png
 
 Radio Button widget displays radio button which is generated to :code:`<input>` tag (type:radio).
 
@@ -185,7 +185,7 @@ Button
 
 .. image:: resource/widget/PGButton.png
 
-.. thumbnail:: resource_new/button.png
+.. thumbnail:: resource/capture_window/button.png
 
 Button widget displays button which is generated to :code:`<input>` tag (type:default / reset / submit).
 
@@ -204,7 +204,7 @@ File Upload
 
 .. image:: resource/widget/PGFileUpload.png
 
-.. thumbnail:: resource_new/file_upload.png
+.. thumbnail:: resource/capture_window/file_upload.png
 
 
 File Upload widget displays file upload interface which is generated :code:`<input>` tag (type:file).
@@ -224,7 +224,7 @@ Switch
 
 .. image:: resource/widget/PGSwitch.png
 
-.. thumbnail:: resource_new/switch.png
+.. thumbnail:: resource/capture_window/switch.png
 
 Switch widget displays toggle button which is generated
 to :code:`<input>` tag (type:checkbox), and contains two switch items.
@@ -244,7 +244,7 @@ Flip Switch
 
 .. image:: resource/widget/PGFlipSwitch.png
 
-.. thumbnail:: resource_new/flip_switch.png
+.. thumbnail:: resource/capture_window/flip_switch.png
 
 Flip Switch widget displays sliding switch which is generated to :code:`<input>` tag (type:checkbox).
 
@@ -263,7 +263,7 @@ Slider
 
 .. image:: resource/widget/PGSlide.png
 
-.. thumbnail:: resource_new/slider.png
+.. thumbnail:: resource/capture_window/slider.png
 
 Slider widget displays slider interface.
 You can change value by dragging slide pointer.
@@ -284,7 +284,7 @@ Range Slider
 
 .. image:: resource/widget/PGRangeSlide.png
 
-.. thumbnail:: resource_new/range_slider.png
+.. thumbnail:: resource/capture_window/range_slider.png
 
 
 Range Slider widget displays range slider interface.

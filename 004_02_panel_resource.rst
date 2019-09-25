@@ -8,7 +8,7 @@ When you run **Window > Resource (⇧⌘R)** menu, Resource Panel will be shown.
 .. note :: Supported Video File Types : mp4, ogg, webm
 
 
-.. image:: resource_new/panel_resource.png
+.. image:: resource/capture_window/panel_resource.png
 
 
 * ``Import Resource Button`` : Import resources from the local disk.

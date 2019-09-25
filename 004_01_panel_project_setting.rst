@@ -8,7 +8,7 @@ When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** w
 Default
 ------------
 
-.. thumbnail:: resource_new/proj_setting_default.png
+.. thumbnail:: resource/capture_window/proj_setting_default.png
 
 * ``Project Title`` : Add the title of the project.
 * ``Favicon`` : Add favicon image (Favicon image resource is required).
@@ -21,7 +21,7 @@ Default
 Meta
 ------------
 
-.. thumbnail:: resource_new/proj_setting_meta.png
+.. thumbnail:: resource/capture_window/proj_setting_meta.png
 
 * ``Meta Image`` : Add Meta Image for meta-data. (URL)
 * ``Author`` : Add Author name for meta-data.
@@ -37,7 +37,7 @@ Meta
 Build
 ------------
 
-.. thumbnail:: resource_new/proj_setting_build.png
+.. thumbnail:: resource/capture_window/proj_setting_build.png
 
 * ``Build Path`` : Set Build path for built files.
 * ``Build Resource Path`` : Set Build Resource Path for built resource files.
@@ -52,7 +52,7 @@ Build
 Django
 ------------
 
-.. thumbnail:: resource_new/proj_setting_django.png
+.. thumbnail:: resource/capture_window/proj_setting_django.png
 
 .. note :: Django tab is available on :ref:`Django Project<Django_Project>`.
 

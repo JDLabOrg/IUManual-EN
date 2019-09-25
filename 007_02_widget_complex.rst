@@ -8,7 +8,7 @@ Transition
 
 .. image:: resource/widget/IUTransition.png
 
-.. thumbnail:: resource_new/transition.png
+.. thumbnail:: resource/capture_window/transition.png
 
 Transition widget has two transition items. When mouse action triggered,
 transition item will change from item 1 to item 2.
@@ -30,7 +30,7 @@ Carousel
 
 .. image:: resource/widget/IUCarousel.png
 
-.. thumbnail:: resource_new/carousel.png
+.. thumbnail:: resource/capture_window/carousel.png
 
 Carousel widget has multiple carousel items.
 You can simply make carousel interface with carousel widget.
@@ -51,7 +51,7 @@ Google Map
 
 .. image:: resource/widget/IUGoogleMap.png
 
-.. thumbnail:: resource_new/google_map.png
+.. thumbnail:: resource/capture_window/google_map.png
 
 Google Map widget represents google map element. You can input **Map location** wherever you want.
 
@@ -74,7 +74,7 @@ Web Movie
 
 .. image:: resource/widget/IUWebMovie.png
 
-.. thumbnail:: resource_new/vimeo_youtube.png
+.. thumbnail:: resource/capture_window/vimeo_youtube.png
 
 Web Movie widget supports Youtube or Vimeo. You can use Web Movie widget with **Short-Links** :
 
@@ -96,7 +96,7 @@ Video Clip
 
 .. image:: resource/widget/IUMovie.png
 
-.. thumbnail:: resource_new/video_clip.png
+.. thumbnail:: resource/capture_window/video_clip.png
 
 Video Clip widget supports MP4. You can input videos from Resource panel.
 
@@ -115,7 +115,7 @@ Table
 
 .. image:: resource/widget/IUTable.png
 
-.. thumbnail:: resource_new/table.png
+.. thumbnail:: resource/capture_window/table.png
 
 Table widget can add simple table on canvas.
 
@@ -136,7 +136,7 @@ Table widget can add simple table on canvas.
 Simple Tab View
 ----------
 
-.. thumbnail:: resource_new/simple_tab_view.png
+.. thumbnail:: resource/capture_window/simple_tab_view.png
 
 Simple Tab View widget has more simple structure than Tab View widget .
 
@@ -155,7 +155,7 @@ Tab View
 
 .. image:: resource/widget/IUTabView.png
 
-.. thumbnail:: resource_new/tab_view.png
+.. thumbnail:: resource/capture_window/tab_view.png
 
 Tab View widget has multiple **Tabs** .
 
@@ -173,7 +173,7 @@ Collapsible
 
 .. image:: resource/widget/IUCollapsible.png
 
-.. thumbnail:: resource_new/collapsible.png
+.. thumbnail:: resource/capture_window/collapsible.png
 
 Collapsible widget has two item (Header and Content).
 When you triggered mouse action on Collapsible widget, Content item will be appeared.
@@ -194,7 +194,7 @@ Import
 
 .. image:: resource/widget/IUImport.png
 
-.. thumbnail:: resource_new/import.png
+.. thumbnail:: resource/capture_window/import.png
 
 
 Import widget can import **Composition** .
@@ -215,7 +215,7 @@ Tweet Share Button
 
 .. image:: resource/widget/IUTweetButton.png
 
-.. thumbnail:: resource_new/twt_share.png
+.. thumbnail:: resource/capture_window/twt_share.png
 
 With Tweet Share Button widget, you can add **Share to Tweeter Button** in your project. (No Resize)
 
@@ -234,7 +234,7 @@ Facebook Like Button
 
 .. image:: resource/widget/IUFBLike.png
 
-.. thumbnail:: resource_new/fb_like.png
+.. thumbnail:: resource/capture_window/fb_like.png
 
 With Facebook Like Button widget,
 you can add **Share to Facebook Button** in your project. (No Resize)
@@ -254,7 +254,7 @@ Centered Box
 
 .. image:: resource/widget/IUCenterBox.png
 
-.. thumbnail:: resource_new/center_box.png
+.. thumbnail:: resource/capture_window/center_box.png
 
 Centered Box widget makes horizontal centered layout to Section.
 Centered Box widget is added into section automatically,
@@ -275,7 +275,7 @@ Progress Bar
 
 .. image:: resource/widget/IUProgressBar.png
 
-.. thumbnail:: resource_new/progress_bar.png
+.. thumbnail:: resource/capture_window/progress_bar.png
 
 
 Progress Bar widget displays a progress bar.
@@ -296,7 +296,7 @@ SVG (Scalable Vector Graphics)
 
 .. image:: resource/widget/IUSVG.png
 
-.. thumbnail:: resource_new/svg.png
+.. thumbnail:: resource/capture_window/svg.png
 
 SVG widget displays Scalable Vector Graphics.
 You can select simple SVG form, or input custom :code:`<svg>` code whatever you want.

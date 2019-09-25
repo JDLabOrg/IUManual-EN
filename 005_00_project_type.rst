@@ -10,7 +10,7 @@ Default Project
 Default Project is a Static Project which is not connected with any back-end framework. You can select Default Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
-.. image:: resource/iu_manual_project_new_default.png
+.. image:: resource/capture_window/project_type_default.png
 
 
 * ``Empty Page (Header / Footer)`` : Create new project with **Empty Page (Header / Page Content / Footer)**
@@ -37,7 +37,7 @@ Django Project
 Django Project is a Dynamic Project which can be connected with Django as back-end framework. You can select Django Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
-.. image:: resource/iu_manual_project_new_django.png
+.. image:: resource/capture_window/project_type_django.png
 
 
 
@@ -47,4 +47,4 @@ AngularJS Project
 AngularJS Project is a Dynamic Project which can be connected with AngularJS as back-end framework. You can select AngularJS Project in **New Project Popup** (which pops up when you run **File > New Project (⌘N)** menu)
 
 
-.. image:: resource/iu_manual_project_new_angularjs.png
+.. image:: resource/capture_window/project_type_angular.png

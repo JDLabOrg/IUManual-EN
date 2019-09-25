@@ -8,7 +8,7 @@ You can open Export Widget Panel from the left side of the canvas:
 * Right-click composition in compositions
 
 
-.. thumbnail:: resource_new/panel_export_widget.png
+.. thumbnail:: resource/capture_window/panel_export_widget.png
 
 
 * ``Customize Viewport Size`` : Resize viewport size of the custom widget.

@@ -4,7 +4,7 @@ Manage Custom Widget Panel
 When you run **Window > Manage Custom Widgets (⇧⌘W)** menu, Manage Custom Widgets Panel will be shown. You can import Custom Widgets, Compositions and Pages into this panel. This panel supports Grid / Table view in Widget list. You can open and close widget information area with toggle button next to the search box.
 
 
-.. image:: resource_new/panel_manage_widget.png
+.. image:: resource/capture_window/panel_manage_widget.png
 
 Top Bar
 ----------------------------

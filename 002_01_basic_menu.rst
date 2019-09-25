@@ -1,7 +1,7 @@
 Menu
 ==========================
 
-.. image:: resource_new/mac_menu_bar_blk.png
+.. image:: resource/capture_window/mac_menu_bar_blk.png
 
 Description about IUEditor Menu Bar
 
@@ -10,7 +10,7 @@ Description about IUEditor Menu Bar
 IUEditor
 ----------------------------
 
-.. image:: resource_new/iueditor.png
+.. image:: resource/capture_window/iueditor.png
 
 
 * ``About IUEditor`` : Show IUEditor's version info.
@@ -21,7 +21,7 @@ IUEditor
 File
 ----------------------------
 
-.. image:: resource_new/file.png
+.. image:: resource/capture_window/file.png
 
 
 * ``New Project`` : Open New Project window.
@@ -36,7 +36,7 @@ File
 Project
 ----------------------------
 
-.. image:: resource_new/project.png
+.. image:: resource/capture_window/project.png
 
 
 * ``Build`` : Generate HTML & CSS & JS files based on IU Project.
@@ -51,7 +51,7 @@ Project
 View
 ----------------------------
 
-.. image:: resource_new/view.png
+.. image:: resource/capture_window/view.png
 
 * ``Show Tab Bar`` : Show the tab bar.
 * ``Show All Tabs`` : Show the entire tab.
@@ -68,7 +68,7 @@ View
 Window
 ----------------------------
 
-.. image:: resource_new/window.png
+.. image:: resource/capture_window/window.png
 
 
 * ``Event`` : Open :doc:`Event panel<004_03_panel_event>`.
@@ -82,7 +82,7 @@ Window
 Help
 ----------------------------
 
-.. image:: resource_new/help.png
+.. image:: resource/capture_window/help.png
 
 
 * ``Search`` : Search IUEditor function.

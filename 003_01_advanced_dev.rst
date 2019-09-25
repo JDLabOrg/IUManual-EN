@@ -1,7 +1,7 @@
 Developer Mode
 =======================
 
-.. thumbnail:: resource_new/advanced_dev.png
+.. thumbnail:: resource/capture_window/advanced_dev.png
 
 From the toolbar at the top, you can switch to **Developer Mode** by clicking ``Mode Switching Button``.
 
