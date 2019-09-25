@@ -18,5 +18,5 @@ Values
 * IUEditor enables your team or company to ship products early, so you can adopt a lean process and iterate to build a better product or website.
 
 More ...
-------
+---------
 * You can check javascript manual on http://cdn.iueditor.org/js/readme.html
