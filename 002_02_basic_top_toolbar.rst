@@ -4,9 +4,10 @@ Top Toolbar
 
 .. thumbnail:: resource/capture_window/top_toolbar.png
 
-**Top Toolbar** contains :ref:`Command` / :ref:`Tab Menu` / :ref:`Stage` area.
+**Top Toolbar** contains :ref:`Command` / :ref:`Tab_Menu` / :ref:`Stage` area.
 
 
+.. _Command:
 
 Command
 ------------------------------
@@ -63,6 +64,7 @@ Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Ove
 * ``Link Tab`` : In Link Tab, you can add **Hyperlink** to a certain widget.
 
 
+.. _Stage:
 
 Stage
 ----------
