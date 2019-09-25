@@ -27,7 +27,7 @@ Custom Widget
 In CUSTOM WIDGETS tab, custom widgets imported by **Import Button** (Window> Manage Custom Widgets) will be shown. The widgets can be divided into customized widget groups. You can add custom widgets on canvas by **drag and drop** or **double clicking** the widget. You can check the detailed information of a widget by **right-clicking** it. All the information of custom widgets can be edited at ``Manage Custom Widget`` window.
 
 
-* ``Refresh Button`` : Updates custom widget library.
+* ``Refresh Button`` : Update custom widget library.
 * ``Search Field`` : Search custom widget library by name or tag.
 * ``Zoom in/Zoom out Button`` : Zoom in or out custom widget library.
 

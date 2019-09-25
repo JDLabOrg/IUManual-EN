@@ -12,7 +12,7 @@ Definitions of words which used in this documents.
 Build
 ----------------------------
 
-Generates HTML & CSS & JS files based on IU Project.
+Generate HTML & CSS & JS files based on IU Project.
 
 
 ----------

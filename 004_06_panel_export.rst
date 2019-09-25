@@ -11,11 +11,11 @@ You can open Export Widget Panel from the left side of the canvas:
 .. thumbnail:: resource_new/panel_export_widget.png
 
 
-* ``Customize Viewport Size`` : Resizes viewport size of the custom widget.
-* ``Name`` : Sets name of custom widget.
-* ``New Group`` : Sets the group of the custom widget.
-* ``Export Directory`` : Sets the export directory of the custom widget.
-* ``Description`` : Adds descriptions to the custom widget.
+* ``Customize Viewport Size`` : Resize viewport size of the custom widget.
+* ``Name`` : Set name of custom widget.
+* ``New Group`` : Set the group of the custom widget.
+* ``Export Directory`` : Set the export directory of the custom widget.
+* ``Description`` : Add descriptions to the custom widget.
 
 
 ----------

@@ -40,8 +40,6 @@ You can download **IUEditor** from website below.
 
    003_01_advanced_dev
    003_02_advanced_proto
-   advanced_heroku
-   advanced_server
 
 .. toctree::
    :maxdepth: 2
@@ -59,12 +57,6 @@ You can download **IUEditor** from website below.
    :caption: Project Type
 
    005_00_project_type
-   wordpress_basic_use
-   wordpress_site_information
-   wordpress_article
-   wordpress_category
-   wordpress_comment
-   wordpress_etc
 
 .. toctree::
    :maxdepth: 2
@@ -80,7 +72,6 @@ You can download **IUEditor** from website below.
    007_01_widget_basic
    007_02_widget_complex
    007_03_widget_programming
-   widget_wordpress
 
 .. toctree::
    :maxdepth: 2

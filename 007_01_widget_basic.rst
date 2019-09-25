@@ -10,7 +10,7 @@ Box
 
 .. thumbnail:: resource_new/box.png
 
-Box widget is a fundamental widget which is generated to :code:`<div>` tag. Mostly, Box widget is used to set layout and to group children widgets.
+Box widget is a basic widget which is generated to :code:`<div>` tag. Mostly, Box widget is used to set layout and to group children widgets.
 
 
 **Property**

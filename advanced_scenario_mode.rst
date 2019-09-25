@@ -19,7 +19,7 @@ Revision History
 .. image:: resource/scenario/ic_SB_revision.png
 
 
-Displays **Revision History** about the current project. You can add or change the history.
+Display **Revision History** about the current project. You can add or change the history.
 
 ----------
 
@@ -28,7 +28,7 @@ Project Workflow
 
 .. image:: resource/scenario/ic_SB_workflow.png
 
-Displays **Workflow (Page Links)** about the current project.
+Display **Workflow (Page Links)** about the current project.
 
 
 ----------
@@ -38,4 +38,4 @@ Screen Definition
 
 .. image:: resource/scenario/ic_SB_screen.png
 
-Displays **Screen Definition** about the selected page. You can add or change content in screen description or exception area.
+Display **Screen Definition** about the selected page. You can add or change content in screen description or exception area.

@@ -11,14 +11,14 @@ When you run **Window > Resource (⇧⌘R)** menu, Resource Panel will be shown.
 .. image:: resource_new/panel_resource.png
 
 
-* ``Import Resource Button`` : Imports resources from the local disk.
-* ``Resource Type Select Button`` : Sorts out files in Resource Panel by file type.
-* ``Add New Folder Button`` : Adds a new folder.
-* ``Delete Button`` : Deletes the selected file(s) or folder(s).
+* ``Import Resource Button`` : Import resources from the local disk.
+* ``Resource Type Select Button`` : Sort out files in Resource Panel by file type.
+* ``Add New Folder Button`` : Add a new folder.
+* ``Delete Button`` : Delete the selected file(s) or folder(s).
 
 
 Resource Management Tips
 ----------------------------
 
 * You can create groups and reorder files in resources.
-* You can insert image resources to widget by drag & drop into :ref:`Image Widget<Image_Widget>`.
+* You can insert an image to widget by drag & drop into :ref:`Image Widget<Image_Widget>`.

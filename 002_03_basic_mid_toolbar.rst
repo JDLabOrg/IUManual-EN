@@ -3,17 +3,17 @@ Middle Toolbar
 
 .. thumbnail:: resource_new/mid_toolbar.png
 
-Middle Toolbar is placed at the top of canvas and contains :ref:`Page Capture` / :ref:`Position` / :ref:`Frame` / :ref:`Background-Color` / :doc:`Show/Hide Widget Button<002_04_basic_widget>` area.
+Middle Toolbar is placed at the top of canvas and contains :ref:`Refresh` / :ref:`Position` / :ref:`Frame` / :ref:`Background-Color` / :doc:`Show/Hide Widget Button<002_04_basic_widget>` area.
 
 
 ----------
 
 
 
-Page Capture
+Refresh
 -------
 
-Captures the current page and adds custom thumbnail in **Prototype Mode**.
+Refresh current canvas.
 
 
 ----------
@@ -28,7 +28,7 @@ Position area consists of **Position/ Align options/ Input fields/ Stepper for X
 
 * ``Position`` : Select position from select - **Absolute/ Relative/ Fixed**.
 * ``Sub Position`` : Select sub position from select.
-* ``Align Button`` : Consists of **align vertical center** and **align horizontal center** buttons and **align multiple element** button.
+* ``Align Button`` : Consist of **align vertical center** and **align horizontal center** buttons and **align multiple element** button.
 * ``Position Setting Popup (Down Arrow)`` : You can change **fixed center position, overflow, z-index** properties.
 * ``X position input field & stepper`` : You can change **X** value by typing value into text field or clicking stepper. (px or %)
 * ``Y position input field & stepper`` : You can change **Y** value by typing value into text field or clicking stepper. (px or %)

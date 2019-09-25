@@ -10,9 +10,9 @@ Shortcut
 Project Management
 ----------------------------
 
-* ``Project Setting`` :kbd:`Shift+Cmd+P` : Opens Project Setting panel.
-* ``Refresh`` :kbd:`Shift+Cmd+F` : Refreshes current page.
-* ``Import Custom Widget`` :kbd:`Shift+Cmd+W` : Opens Custom Widget Panel.
+* ``Project Setting`` :kbd:`Shift+Cmd+P` : Open Project Setting panel.
+* ``Refresh`` :kbd:`Shift+Cmd+F` : Refresh current page.
+* ``Import Custom Widget`` :kbd:`Shift+Cmd+W` : Open Custom Widget Panel.
 
 ----------
 
@@ -59,9 +59,9 @@ View Management
 * ``Zoom In`` :kbd:`Cmd+ +` : Zoom In stage.
 * ``Zoom Out`` :kbd:`Cmd+ -` : Zoom Out stage.
 * ``Widget Panel`` :kbd:`Cmd+Return` : Show and Hide Widget panel.
-* ``Event Panel`` :kbd:`Shift+Cmd+E` : Opens Event panel.
-* ``Resource Panel`` :kbd:`Shift+Cmd+R` : Opens Resource panel.
-* ``Memo`` :kbd:`Shift+Cmd+M` : Opens Memo panel.
+* ``Event Panel`` :kbd:`Shift+Cmd+E` : Open Event panel.
+* ``Resource Panel`` :kbd:`Shift+Cmd+R` : Open Resource panel.
+* ``Memo`` :kbd:`Shift+Cmd+M` : Open Memo panel.
 
 
 ----------

@@ -33,9 +33,9 @@ Page
 Page tab shows the list of pages/groups included in the current project. You can **add, remove, and rename pages/groups**.
 
 
-* ``Add New Custom Page Button`` : Adds a new custom page.
-* ``Add New Page Button`` : Adds a new page.
-* ``Add New Group Button`` : Adds a new group.
+* ``Add New Custom Page Button`` : Add a new custom page.
+* ``Add New Page Button`` : Add a new page.
+* ``Add New Group Button`` : Add a new group.
 * ``Delete Button`` : Delete the selected page or group.
 
 
@@ -49,9 +49,9 @@ Composition
 
 Composition tab shows the design compositions of the current project. You can **add, remove, and rename composition & group**.
 
-* ``Add New Custom Composition Button`` : Adds a new custom composition.
-* ``Add New Composition Button`` : Adds a new composition.
-* ``Add New Group Button`` : Adds a new group.
+* ``Add New Custom Composition Button`` : Add a new custom composition.
+* ``Add New Composition Button`` : Add a new composition.
+* ``Add New Group Button`` : Add a new group.
 * ``Delete Button`` : Delete the selected composition or group.
 
 

@@ -12,11 +12,11 @@ When you run **Window > Event (⇧⌘E)** menu, Event Panel will be shown. You c
 Scroll Animator
 ---------------
 
-Adds Scroll Animator to animate widget by scrolling. When the target widget appear in the middle of browser, the selected value will transform from before to after.
+Add Scroll Animator to animate widget by scrolling. When the target widget appear in the middle of browser, the selected value will transform from before to after.
 
-* ``X-Position`` : Adds Scroll Animator to X-Position.
-* ``Y-Position`` : Adds Scroll Animator to Y-Position.
-* ``Opacity`` : Adds Scroll Animator to Opacity.
+* ``X-Position`` : Add Scroll Animator to X-Position.
+* ``Y-Position`` : Add Scroll Animator to Y-Position.
+* ``Opacity`` : Add Scroll Animator to Opacity.
 
 
 
@@ -27,14 +27,14 @@ Adds Scroll Animator to animate widget by scrolling. When the target widget appe
 Variable
 ----------------
 
-Adds Variable to the selected widget.
+Add Variable to the selected widget.
 
 
-* ``Variable Name`` : Shows Variable list in your project.
+* ``Variable Name`` : Show Variable list in your project.
 
-* ``Triggered Widget`` : Shows Triggered widget list according to the selected variable.
+* ``Triggered Widget`` : Show Triggered widget list according to the selected variable.
 
-* ``New Variable Name`` : Adds a new variable name.
+* ``New Variable Name`` : Add a new variable name.
 
 * ``Value Count`` : Set Default & Maximum value to the variable.
 
@@ -48,12 +48,12 @@ Adds Variable to the selected widget.
 Receiver
 -------------
 
-Adds Receiver Event to the selected widget. When **Equation** returns True, Receiver Event will be shown.
+Add Receiver Event to the selected widget. When **Equation** returns True, Receiver Event will be shown.
 
 
-* ``Variable Name`` : Shows the list of variables that have Receiver Event.
+* ``Variable Name`` : Show the list of variables that have Receiver Event.
 
-* ``Receiver Widget`` : Shows the list of Receiver Widget according to the selected variable.
+* ``Receiver Widget`` : Show the list of Receiver Widget according to the selected variable.
 
 * ``Equation`` : Set Equation case. (e.g. Sample Variable = 1)
 

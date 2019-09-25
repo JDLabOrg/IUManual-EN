@@ -42,11 +42,11 @@ Project
 .. image:: resource_new/project.png
 
 
-* ``Build`` : Generates HTML & CSS & JS files based on IU Project.
+* ``Build`` : Generate HTML & CSS & JS files based on IU Project.
 * ``Build Clean`` : Clean build data. It can fix program error.
 * ``Stop`` : Stop the build.
-* ``Project Setting`` : Opens :doc:`Project Setting<004_01_panel_project_setting>` panel.
-* ``Project Code`` : Opens :ref:`Project_Code<Project Code>` panel.
+* ``Project Setting`` : Open :doc:`Project Setting<004_01_panel_project_setting>` panel.
+* ``Project Code`` : Open :ref:`Project_Code<Project Code>` panel.
 * ``Refresh Page`` : Refresh current page. It can fix program error.
 
 ----------
@@ -94,4 +94,4 @@ Help
 * ``Search`` : Search IUEditor function.
 * ``Documentation`` : Open IUEditor Manual page in the browser.
 * ``Ask IUEditor`` : Go to the webpage to ask questions about the program.
-* ``Acknowledgements`` : Shows information about the APIs used in the program.
+* ``Acknowledgements`` : Show information about the APIs used in the program.

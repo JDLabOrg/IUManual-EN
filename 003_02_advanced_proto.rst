@@ -39,6 +39,7 @@ Display **Workflow** of the current project. Users can add nodes by drag and dro
 
 
 .. thumbnail:: resource_new/advanced_proto_workflow.png
+
 * ``Rectangle Button`` : Add a square dialog below the selected node.
 * ``Rhombus Button`` : Add a diamond dialog below the selected node.
 

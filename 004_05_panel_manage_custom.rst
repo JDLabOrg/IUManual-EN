@@ -16,7 +16,7 @@ Top Bar
 * ``Page Tab`` : Manage imported custom page. Import custom page with **import button**.
 * ``Composition Tab`` : Manage imported custom composition. Import custom composition with **import button**.
 * ``Widget Information Toggle Button`` : Show or hide :ref:`Custom Widget Information` area.
-* ``Search Bar`` : Searches by custom widget name.
+* ``Search Bar`` : Search by custom widget name.
 
 
 ----------
@@ -37,9 +37,9 @@ Custom Widget List
 
 Custom Widget List is placed at the center of the panel.
 
-* ``Import`` : Imports custom widget file. (iuw)
-* ``Refresh`` : Refreshes current widget list.
-* ``Open Folder`` : Opens custom widget folder.
+* ``Import`` : Import custom widget file. (iuw)
+* ``Refresh`` : Refresh current widget list.
+* ``Open Folder`` : Open custom widget folder.
 
 
 ----------
@@ -50,9 +50,9 @@ Custom Widget Information
 
 Custom Widget Info is placed at the right side of the panel.
 
-* ``Preview`` : Shows the preview of the selected custom widget.
+* ``Preview`` : Show the preview of the selected custom widget.
 * ``Zoom In / Out`` : Zoom In or Out on the preview.
-* ``Name`` : Displays the name of the selected custom widget.
-* ``Group`` : Displays the group of the selected custom widget.
-* ``Tag`` : Displays the list of tags added to custom widgets.
-* ``Description`` : Displays the description of the selected custom widget.
+* ``Name`` : Display the name of the selected custom widget.
+* ``Group`` : Display the group of the selected custom widget.
+* ``Tag`` : Display the list of tags added to custom widgets.
+* ``Description`` : Display the description of the selected custom widget.

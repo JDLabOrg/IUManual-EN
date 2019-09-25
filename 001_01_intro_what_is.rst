@@ -9,13 +9,13 @@ Advantages
 ----------
 
 * IUEditor is a GUI-based program which allows users to design a prototype without any coding.
-* Also, IUEditor allows users to develop a product or a website that supports multi-screen devices with just one IU project file.
+* IUEditor allows users to develop a product or a website that supports multi-screen devices with just one IU project file.
 * IUEditor is integrated via backend layers such as python.
 
 Values
 ------
 * IUEditor enables designers to work together with developers without publishers so that your team or company can save cost and time.
-* Furthermore, IUEditor enables your team or company to ship products early, so you can adopt a lean process and iterate to build a better product or website.
+* IUEditor enables your team or company to ship products early, so you can adopt a lean process and iterate to build a better product or website.
 
 More ...
 ------

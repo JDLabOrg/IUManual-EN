@@ -18,10 +18,10 @@ Command
 
 Command Area consists of project-level features.
 
-* ``Build Button`` : Generates HTML & CSS & JS files based on IU Project.
-* ``Server Stop Button`` : Stops the local host server.
+* ``Build Button`` : Generate HTML & CSS & JS files based on IU Project.
+* ``Server Stop Button`` : Stop the local host server.
 * ``Select Build-Type Button`` : Select Build-Type to Build. (HTML or Django)
-* ``Scenario / Edit Mode Toggle Button`` : Switches Edit Mode to:doc:`Scenario Mode<advanced_scenario_mode>` and vice versa.
+* ``Scenario / Edit Mode Toggle Button`` : Switche Edit Mode to:doc:`Scenario Mode<advanced_scenario_mode>` and vice versa.
 
 
 
@@ -82,6 +82,6 @@ Tab Menu area consists of 6 tabs - **Style/ Property/ Text/ Transform/ Mouse-Ove
 Stage
 ----------
 
-* ``Tracing`` : Adds virtual background image into your canvas, so that you can create design quickly.
-* ``Page Setting`` : Modifies current page's **Page Width** and **Media Query**.
-* ``Zoom`` : Applies Zoom-In / Out to IUEditor's canvas.
+* ``Tracing`` : Add virtual background image into your canvas, so that you can create design quickly.
+* ``Page Setting`` : Modify current page's **Page Width** and **Media Query**.
+* ``Zoom`` : Apply Zoom-In / Zoom-Out to IUEditor's canvas.

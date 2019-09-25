@@ -11,9 +11,9 @@ When you run **Project > Project Setting (⇧⌘P)** menu, **Project Setting** w
 Default
 ------------
 
-* ``Project Title`` : Adds the title of the project.
-* ``Favicon`` : Adds favicon image (Favicon image resource is required).
-* ``Custom Header Code`` : Adds custom code which will be applied to each page of the current project.
+* ``Project Title`` : Add the title of the project.
+* ``Favicon`` : Add favicon image (Favicon image resource is required).
+* ``Custom Header Code`` : Add custom code which will be applied to each page of the current project.
 
 .. note :: After creation of a new project, Project Default Width cannot be changed.
 
@@ -27,13 +27,13 @@ Meta
 ------------
 
 
-* ``Meta Image`` : Adds Meta Image for meta-data. (URL)
-* ``Author`` : Adds Author name for meta-data.
-* ``Project URL`` : Adds Project URL for meta-data.
-* ``Project Keywords`` : Adds Project Keywords for meta-data. (Multiple keywords are available)
-* ``Project Description`` : Adds Project Description for meta-data.
-* ``Facebook Admin`` : Adds Facebook Admin ID for meta-data.
-* ``Facebook App ID`` : Adds Facebook App ID for meta-data.
+* ``Meta Image`` : Add Meta Image for meta-data. (URL)
+* ``Author`` : Add Author name for meta-data.
+* ``Project URL`` : Add Project URL for meta-data.
+* ``Project Keywords`` : Add Project Keywords for meta-data. (Multiple keywords are available)
+* ``Project Description`` : Add Project Description for meta-data.
+* ``Facebook Admin`` : Add Facebook Admin ID for meta-data.
+* ``Facebook App ID`` : Add Facebook App ID for meta-data.
 
 
 ------------
