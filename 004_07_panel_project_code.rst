@@ -1,6 +1,5 @@
-Projcet Code
-==========
-.. _Project_Code:
+Project Code
+==================
 
 When you click the **Project > Project Code (⇧⌘C)** button, Project Code panel will be shown.
 

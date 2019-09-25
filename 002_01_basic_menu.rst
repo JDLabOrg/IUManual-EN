@@ -43,7 +43,7 @@ Project
 * ``Build Clean`` : Clean build data. It can fix program error.
 * ``Stop`` : Stop the build.
 * ``Project Setting`` : Open :doc:`Project Setting<004_01_panel_project_setting>` panel.
-* ``Project Code`` : Open :ref:`Project_Code<Project Code>` panel.
+* ``Project Code`` : Open :doc:`Project Code<004_07_panel_project_code>` panel.
 * ``Refresh Page`` : Refresh current page. It can fix program error.
 
 

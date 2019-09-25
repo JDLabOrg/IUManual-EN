@@ -1,8 +1,8 @@
 Complex Widget
-============
+===========================
 
 Transition
-----------
+-------------------------
 
 .. image:: resource/widget/IUTransition.png
 

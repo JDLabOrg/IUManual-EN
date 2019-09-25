@@ -45,6 +45,7 @@ You can download **IUEditor** from website below.
    :caption: Panel
 
    004_01_panel_project_setting
+   004_07_panel_project_code
    004_02_panel_resource
    004_03_panel_event
    004_04_panel_memo
