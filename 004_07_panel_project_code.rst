@@ -10,7 +10,7 @@ You can add your code to all pages.
 HTML
 ----------------
 
-.. code:: html
+.. code-block:: html
   :emphasize-lines: 2,4
   :linenos:
 
